@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 400" width="1920" height="400">
+  <defs>
+    <pattern id="linenTexture" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#f8f6f2"/>
+      <rect width="1" height="1" x="0" y="0" fill="rgba(0,0,0,0.01)"/>
+      <rect width="1" height="1" x="2" y="2" fill="rgba(0,0,0,0.01)"/>
+    </pattern>
+  </defs>
+  <rect width="1920" height="400" fill="url(#linenTexture)"/>
+  <!-- Top gold accent -->
+  <line x1="0" y1="0" x2="1920" y2="0" stroke="#b8944c" stroke-width="1" opacity="0.15"/>
+  <!-- Bottom gold accent -->
+  <line x1="0" y1="399" x2="1920" y2="399" stroke="#b8944c" stroke-width="1" opacity="0.15"/>
+</svg>

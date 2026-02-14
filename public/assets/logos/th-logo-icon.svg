@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Diamond shape -->
+  <rect x="29.3" y="29.3" width="141.4" height="141.4" rx="4" transform="rotate(45 100 100)" fill="#263B6A"/>
+  <!-- Letters 'th' in elegant script style -->
+  <text x="100" y="125" text-anchor="middle" font-family="'Playfair Display', 'Georgia', serif" font-size="90" font-style="italic" font-weight="400" fill="white" letter-spacing="-2">th</text>
+</svg>
