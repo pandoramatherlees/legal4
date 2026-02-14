@@ -1,12 +1,48 @@
-'use client';
 import { CheckCircle2 } from 'lucide-react';
 import { Hero, SectionWrap, SectionHeading, CtaBanner, ReviewedNote } from '@/components/atoms';
+import StructuredData from '@/components/structured-data';
+import { buildFaqSchema } from '@/data/structured-data';
+
+export const metadata = {
+  title: 'Spouse & Partner Visas',
+  description:
+    'Expert advice on UK spouse and partner visa applications, extensions and settlement. Supporting families and partners navigating UK immigration.',
+  alternates: {
+    canonical: 'https://immigration.taylorhampton.co.uk/spouse',
+  },
+  openGraph: {
+    title: 'Spouse & Partner Visas | Taylor Hampton Solicitors',
+    description:
+      'Expert advice on UK spouse and partner visa applications, extensions and settlement.',
+    url: 'https://immigration.taylorhampton.co.uk/spouse',
+  },
+};
+
+const SPOUSE_FAQ = [
+  {
+    question: 'What is the UK spouse visa financial requirement?',
+    answer:
+      'Applicants must meet a minimum income threshold to qualify for a UK spouse visa. Taylor Hampton advises on how the financial requirement is assessed and the evidence needed to satisfy it.',
+  },
+  {
+    question: 'Can I apply for a spouse visa from within the UK?',
+    answer:
+      'Yes. Both in-country and overseas applications are possible depending on your current immigration status. We manage both types of application.',
+  },
+  {
+    question: 'How long does it take to get settlement on a spouse visa?',
+    answer:
+      'The spouse visa route leads to settlement (Indefinite Leave to Remain) after a qualifying period, typically five years.',
+  },
+];
 
 export default function SpousePage() {
   return (
     <>
+      <StructuredData data={buildFaqSchema(SPOUSE_FAQ)} />
       <Hero
         image="/assets/photos/pexels-yosstraore-2611465.jpg"
+        alt="A couple walking together in London, representing spouse and partner visas"
         title="Spouse & Partner Visas"
         subtitle="Expert guidance for partners and families navigating UK immigration together."
       />
@@ -48,7 +84,7 @@ export default function SpousePage() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-14 items-center">
           <div className="lg:col-span-5 animate-on-scroll order-2 lg:order-1">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/assets/photos/pexels-matreding-16124559.jpg" alt="Elegant London residential street" className="rounded-md shadow-xl w-full aspect-[3/4] object-cover" />
+            <img src="/assets/photos/pexels-matreding-16124559.jpg" alt="Elegant London residential street reflecting the family immigration journey" width={600} height={800} loading="lazy" className="rounded-md shadow-xl w-full aspect-[3/4] object-cover" />
           </div>
           <div className="lg:col-span-7 animate-on-scroll order-1 lg:order-2" style={{ transitionDelay: '80ms' }}>
             <SectionHeading align="left">How We Help</SectionHeading>

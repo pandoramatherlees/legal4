@@ -12,7 +12,7 @@ export function useScrollReveal() {
     );
     el.querySelectorAll('.animate-on-scroll').forEach((n) => observer.observe(n));
     return () => observer.disconnect();
-  });
+  }, []);
   return ref;
 }
 

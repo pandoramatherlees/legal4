@@ -1,48 +1,35 @@
-'use client';
 import { Sparkles, Heart, Briefcase, FileText, Shield } from 'lucide-react';
 import { Hero, SectionWrap, SectionHeading, CtaBanner } from '@/components/atoms';
+import { FEE_CATEGORIES } from '@/data/fees';
 
-const FEES = [
-  {
-    title: 'Global Talent Visa', icon: <Sparkles size={20} className="text-gold" />,
-    rows: [
-      ['Stage 1: Endorsement Application', 'From £3,500 + VAT'],
-      ['Stage 2: Visa Application', 'From £2,500 + VAT'],
-      ['Combined Stage 1 & 2', 'From £5,500 + VAT'],
-    ],
+export const metadata = {
+  title: 'Immigration Fees',
+  description:
+    'Transparent pricing for UK immigration legal services including Global Talent, Spouse and Skilled Worker visas. Clear fee guidance from Taylor Hampton Solicitors.',
+  alternates: {
+    canonical: 'https://immigration.taylorhampton.co.uk/fees',
   },
-  {
-    title: 'Spouse / Partner Visa', icon: <Heart size={20} className="text-gold" />,
-    rows: [
-      ['Initial Application', 'From £3,000 + VAT'],
-      ['Extension Application', 'From £2,000 + VAT'],
-      ['Indefinite Leave to Remain', 'From £2,500 + VAT'],
-    ],
+  openGraph: {
+    title: 'Immigration Fees | Taylor Hampton Solicitors',
+    description:
+      'Transparent pricing for UK immigration legal services. Clear fee guidance from Taylor Hampton Solicitors.',
+    url: 'https://immigration.taylorhampton.co.uk/fees',
   },
-  {
-    title: 'Skilled Worker Visa', icon: <Briefcase size={20} className="text-gold" />,
-    rows: [
-      ['Individual Application', 'From £2,500 + VAT'],
-      ['Sponsor Licence Application', 'From £3,000 + VAT'],
-      ['Certificate of Sponsorship Assignment', 'From £500 + VAT per CoS'],
-    ],
-  },
-  {
-    title: 'Other Services', icon: <FileText size={20} className="text-gold" />,
-    rows: [
-      ['Indefinite Leave to Remain (General)', 'From £2,500 + VAT'],
-      ['British Citizenship / Naturalisation', 'From £2,000 + VAT'],
-      ['Immigration Appeals', 'Fees on application'],
-      ['Emergency / Expedited Services', 'Additional charges apply'],
-    ],
-  },
-];
+};
+
+const ICON_MAP = {
+  Sparkles: <Sparkles size={20} className="text-gold" />,
+  Heart: <Heart size={20} className="text-gold" />,
+  Briefcase: <Briefcase size={20} className="text-gold" />,
+  FileText: <FileText size={20} className="text-gold" />,
+};
 
 export default function FeesPage() {
   return (
     <>
       <Hero
         image="/assets/photos/pexels-flaval-16015714.jpg"
+        alt="London legal district representing transparent immigration fee guidance"
         title="Our Immigration Fees"
         subtitle="Transparent pricing for our immigration legal services."
       />
@@ -51,10 +38,10 @@ export default function FeesPage() {
         <SectionHeading sub="We believe in clear, transparent pricing. The fees below represent our professional charges for standard immigration matters.">Fee Schedule</SectionHeading>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-7 mb-14">
-          {FEES.map((cat, i) => (
+          {FEE_CATEGORIES.map((cat, i) => (
             <div key={i} className="animate-on-scroll bg-white rounded-md border border-navy/[0.06] border-t-[3px] border-t-gold/40 shadow-[0_2px_16px_rgba(26,35,50,0.05)] overflow-hidden" style={{ transitionDelay: `${i * 70}ms` }}>
               <div className="flex items-center gap-3 px-7 pt-7 pb-4">
-                {cat.icon}
+                {ICON_MAP[cat.iconName]}
                 <h3 className="font-serif text-[1.05rem] font-bold text-navy">{cat.title}</h3>
               </div>
               <div className="px-7 pb-7">

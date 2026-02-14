@@ -1,6 +1,6 @@
-'use client';
 import { MapPin, Phone, Mail } from 'lucide-react';
 import Link from 'next/link';
+import { LEGAL_LINKS } from '@/data/navigation';
 
 export default function Footer() {
   return (
@@ -11,12 +11,12 @@ export default function Footer() {
           <p className="text-white/30 text-[0.65rem] tracking-[0.25em] uppercase mb-7">Recognition &amp; Accreditation</p>
           <div className="flex flex-wrap items-center justify-center gap-10 md:gap-14">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/assets/badges/sme500-award-2026-web.png" alt="SME 500 UK — Best Immigration Law Firm of the Year 2026" className="h-[76px] md:h-[88px] object-contain opacity-75 hover:opacity-100 transition-opacity duration-300" />
+            <img src="/assets/badges/sme500-award-2026-web.png" alt="SME 500 UK — Best Immigration Law Firm of the Year 2026" width={120} height={88} className="h-[76px] md:h-[88px] w-auto object-contain opacity-75 hover:opacity-100 transition-opacity duration-300" />
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/assets/badges/legal100-award-2025-web.jpeg" alt="Lawyer International Legal 100 — 2025 Winner" className="h-[76px] md:h-[88px] object-contain opacity-75 hover:opacity-100 transition-opacity duration-300" />
+            <img src="/assets/badges/legal100-award-2025-web.jpeg" alt="Lawyer International Legal 100 — 2025 Winner" width={120} height={88} className="h-[76px] md:h-[88px] w-auto object-contain opacity-75 hover:opacity-100 transition-opacity duration-300" />
             <a href="https://www.sra.org.uk/consumers/register/" target="_blank" rel="noopener noreferrer" className="opacity-75 hover:opacity-100 transition-opacity duration-300">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/assets/badges/sra-regulated-badge-web.png" alt="Regulated by the Solicitors Regulation Authority" className="h-[60px] md:h-[72px] object-contain" />
+              <img src="/assets/badges/sra-regulated-badge-web.png" alt="Regulated by the Solicitors Regulation Authority" width={100} height={72} className="h-[60px] md:h-[72px] w-auto object-contain" />
             </a>
           </div>
         </div>
@@ -65,10 +65,11 @@ export default function Footer() {
           <div className="md:col-span-2 md:col-start-11">
             <h4 className="font-serif text-white text-[0.85rem] font-bold mb-4 tracking-[0.02em]">Legal</h4>
             <div className="space-y-2.5 text-[0.82rem]">
-              <p className="cursor-pointer hover:text-white transition-colors">Privacy Policy</p>
-              <p className="cursor-pointer hover:text-white transition-colors">Terms of Use</p>
-              <p className="cursor-pointer hover:text-white transition-colors">Complaints</p>
-              <p className="cursor-pointer hover:text-white transition-colors">Accessibility</p>
+              {LEGAL_LINKS.map((x) => (
+                <Link key={x.href} href={x.href} className="block hover:text-gold transition-colors">
+                  {x.label}
+                </Link>
+              ))}
             </div>
           </div>
         </div>

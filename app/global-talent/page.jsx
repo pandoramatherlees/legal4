@@ -1,15 +1,56 @@
-'use client';
 import {
   Palette, Music, Theater, Clapperboard, Diamond, Building2,
   Award, Sparkles, CheckCircle2
 } from 'lucide-react';
 import { Hero, SectionWrap, SectionHeading, CtaBanner, ReviewedNote } from '@/components/atoms';
+import StructuredData from '@/components/structured-data';
+import { buildFaqSchema } from '@/data/structured-data';
+
+export const metadata = {
+  title: 'Global Talent Visa — Arts & Creative Industries',
+  description:
+    'Expert legal advice on UK Global Talent visas for artists, musicians, performers and creative professionals. Endorsed through Arts Council England.',
+  alternates: {
+    canonical: 'https://immigration.taylorhampton.co.uk/global-talent',
+  },
+  openGraph: {
+    title: 'Global Talent Visa — Arts & Creative Industries | Taylor Hampton',
+    description:
+      'Expert legal advice on UK Global Talent visas for artists, musicians, performers and creative professionals.',
+    url: 'https://immigration.taylorhampton.co.uk/global-talent',
+  },
+};
+
+const GT_FAQ = [
+  {
+    question: 'What is the Global Talent visa?',
+    answer:
+      'The Global Talent visa allows internationally recognised artists, musicians and creative professionals to live and work in the UK without a sponsor. It is one of the most flexible visa routes available.',
+  },
+  {
+    question: 'Who endorses Global Talent visa applications in the arts?',
+    answer:
+      'Arts Council England is the designated endorsing body for applicants in the arts and culture sector.',
+  },
+  {
+    question: 'Do I need a job offer for the Global Talent visa?',
+    answer:
+      'No. Unlike many other visa routes, the Global Talent visa does not require a job offer or sponsor. Holders can work freely, be self-employed or take on multiple projects.',
+  },
+  {
+    question: 'Can the Global Talent visa lead to settlement?',
+    answer:
+      'Yes. The route can lead to Indefinite Leave to Remain (settlement) and, in time, British citizenship.',
+  },
+];
 
 export default function GlobalTalentPage() {
   return (
     <>
+      <StructuredData data={buildFaqSchema(GT_FAQ)} />
       <Hero
         image="/assets/photos/pexels-jdominici-269128.jpg"
+        alt="Creative arts performance representing the Global Talent visa route"
         title="Global Talent Visa — Arts, Music & Creative Industries"
         subtitle="The Global Talent visa route enables internationally recognised artists, musicians, performers and creative professionals to live and work in the UK without a sponsor."
       />
@@ -103,7 +144,7 @@ export default function GlobalTalentPage() {
           </div>
           <div className="lg:col-span-5 animate-on-scroll" style={{ transitionDelay: '100ms' }}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/assets/photos/pexels-streetlevelphotos-11796156.jpg" alt="Red bus near Parliament" className="rounded-md shadow-xl w-full aspect-[3/4] object-cover" />
+            <img src="/assets/photos/pexels-streetlevelphotos-11796156.jpg" alt="Iconic London red bus near the Houses of Parliament, representing the UK arts and culture scene" width={600} height={800} loading="lazy" className="rounded-md shadow-xl w-full aspect-[3/4] object-cover" />
           </div>
         </div>
       </SectionWrap>

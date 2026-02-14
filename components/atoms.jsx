@@ -41,12 +41,12 @@ export function SectionHeading({ children, sub, align = 'center', light = false 
   );
 }
 
-export function BtnGold({ children, onClick, href, className = '' }) {
+export function BtnGold({ children, onClick, href, type, tabIndex, className = '' }) {
   const cls = `group inline-flex items-center gap-2.5 bg-gold text-white text-[0.82rem] font-semibold tracking-[0.08em] uppercase px-7 py-[14px] rounded-sm transition-all duration-300 hover:bg-gold-light hover:shadow-[0_4px_20px_rgba(184,148,76,0.35)] hover:-translate-y-[1px] ${className}`;
   if (href) {
-    return <Link href={href} className={cls}>{children}</Link>;
+    return <Link href={href} className={cls} tabIndex={tabIndex}>{children}</Link>;
   }
-  return <button onClick={onClick} className={cls}>{children}</button>;
+  return <button type={type || 'button'} onClick={onClick} tabIndex={tabIndex} className={cls}>{children}</button>;
 }
 
 export function BtnOutline({ children, onClick, href, light = false, className = '' }) {
@@ -60,26 +60,34 @@ export function BtnOutline({ children, onClick, href, light = false, className =
   return <button onClick={onClick} className={cls}>{children}</button>;
 }
 
-export function Hero({ image, title, subtitle, children }) {
+export function Hero({ image, alt = '', title, subtitle, children }) {
   return (
     <div className="relative min-h-[480px] md:min-h-[540px] flex items-end overflow-hidden">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover" loading="eager" />
+      <img
+        src={image}
+        alt={alt}
+        width={1600}
+        height={900}
+        className="absolute inset-0 w-full h-full object-cover"
+        loading="eager"
+        fetchPriority="high"
+      />
       <div className="absolute inset-0 bg-gradient-to-t from-navy via-navy/70 to-navy/20" />
       <div className="absolute inset-0 bg-gradient-to-r from-navy/50 to-transparent" />
       <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: 'url("data:image/svg+xml,%3Csvg viewBox=\'0 0 256 256\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cfilter id=\'noise\'%3E%3CfeTurbulence type=\'fractalNoise\' baseFrequency=\'0.9\' numOctaves=\'4\' stitchTiles=\'stitch\'/%3E%3C/filter%3E%3Crect width=\'100%25\' height=\'100%25\' filter=\'url(%23noise)\'/%3E%3C/svg%3E")' }} />
       <div className="absolute bottom-0 left-0 right-0 h-[2px] bg-gradient-to-r from-transparent via-gold/40 to-transparent" />
       <div className="relative z-10 w-full max-w-[1100px] mx-auto px-6 md:px-8 pb-14 pt-32 md:pt-40">
-        <h1 className="font-serif text-[2rem] md:text-[2.8rem] lg:text-[3.2rem] font-bold text-white leading-[1.15] mb-5 max-w-[680px] animate-fade-in-up">
+        <h1 className="font-serif text-[2rem] md:text-[2.8rem] lg:text-[3.2rem] font-bold text-white leading-[1.15] mb-5 max-w-[680px] animate-fade-in-up text-balance">
           {title}
         </h1>
         {subtitle && (
-          <p className="text-white/80 text-[1.05rem] md:text-lg max-w-[560px] leading-relaxed mb-9" style={{ animation: 'fadeInUp 0.7s ease-out 0.12s forwards', opacity: 0 }}>
+          <p className="text-white/80 text-[1.05rem] md:text-lg max-w-[560px] leading-relaxed mb-9 animate-fade-in-up animate-delay-100">
             {subtitle}
           </p>
         )}
         {children && (
-          <div className="flex flex-wrap gap-4" style={{ animation: 'fadeInUp 0.7s ease-out 0.24s forwards', opacity: 0 }}>
+          <div className="flex flex-wrap gap-4 animate-fade-in-up animate-delay-200">
             {children}
           </div>
         )}
