@@ -302,8 +302,8 @@ export default function ContactForm() {
       )}
 
       <BtnGold
+        type="submit"
         className="!w-full md:!w-auto !justify-center"
-        onClick={status === 'submitting' ? undefined : undefined}
       >
         {status === 'submitting' ? (
           <>
