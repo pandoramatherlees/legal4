@@ -41,12 +41,12 @@ export function SectionHeading({ children, sub, align = 'center', light = false 
   );
 }
 
-export function BtnGold({ children, onClick, href, type, className = '' }) {
+export function BtnGold({ children, onClick, href, type, tabIndex, className = '' }) {
   const cls = `group inline-flex items-center gap-2.5 bg-gold text-white text-[0.82rem] font-semibold tracking-[0.08em] uppercase px-7 py-[14px] rounded-sm transition-all duration-300 hover:bg-gold-light hover:shadow-[0_4px_20px_rgba(184,148,76,0.35)] hover:-translate-y-[1px] ${className}`;
   if (href) {
-    return <Link href={href} className={cls}>{children}</Link>;
+    return <Link href={href} className={cls} tabIndex={tabIndex}>{children}</Link>;
   }
-  return <button type={type || 'button'} onClick={onClick} className={cls}>{children}</button>;
+  return <button type={type || 'button'} onClick={onClick} tabIndex={tabIndex} className={cls}>{children}</button>;
 }
 
 export function BtnOutline({ children, onClick, href, light = false, className = '' }) {

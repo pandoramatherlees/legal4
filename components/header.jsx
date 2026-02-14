@@ -134,7 +134,7 @@ export default function Header() {
               {n.label}
             </Link>
           ))}
-          <BtnGold href="/contact" className="!w-full !justify-center mt-4">
+          <BtnGold href="/contact" className="!w-full !justify-center mt-4" tabIndex={open ? 0 : -1}>
             Get in Touch
           </BtnGold>
         </nav>

@@ -1,4 +1,3 @@
-'use client';
 import { MapPin, Phone, Mail } from 'lucide-react';
 import Link from 'next/link';
 import { LEGAL_LINKS } from '@/data/navigation';

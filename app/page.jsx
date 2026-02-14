@@ -71,7 +71,7 @@ export default function HomePage() {
       {/* Why Choose */}
       <SectionWrap bg="navy" pattern>
         <SectionHeading light>Why Choose Taylor Hampton</SectionHeading>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-[900px] mx-auto">
+        <div className="flex flex-wrap justify-center gap-5 max-w-[900px] mx-auto">
           {[
             { icon: <Palette size={20} />, t: 'Recognised expertise in creative sector immigration' },
             { icon: <Building2 size={20} />, t: 'Trusted by leading arts organisations and cultural institutions' },
@@ -79,7 +79,7 @@ export default function HomePage() {
             { icon: <PoundSterling size={20} />, t: 'Clear, transparent pricing with no hidden fees' },
             { icon: <Award size={20} />, t: 'Part of an established, award-winning London law practice' },
           ].map((d, i) => (
-            <div key={i} className="animate-on-scroll flex items-start gap-4 p-5 rounded-md bg-white/[0.05] border border-white/[0.08]" style={{ transitionDelay: `${i * 60}ms` }}>
+            <div key={i} className="animate-on-scroll flex items-start gap-4 p-5 rounded-md bg-white/[0.05] border border-white/[0.08] w-full sm:w-[calc(50%-10px)] lg:w-[calc(33.333%-14px)]" style={{ transitionDelay: `${i * 60}ms` }}>
               <div className="text-gold shrink-0 mt-px">{d.icon}</div>
               <p className="text-white/80 text-[0.88rem] leading-relaxed">{d.t}</p>
             </div>

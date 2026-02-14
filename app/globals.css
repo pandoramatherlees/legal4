@@ -91,18 +91,26 @@
   }
 
   .animate-delay-100 {
-    transition-delay: 100ms;
+    animation-delay: 100ms;
+    opacity: 0;
+    animation-fill-mode: forwards;
   }
 
   .animate-delay-200 {
-    transition-delay: 200ms;
+    animation-delay: 200ms;
+    opacity: 0;
+    animation-fill-mode: forwards;
   }
 
   .animate-delay-300 {
-    transition-delay: 300ms;
+    animation-delay: 300ms;
+    opacity: 0;
+    animation-fill-mode: forwards;
   }
 
   .animate-delay-400 {
-    transition-delay: 400ms;
+    animation-delay: 400ms;
+    opacity: 0;
+    animation-fill-mode: forwards;
   }
 }
