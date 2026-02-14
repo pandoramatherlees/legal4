@@ -1,14 +1,50 @@
-'use client';
 import {
   CheckCircle2, Palette, Globe, GraduationCap, Briefcase
 } from 'lucide-react';
 import { Hero, SectionWrap, SectionHeading, CtaBanner, ReviewedNote } from '@/components/atoms';
+import StructuredData from '@/components/structured-data';
+import { buildFaqSchema } from '@/data/structured-data';
+
+export const metadata = {
+  title: 'Skilled Worker Visas',
+  description:
+    'UK Skilled Worker visa advice for employers and individuals. Sponsor licence applications, compliance guidance and visa management from specialist immigration solicitors.',
+  alternates: {
+    canonical: 'https://immigration.taylorhampton.co.uk/skilled-worker',
+  },
+  openGraph: {
+    title: 'Skilled Worker Visas | Taylor Hampton Solicitors',
+    description:
+      'UK Skilled Worker visa advice for employers and individuals. Sponsor licence applications and compliance guidance.',
+    url: 'https://immigration.taylorhampton.co.uk/skilled-worker',
+  },
+};
+
+const SW_FAQ = [
+  {
+    question: 'What is a UK sponsor licence?',
+    answer:
+      'A sponsor licence is a permission granted to UK employers by the Home Office, allowing them to employ workers from outside the UK on a Skilled Worker visa.',
+  },
+  {
+    question: 'Can I change employer on a Skilled Worker visa?',
+    answer:
+      'Yes, but you must apply for a new visa with sponsorship from your new employer before you start working for them.',
+  },
+  {
+    question: 'Does the Skilled Worker visa lead to settlement?',
+    answer:
+      'Yes. The Skilled Worker visa can lead to Indefinite Leave to Remain (settlement) after a qualifying period, typically five years.',
+  },
+];
 
 export default function SkilledWorkerPage() {
   return (
     <>
+      <StructuredData data={buildFaqSchema(SW_FAQ)} />
       <Hero
         image="/assets/photos/pexels-chaitaastic-2031726.jpg"
+        alt="Modern London office buildings representing skilled worker immigration"
         title="Skilled Worker Visas"
         subtitle="Supporting UK employers and skilled professionals with sponsor licence applications, compliance and visa management."
       />
@@ -48,7 +84,7 @@ export default function SkilledWorkerPage() {
           </div>
           <div className="lg:col-span-5 animate-on-scroll" style={{ transitionDelay: '100ms' }}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/assets/photos/pexels-lina-2773700.jpg" alt="Underground sign at Canary Wharf" className="rounded-md shadow-xl w-full aspect-[3/4] object-cover" />
+            <img src="/assets/photos/pexels-lina-2773700.jpg" alt="London Underground sign at Canary Wharf, representing the UK professional landscape" width={600} height={800} loading="lazy" className="rounded-md shadow-xl w-full aspect-[3/4] object-cover" />
           </div>
         </div>
       </SectionWrap>

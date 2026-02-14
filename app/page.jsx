@@ -1,4 +1,3 @@
-'use client';
 import Link from 'next/link';
 import {
   Sparkles, Heart, Briefcase, Palette, Building2, Users,
@@ -6,11 +5,27 @@ import {
 } from 'lucide-react';
 import { Hero, SectionWrap, SectionHeading, BtnGold, BtnOutline, CtaBanner } from '@/components/atoms';
 
+export const metadata = {
+  title: 'UK Immigration Solicitors for the Creative Industries',
+  description:
+    'Taylor Hampton Solicitors — specialist UK immigration lawyers advising on Global Talent, Spouse and Skilled Worker visas for artists, musicians and creative professionals.',
+  alternates: {
+    canonical: 'https://immigration.taylorhampton.co.uk',
+  },
+  openGraph: {
+    title: 'UK Immigration Solicitors for the Creative Industries | Taylor Hampton',
+    description:
+      'Specialist UK immigration lawyers advising on Global Talent, Spouse and Skilled Worker visas for artists, musicians and creative professionals.',
+    url: 'https://immigration.taylorhampton.co.uk',
+  },
+};
+
 export default function HomePage() {
   return (
     <>
       <Hero
         image="/assets/photos/IMG_1983.jpeg"
+        alt="London cityscape representing UK immigration and the creative industries"
         title="Specialists in UK Immigration for the Creative Industries"
         subtitle="Expert legal guidance on Global Talent visas, Skilled Worker visas and family immigration — trusted by artists, musicians, performers and cultural organisations worldwide."
       >
@@ -88,7 +103,7 @@ export default function HomePage() {
           <div className="lg:col-span-5 animate-on-scroll" style={{ transitionDelay: '120ms' }}>
             <div className="relative">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/assets/photos/pexels-sonya-livshits-113472440-9828321.jpg" alt="London street scene" className="rounded-md shadow-xl w-full aspect-[3/4] object-cover" />
+              <img src="/assets/photos/pexels-sonya-livshits-113472440-9828321.jpg" alt="A quiet London street reflecting the heritage and character of Taylor Hampton Solicitors" width={600} height={800} loading="lazy" className="rounded-md shadow-xl w-full aspect-[3/4] object-cover" />
               <div className="absolute -bottom-3 -right-3 w-full h-full border border-gold/15 rounded-md -z-10" />
             </div>
           </div>
