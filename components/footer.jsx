@@ -56,9 +56,9 @@ export default function Footer() {
                 { href: '/spouse', l: 'Spouse & Partner Visas' },
                 { href: '/skilled-worker', l: 'Skilled Worker Visas' },
                 { href: '/fees', l: 'Our Fees' },
-                { href: '/#faq', l: 'FAQ' },
                 { href: '/contact', l: 'Contact Us' },
               ].map((x) => <Link key={x.href} href={x.href} className="block hover:text-gold transition-colors">{x.l}</Link>)}
+              <a href="/#faq" className="block hover:text-gold transition-colors">FAQ</a>
             </div>
           </div>
 
