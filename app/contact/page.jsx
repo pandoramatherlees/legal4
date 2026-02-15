@@ -9,14 +9,14 @@ import { TESTIMONIALS } from '@/data/testimonials';
 export const metadata = {
   title: 'Contact Us',
   description:
-    'Contact Taylor Hampton Solicitors for expert UK immigration advice. Call 020 7427 5970 or send an enquiry online. Based at 38 Southwark Bridge Road, London SE1 9EU.',
+    'Contact Taylor Hampton Solicitors for expert UK immigration advice. Call +44 203 143 0322 or send an enquiry online. Based at 38 Southwark Bridge Road, London SE1 9EU.',
   alternates: {
     canonical: 'https://immigration.taylorhampton.co.uk/contact',
   },
   openGraph: {
     title: 'Contact Us | Taylor Hampton Solicitors',
     description:
-      'Contact Taylor Hampton Solicitors for expert UK immigration advice. Call 020 7427 5970 or send an enquiry online.',
+      'Contact Taylor Hampton Solicitors for expert UK immigration advice. Call +44 203 143 0322 or send an enquiry online.',
     url: 'https://immigration.taylorhampton.co.uk/contact',
   },
 };
@@ -57,8 +57,8 @@ export default function ContactPage() {
                   icon: <Phone size={17} />,
                   label: 'Telephone',
                   value: (
-                    <a href="tel:02074275970" className="hover:text-gold transition-colors">
-                      020 7427 5970
+                    <a href="tel:+442031430322" className="hover:text-gold transition-colors">
+                      +44 203 143 0322
                     </a>
                   ),
                 },

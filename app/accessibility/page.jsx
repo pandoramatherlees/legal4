@@ -68,8 +68,8 @@ export default function AccessibilityPage() {
             38 Southwark Bridge Road, London SE1 9EU
             <br />
             Telephone:{' '}
-            <a href="tel:02074275970" className="text-gold hover:text-gold-light">
-              020 7427 5970
+            <a href="tel:+442031430322" className="text-gold hover:text-gold-light">
+              +44 203 143 0322
             </a>
             <br />
             Email:{' '}

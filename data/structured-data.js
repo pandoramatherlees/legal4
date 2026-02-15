@@ -7,7 +7,7 @@ export const LEGAL_SERVICE_SCHEMA = {
   description:
     'Specialist UK immigration solicitors advising on Global Talent, Spouse, Skilled Worker visas and more. Based in London.',
   url: SITE_URL,
-  telephone: '+442074275970',
+  telephone: '+442031430322',
   email: 'enquiries@taylorhampton.co.uk',
   address: {
     '@type': 'PostalAddress',

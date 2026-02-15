@@ -14,7 +14,7 @@ export default function Footer() {
             <img src="/assets/badges/sme500-award-2026-web.png" alt="SME 500 UK — Best Immigration Law Firm of the Year 2026" width={120} height={88} className="h-[76px] md:h-[88px] w-auto object-contain opacity-75 hover:opacity-100 transition-opacity duration-300" />
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/assets/badges/legal100-award-2025-web.jpeg" alt="Lawyer International Legal 100 — 2025 Winner" width={120} height={88} className="h-[76px] md:h-[88px] w-auto object-contain opacity-75 hover:opacity-100 transition-opacity duration-300" />
-            <a href="https://www.sra.org.uk/consumers/register/" target="_blank" rel="noopener noreferrer" className="opacity-75 hover:opacity-100 transition-opacity duration-300">
+            <a href="https://www.sra.org.uk/consumers/register/organisation/?sraNumber=558225" target="_blank" rel="noopener noreferrer" className="opacity-75 hover:opacity-100 transition-opacity duration-300">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src="/assets/badges/sra-regulated-badge-web.png" alt="Regulated by the Solicitors Regulation Authority" width={100} height={72} className="h-[60px] md:h-[72px] w-auto object-contain" />
             </a>
@@ -42,7 +42,7 @@ export default function Footer() {
             </p>
             <div className="space-y-2.5 text-[0.82rem]">
               <p className="flex items-start gap-2.5"><MapPin size={13} className="text-gold mt-[3px] shrink-0" /> 38 Southwark Bridge Road, London SE1 9EU</p>
-              <p className="flex items-center gap-2.5"><Phone size={13} className="text-gold shrink-0" /> <a href="tel:02074275970" className="hover:text-white transition-colors">020 7427 5970</a></p>
+              <p className="flex items-center gap-2.5"><Phone size={13} className="text-gold shrink-0" /> <a href="tel:+442031430322" className="hover:text-white transition-colors">+44 203 143 0322</a></p>
               <p className="flex items-center gap-2.5"><Mail size={13} className="text-gold shrink-0" /> <a href="mailto:enquiries@taylorhampton.co.uk" className="hover:text-white transition-colors">enquiries@taylorhampton.co.uk</a></p>
             </div>
           </div>
@@ -78,7 +78,7 @@ export default function Footer() {
         <div className="border-t border-white/[0.06] mt-12 pt-8 space-y-3">
           <p className="text-[0.72rem] leading-relaxed">Taylor Hampton Solicitors is authorised and regulated by the Solicitors Regulation Authority (SRA Number: 83082065). VAT Registration Number: to be confirmed.</p>
           <p className="text-[0.72rem] leading-relaxed text-white/40">This website provides general information about UK immigration law. It does not constitute legal advice. Please contact us for advice specific to your circumstances.</p>
-          <p className="text-[0.68rem] text-white/30">&copy; 2026 Taylor Hampton Solicitors. All rights reserved.</p>
+          <p className="text-[0.68rem] text-white/30">&copy; {new Date().getFullYear()} Taylor Hampton Solicitors. All rights reserved.</p>
         </div>
       </div>
     </footer>

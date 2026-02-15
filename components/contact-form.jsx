@@ -293,8 +293,8 @@ export default function ContactForm() {
           <p className="text-red-700 text-[0.85rem]">
             There was a problem submitting your enquiry. Please try again or contact us directly
             on{' '}
-            <a href="tel:02074275970" className="underline font-semibold">
-              020 7427 5970
+            <a href="tel:+442031430322" className="underline font-semibold">
+              +44 203 143 0322
             </a>
             .
           </p>
