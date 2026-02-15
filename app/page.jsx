@@ -185,6 +185,24 @@ export default function HomePage() {
         </div>
       </SectionWrap>
 
+      {/* FAQ */}
+      <SectionWrap bg="white" goldTop id="faq">
+        <SectionHeading>Frequently Asked Questions</SectionHeading>
+        <div className="max-w-[740px] mx-auto space-y-4">
+          {HOME_FAQ.map((faq, i) => (
+            <details key={i} className="animate-on-scroll group bg-cream rounded-md border border-navy/[0.06] overflow-hidden" style={{ transitionDelay: `${i * 40}ms` }}>
+              <summary className="flex items-start gap-3 cursor-pointer px-7 py-5 text-navy font-serif font-bold text-[0.95rem] leading-snug select-none list-none [&::-webkit-details-marker]:hidden">
+                <ChevronRight size={16} className="text-gold shrink-0 mt-[2px] transition-transform duration-200 group-open:rotate-90" />
+                {faq.question}
+              </summary>
+              <div className="px-7 pb-6 pl-[46px] text-secondary text-[0.88rem] leading-relaxed">
+                {faq.answer}
+              </div>
+            </details>
+          ))}
+        </div>
+      </SectionWrap>
+
       <CtaBanner heading="Ready to discuss your immigration needs?" sub="Our specialist immigration team is here to help. Contact us for a confidential consultation." />
     </>
   );
