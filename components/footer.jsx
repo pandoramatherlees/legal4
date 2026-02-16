@@ -41,7 +41,7 @@ export default function Footer() {
               &quot;Experts in UK Global Talent Visas and UK Immigration Law&quot;
             </p>
             <div className="space-y-2.5 text-[0.82rem]">
-              <p className="flex items-start gap-2.5"><MapPin size={13} className="text-gold mt-[3px] shrink-0" /> 38 Southwark Bridge Road, London SE1 9EU</p>
+              <p className="flex items-start gap-2.5"><MapPin size={13} className="text-gold mt-[3px] shrink-0" /> 20-21 Jockey's Fields, London, WC1R 4BW</p>
               <p className="flex items-center gap-2.5"><Phone size={13} className="text-gold shrink-0" /> <a href="tel:+442031430322" className="hover:text-white transition-colors">+44 203 143 0322</a></p>
               <p className="flex items-center gap-2.5"><Mail size={13} className="text-gold shrink-0" /> <a href="mailto:enquiries@taylorhampton.co.uk" className="hover:text-white transition-colors">enquiries@taylorhampton.co.uk</a></p>
             </div>
@@ -56,9 +56,8 @@ export default function Footer() {
                 { href: '/spouse', l: 'Spouse & Partner Visas' },
                 { href: '/skilled-worker', l: 'Skilled Worker Visas' },
                 { href: '/fees', l: 'Our Fees' },
-                { href: '/#faq', l: 'FAQ' },
-                { href: '/contact', l: 'Contact Us' },
               ].map((x) => <Link key={x.href} href={x.href} className="block hover:text-gold transition-colors">{x.l}</Link>)}
+              <a href="/#faq" className="block hover:text-gold transition-colors">FAQ</a>
             </div>
           </div>
 

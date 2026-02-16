@@ -43,7 +43,7 @@ export default function ComplaintsPage() {
             <br />
             Taylor Hampton Solicitors
             <br />
-            38 Southwark Bridge Road, London SE1 9EU
+            20-21 Jockey's Fields, London, WC1R 4BW
             <br />
             Email:{' '}
             <a

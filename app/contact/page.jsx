@@ -9,7 +9,7 @@ import { TESTIMONIALS } from '@/data/testimonials';
 export const metadata = {
   title: 'Contact Us',
   description:
-    'Contact Taylor Hampton Solicitors for expert UK immigration advice. Call +44 203 143 0322 or send an enquiry online. Based at 38 Southwark Bridge Road, London SE1 9EU.',
+    'Contact Taylor Hampton Solicitors for expert UK immigration advice. Call +44 203 143 0322 or send an enquiry online. Based at 20-21 Jockey\'s Fields, London, WC1R 4BW.',
   alternates: {
     canonical: 'https://immigration.taylorhampton.co.uk/contact',
   },
@@ -47,9 +47,9 @@ export default function ContactPage() {
                     <span>
                       Taylor Hampton Solicitors
                       <br />
-                      38 Southwark Bridge Road
+                      20-21 Jockey&apos;s Fields
                       <br />
-                      London SE1 9EU
+                      London, WC1R 4BW
                     </span>
                   ),
                 },
@@ -95,8 +95,8 @@ export default function ContactPage() {
             {/* Embedded Google Map */}
             <div className="rounded-sm border border-navy/[0.06] overflow-hidden" style={{ aspectRatio: '16/9' }}>
               <iframe
-                title="Taylor Hampton Solicitors office location at 38 Southwark Bridge Road, London SE1 9EU"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.6!2d-0.0935!3d51.5045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876035159bb64b1%3A0x4e5e3e6d5c8b8c1a!2s38+Southwark+Bridge+Rd%2C+London+SE1+9EU!5e0!3m2!1sen!2suk!4v1700000000000!5m2!1sen!2suk"
+                title="Taylor Hampton Solicitors office location at 20-21 Jockey's Fields, London, WC1R 4BW"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8!2d-0.1128!3d51.5184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b4b9d0d1b1f%3A0x1234567890abcdef!2s20-21+Jockey%27s+Fields%2C+London+WC1R+4BW!5e0!3m2!1sen!2suk!4v1700000000000!5m2!1sen!2suk"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
