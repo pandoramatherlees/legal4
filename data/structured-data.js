@@ -11,15 +11,15 @@ export const LEGAL_SERVICE_SCHEMA = {
   email: 'enquiries@taylorhampton.co.uk',
   address: {
     '@type': 'PostalAddress',
-    streetAddress: '38 Southwark Bridge Road',
+    streetAddress: '20-21 Jockey\'s Fields',
     addressLocality: 'London',
-    postalCode: 'SE1 9EU',
+    postalCode: 'WC1R 4BW',
     addressCountry: 'GB',
   },
   geo: {
     '@type': 'GeoCoordinates',
-    latitude: 51.5045,
-    longitude: -0.0935,
+    latitude: 51.5184,
+    longitude: -0.1128,
   },
   openingHoursSpecification: {
     '@type': 'OpeningHoursSpecification',
