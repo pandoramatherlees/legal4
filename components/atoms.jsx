@@ -69,7 +69,7 @@ export function Hero({ image, alt = '', title, subtitle, children }) {
         alt={alt}
         width={1600}
         height={900}
-        className="absolute inset-0 w-full h-full object-cover"
+        className="absolute inset-0 w-full h-full object-cover brightness-125"
         loading="eager"
         fetchPriority="high"
       />
