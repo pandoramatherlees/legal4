@@ -43,7 +43,7 @@ export default function SkilledWorkerPage() {
     <>
       <StructuredData data={buildFaqSchema(SW_FAQ)} />
       <Hero
-        image="/assets/photos/pexels-chaitaastic-2031726.jpg"
+        image="/assets/photos/skilledworkervisa.jpg"
         alt="Modern London office buildings representing skilled worker immigration"
         title="Skilled Worker Visas"
         subtitle="Supporting UK employers and skilled professionals with sponsor licence applications, compliance and visa management."
