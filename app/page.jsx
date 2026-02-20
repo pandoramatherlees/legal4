@@ -65,7 +65,7 @@ export default function HomePage() {
     <>
       <StructuredData data={buildFaqSchema(HOME_FAQ)} />
       <Hero
-        image="/assets/photos/IMG_1983.jpeg"
+        image="/assets/photos/newhomepage.jpeg"
         alt="London cityscape representing UK immigration and the creative industries"
         title="Specialists in UK Immigration for the Creative Industries"
         subtitle="Expert legal guidance on Global Talent visas, Skilled Worker visas and family immigration — trusted by artists, musicians, performers and cultural organisations worldwide."
