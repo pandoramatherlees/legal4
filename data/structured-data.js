@@ -1,4 +1,4 @@
-const SITE_URL = 'https://immigration.taylorhampton.co.uk';
+const SITE_URL = 'https://taylorhamptonimmigration.london';
 
 export const LEGAL_SERVICE_SCHEMA = {
   '@context': 'https://schema.org',
