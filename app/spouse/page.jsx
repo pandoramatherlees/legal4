@@ -1,45 +1,99 @@
 import { CheckCircle2 } from 'lucide-react';
 import { Hero, SectionWrap, SectionHeading, CtaBanner, ReviewedNote } from '@/components/atoms';
 import StructuredData from '@/components/structured-data';
-import { buildFaqSchema } from '@/data/structured-data';
+import { buildFaqSchema, LEGAL_SERVICE_SCHEMA } from '@/data/structured-data';
 
 export const metadata = {
-  title: 'Spouse & Partner Visas',
+  title: 'How Do I Apply for a UK Spouse or Partner Visa in 2026? | Taylor Hampton',
   description:
-    'Expert advice on UK spouse and partner visa applications, extensions and settlement. Supporting families and partners navigating UK immigration.',
+    'Expert advice on UK spouse and partner visa applications, extensions and settlement. Supporting families and partners navigating UK immigration from specialist solicitors in London.',
   alternates: {
-    canonical: 'https://immigration.taylorhampton.co.uk/spouse',
+    canonical: 'https://taylorhamptonimmigration.london/spouse',
   },
   openGraph: {
     title: 'Spouse & Partner Visas | Taylor Hampton Solicitors',
     description:
       'Expert advice on UK spouse and partner visa applications, extensions and settlement.',
-    url: 'https://immigration.taylorhampton.co.uk/spouse',
+    url: 'https://taylorhamptonimmigration.london/spouse',
   },
 };
 
 const SPOUSE_FAQ = [
   {
-    question: 'What is the UK spouse visa financial requirement?',
+    question: 'What is the minimum income requirement for a spouse visa?',
     answer:
-      'Applicants must meet a minimum income threshold to qualify for a UK spouse visa. Taylor Hampton advises on how the financial requirement is assessed and the evidence needed to satisfy it.',
+      'Applicants must meet the applicable minimum income threshold through employment income, self-employment income, savings or a combination of permitted sources. The threshold is subject to change and must be checked at the time of application.',
   },
   {
-    question: 'Can I apply for a spouse visa from within the UK?',
+    question: 'Can I apply for a spouse visa from inside the UK?',
     answer:
-      'Yes. Both in-country and overseas applications are possible depending on your current immigration status. We manage both types of application.',
+      'In many cases it is possible to switch to a spouse or partner visa from within the United Kingdom, provided you hold valid immigration status and are not on a prohibited route.',
   },
   {
-    question: 'How long does it take to get settlement on a spouse visa?',
+    question: 'How long does a spouse visa last?',
     answer:
-      'The spouse visa route leads to settlement (Indefinite Leave to Remain) after a qualifying period, typically five years.',
+      'An initial spouse visa is typically granted for a limited period before requiring an extension. After completing the qualifying period applicants may apply for Indefinite Leave to Remain.',
+  },
+  {
+    question: 'What counts as proof of a genuine relationship?',
+    answer:
+      'Evidence may include joint tenancy agreements, shared financial commitments, correspondence addressed jointly, photographs, travel records and evidence of ongoing communication.',
+  },
+  {
+    question: 'Can my partner work in the UK on a spouse visa?',
+    answer:
+      'Yes. Spouse and partner visa holders are generally permitted to work and study in the United Kingdom.',
+  },
+  {
+    question: 'What happens if we separate during the visa period?',
+    answer:
+      'If a relationship permanently breaks down during the visa period there may be immigration consequences. Legal advice should be sought immediately to understand the available options.',
   },
 ];
+
+const ARTICLE_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  '@id': 'https://taylorhamptonimmigration.london/spouse#article',
+  headline: 'How Do I Apply for a UK Spouse or Partner Visa in 2026?',
+  description:
+    'Legal guidance on applying for a UK spouse or partner visa including financial requirements, relationship evidence and the settlement pathway.',
+  author: {
+    '@type': 'Organization',
+    name: 'Taylor Hampton Solicitors — UK Immigration',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Taylor Hampton Solicitors — UK Immigration',
+    logo: {
+      '@type': 'ImageObject',
+      url: 'https://taylorhamptonimmigration.london/logo.png',
+    },
+  },
+  mainEntityOfPage: 'https://taylorhamptonimmigration.london/spouse',
+  datePublished: '2026-02-01',
+  dateModified: '2026-02-01',
+};
 
 export default function SpousePage() {
   return (
     <>
       <StructuredData data={buildFaqSchema(SPOUSE_FAQ)} />
+      <StructuredData data={LEGAL_SERVICE_SCHEMA} />
+      <StructuredData data={ARTICLE_SCHEMA} />
+
+      {/* AEO: Question-driven H1 and extractable summary */}
+      <div className="sr-only">
+        <h1>How Do I Apply for a UK Spouse or Partner Visa in 2026?</h1>
+        <p>
+          A UK spouse or partner visa allows the husband, wife, civil partner, unmarried partner or
+          fiancé(e) of a British citizen or settled person to live in the United Kingdom. Applicants
+          must demonstrate a genuine and subsisting relationship, meet financial requirements and
+          satisfy English language criteria. The route can lead to Indefinite Leave to Remain after
+          a qualifying period.
+        </p>
+      </div>
+
       <Hero
         image="/assets/photos/pexels-yosstraore-2611465.jpg"
         alt="A couple walking together in London, representing spouse and partner visas"
@@ -79,8 +133,76 @@ export default function SpousePage() {
         </div>
       </SectionWrap>
 
-      {/* How we help */}
+      {/* Step by Step Process */}
       <SectionWrap bg="white">
+        <div className="max-w-[700px] mx-auto animate-on-scroll">
+          <SectionHeading align="left">Step by Step Spouse and Partner Visa Process</SectionHeading>
+          <div className="space-y-6">
+            {[
+              {
+                stage: 'Stage One',
+                title: 'Confirm Eligibility',
+                body: 'We assess relationship status, immigration status of the sponsor and financial position to confirm the application can proceed.',
+              },
+              {
+                stage: 'Stage Two',
+                title: 'Financial Assessment',
+                body: 'We review employment income, self-employment income, savings or alternative financial sources to confirm whether the minimum threshold is met.',
+              },
+              {
+                stage: 'Stage Three',
+                title: 'Compile Relationship Evidence',
+                body: 'Evidence may include marriage or civil partnership certificates, joint financial documents, cohabitation evidence, travel records and communication history.',
+              },
+              {
+                stage: 'Stage Four',
+                title: 'Submit Application',
+                body: 'Applications may be submitted from overseas or within the United Kingdom where switching is permitted.',
+              },
+              {
+                stage: 'Stage Five',
+                title: 'Decision and Grant of Leave',
+                body: 'If approved, leave is usually granted for an initial period with a clear pathway to extension and settlement.',
+              },
+            ].map((s, i) => (
+              <div key={i} className="flex gap-4 items-start" style={{ transitionDelay: `${i * 50}ms` }}>
+                <div className="shrink-0 w-[90px] text-right">
+                  <span className="text-gold text-[0.75rem] font-semibold uppercase tracking-wider">{s.stage}</span>
+                </div>
+                <div className="border-l border-navy/10 pl-4">
+                  <p className="text-[0.92rem] font-semibold text-navy mb-1">{s.title}</p>
+                  <p className="text-body text-[0.88rem] leading-relaxed">{s.body}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </SectionWrap>
+
+      {/* Settlement */}
+      <SectionWrap bg="cream" pattern goldTop>
+        <div className="max-w-[700px] animate-on-scroll">
+          <SectionHeading align="left">Settlement and Indefinite Leave to Remain</SectionHeading>
+          <div className="space-y-4 text-body text-[0.92rem] leading-[1.75]">
+            <p>Spouse and partner visa holders may apply for Indefinite Leave to Remain after completing the relevant qualifying period, typically five years under the standard route.</p>
+            <p>Applicants must demonstrate a continued genuine and subsisting relationship, compliance with financial requirements, English language ability and Knowledge of Life in the UK. Careful preparation is required to avoid disruption to lawful residence.</p>
+          </div>
+        </div>
+      </SectionWrap>
+
+      {/* Common Challenges */}
+      <SectionWrap bg="white">
+        <div className="max-w-[700px] animate-on-scroll">
+          <SectionHeading align="left">Common Challenges in Partner Visa Applications</SectionHeading>
+          <div className="space-y-4 text-body text-[0.92rem] leading-[1.75]">
+            <p>Applications are frequently refused due to insufficient financial evidence, gaps in cohabitation documentation or failure to meet evidential formatting requirements.</p>
+            <p>Previous refusals, overstays or complex immigration histories require careful legal analysis before submitting a new application. Early advice significantly improves outcomes.</p>
+          </div>
+        </div>
+      </SectionWrap>
+
+      {/* How we help */}
+      <SectionWrap bg="cream" pattern goldTop>
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-14 items-center">
           <div className="lg:col-span-5 animate-on-scroll order-2 lg:order-1">
             {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -103,6 +225,21 @@ export default function SpousePage() {
                 </div>
               ))}
             </div>
+          </div>
+        </div>
+      </SectionWrap>
+
+      {/* FAQs */}
+      <SectionWrap bg="white">
+        <div className="max-w-[700px] mx-auto">
+          <SectionHeading align="left">Frequently Asked Questions</SectionHeading>
+          <div className="space-y-6">
+            {SPOUSE_FAQ.map((item, i) => (
+              <div key={i} className="animate-on-scroll border-b border-navy/10 pb-6 last:border-0" style={{ transitionDelay: `${i * 40}ms` }}>
+                <p className="text-[0.92rem] font-semibold text-navy mb-2">{item.question}</p>
+                <p className="text-body text-[0.88rem] leading-relaxed">{item.answer}</p>
+              </div>
+            ))}
           </div>
         </div>
       </SectionWrap>
