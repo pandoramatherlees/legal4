@@ -4,12 +4,12 @@ import {
 } from 'lucide-react';
 import { Hero, SectionWrap, SectionHeading, CtaBanner, ReviewedNote } from '@/components/atoms';
 import StructuredData from '@/components/structured-data';
-import { buildFaqSchema } from '@/data/structured-data';
+import { buildFaqSchema, LEGAL_SERVICE_SCHEMA } from '@/data/structured-data';
 
 export const metadata = {
-  title: 'Global Talent Visa — Arts & Creative Industries',
+  title: 'How Do I Apply for a UK Global Talent Visa? | Taylor Hampton',
   description:
-    'Expert legal advice on UK Global Talent visas for artists, musicians, performers and creative professionals. Endorsed through Arts Council England.',
+    'Expert legal advice on UK Global Talent visas for artists, musicians, performers and creative professionals. Endorsed through Arts Council England. Based in London.',
   alternates: {
     canonical: 'https://immigration.taylorhampton.co.uk/global-talent',
   },
@@ -23,31 +23,80 @@ export const metadata = {
 
 const GT_FAQ = [
   {
-    question: 'What is the Global Talent visa?',
+    question: 'Do I need a job offer for a Global Talent visa?',
     answer:
-      'The Global Talent visa allows internationally recognised artists, musicians and creative professionals to live and work in the UK without a sponsor. It is one of the most flexible visa routes available.',
+      'No. The Global Talent visa does not require a sponsor or job offer. Applicants may work freelance, be self-employed or undertake multiple projects simultaneously without restriction.',
   },
   {
-    question: 'Who endorses Global Talent visa applications in the arts?',
+    question: 'Who endorses arts and creative applicants for the Global Talent visa?',
     answer:
-      'Arts Council England is the designated endorsing body for applicants in the arts and culture sector.',
+      'Arts Council England is the designated endorsing body for applicants in arts and culture. They assess whether the applicant meets the criteria for Exceptional Talent or Exceptional Promise.',
   },
   {
-    question: 'Do I need a job offer for the Global Talent visa?',
+    question: 'How long can I stay on a Global Talent visa?',
     answer:
-      'No. Unlike many other visa routes, the Global Talent visa does not require a job offer or sponsor. Holders can work freely, be self-employed or take on multiple projects.',
+      'Applicants may request between one and five years of leave depending on their circumstances and long-term settlement planning.',
+  },
+  {
+    question: 'Can I bring family members on a Global Talent visa?',
+    answer:
+      'Yes. A spouse, partner and dependent children may apply as dependants subject to meeting relationship and financial requirements.',
   },
   {
     question: 'Can the Global Talent visa lead to settlement?',
     answer:
-      'Yes. The route can lead to Indefinite Leave to Remain (settlement) and, in time, British citizenship.',
+      'Yes. The route can lead to Indefinite Leave to Remain after three years for Exceptional Talent applicants, or five years for Exceptional Promise applicants, subject to meeting residence and ongoing professional activity requirements.',
+  },
+  {
+    question: 'What are the most common reasons Global Talent applications are refused?',
+    answer:
+      'Applications are often refused where evidence lacks independent verification, where recommendation letters are insufficiently authoritative, or where international recognition is not clearly demonstrated. Careful structuring of the evidence portfolio significantly increases the likelihood of success.',
   },
 ];
+
+const ARTICLE_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  '@id': 'https://immigration.taylorhampton.co.uk/global-talent#article',
+  headline: 'How Do I Apply for a UK Global Talent Visa in the Arts, Music and Creative Industries?',
+  description:
+    'Legal guidance on applying for a UK Global Talent visa for artists and creative professionals including endorsement through Arts Council England and settlement pathways.',
+  author: {
+    '@type': 'Organization',
+    name: 'Taylor Hampton Solicitors — UK Immigration',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Taylor Hampton Solicitors — UK Immigration',
+    logo: {
+      '@type': 'ImageObject',
+      url: 'https://immigration.taylorhampton.co.uk/logo.png',
+    },
+  },
+  mainEntityOfPage: 'https://immigration.taylorhampton.co.uk/global-talent',
+  datePublished: '2026-02-01',
+  dateModified: '2026-02-01',
+};
 
 export default function GlobalTalentPage() {
   return (
     <>
       <StructuredData data={buildFaqSchema(GT_FAQ)} />
+      <StructuredData data={LEGAL_SERVICE_SCHEMA} />
+      <StructuredData data={ARTICLE_SCHEMA} />
+
+      {/* AEO: Question-driven H1 and extractable summary */}
+      <div className="sr-only">
+        <h1>How Do I Apply for a UK Global Talent Visa in the Arts, Music and Creative Industries?</h1>
+        <p>
+          The UK Global Talent visa allows internationally recognised artists, musicians and creative
+          professionals to live and work in the United Kingdom without requiring a sponsor. Applicants
+          must first obtain endorsement from a designated body such as Arts Council England before
+          submitting a visa application. The route offers significant flexibility and can lead to
+          settlement and British citizenship.
+        </p>
+      </div>
+
       <Hero
         image="/assets/photos/pexels-jdominici-269128.jpg"
         alt="Creative arts performance representing the Global Talent visa route"
@@ -101,6 +150,63 @@ export default function GlobalTalentPage() {
         </div>
       </SectionWrap>
 
+      {/* Step by Step Process */}
+      <SectionWrap bg="cream" pattern goldTop>
+        <div className="max-w-[700px] mx-auto animate-on-scroll">
+          <SectionHeading align="left">Step by Step Global Talent Visa Process</SectionHeading>
+          <div className="space-y-6">
+            {[
+              {
+                stage: 'Stage One',
+                title: 'Eligibility Assessment',
+                body: 'An initial assessment determines whether the applicant meets the criteria for Exceptional Talent or Exceptional Promise.',
+              },
+              {
+                stage: 'Stage Two',
+                title: 'Evidence Preparation',
+                body: 'Applicants must compile a structured portfolio including professional achievements, international recognition, letters of recommendation and supporting documentation.',
+              },
+              {
+                stage: 'Stage Three',
+                title: 'Endorsement Application',
+                body: 'The application is submitted to the relevant endorsing body, such as Arts Council England for arts and culture applicants.',
+              },
+              {
+                stage: 'Stage Four',
+                title: 'Visa Application',
+                body: 'Once endorsement is granted, the applicant submits the visa application to the Home Office.',
+              },
+              {
+                stage: 'Stage Five',
+                title: 'Decision and Grant of Leave',
+                body: 'If approved, leave may be granted for up to five years with the option to extend and apply for settlement.',
+              },
+            ].map((s, i) => (
+              <div key={i} className="flex gap-4 items-start" style={{ transitionDelay: `${i * 50}ms` }}>
+                <div className="shrink-0 w-[90px] text-right">
+                  <span className="text-gold text-[0.75rem] font-semibold uppercase tracking-wider">{s.stage}</span>
+                </div>
+                <div className="border-l border-navy/10 pl-4">
+                  <p className="text-[0.92rem] font-semibold text-navy mb-1">{s.title}</p>
+                  <p className="text-body text-[0.88rem] leading-relaxed">{s.body}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </SectionWrap>
+
+      {/* Settlement */}
+      <SectionWrap bg="white">
+        <div className="max-w-[700px] animate-on-scroll">
+          <SectionHeading align="left">Settlement and Long-Term Planning</SectionHeading>
+          <div className="space-y-4 text-body text-[0.92rem] leading-[1.75]">
+            <p>The Global Talent visa provides a pathway to Indefinite Leave to Remain. Applicants endorsed under Exceptional Talent may qualify for settlement after three years. Those endorsed under Exceptional Promise typically qualify after five years, subject to residence and ongoing professional activity requirements.</p>
+            <p>Strategic planning is important to ensure continuity of lawful residence and eligibility for British citizenship where desired. Taylor Hampton advises clients on both immediate applications and long-term immigration planning.</p>
+          </div>
+        </div>
+      </SectionWrap>
+
       {/* How we help */}
       <SectionWrap bg="cream" pattern goldTop>
         <SectionHeading>How Taylor Hampton Supports Your Application</SectionHeading>
@@ -145,6 +251,21 @@ export default function GlobalTalentPage() {
           <div className="lg:col-span-5 animate-on-scroll" style={{ transitionDelay: '100ms' }}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/assets/photos/pexels-streetlevelphotos-11796156.jpg" alt="Iconic London red bus near the Houses of Parliament, representing the UK arts and culture scene" width={600} height={800} loading="lazy" className="rounded-md shadow-xl w-full aspect-[3/4] object-cover" />
+          </div>
+        </div>
+      </SectionWrap>
+
+      {/* FAQs */}
+      <SectionWrap bg="cream" pattern goldTop>
+        <div className="max-w-[700px] mx-auto">
+          <SectionHeading align="left">Frequently Asked Questions</SectionHeading>
+          <div className="space-y-6">
+            {GT_FAQ.map((item, i) => (
+              <div key={i} className="animate-on-scroll border-b border-navy/10 pb-6 last:border-0" style={{ transitionDelay: `${i * 40}ms` }}>
+                <p className="text-[0.92rem] font-semibold text-navy mb-2">{item.question}</p>
+                <p className="text-body text-[0.88rem] leading-relaxed">{item.answer}</p>
+              </div>
+            ))}
           </div>
         </div>
       </SectionWrap>
