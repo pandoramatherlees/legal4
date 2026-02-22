@@ -11,13 +11,13 @@ export const metadata = {
   description:
     'Expert legal advice on UK Global Talent visas for artists, musicians, performers and creative professionals. Endorsed through Arts Council England. Based in London.',
   alternates: {
-    canonical: 'https://immigration.taylorhampton.co.uk/global-talent',
+    canonical: 'https://taylorhamptonimmigration.london/global-talent',
   },
   openGraph: {
     title: 'Global Talent Visa — Arts & Creative Industries | Taylor Hampton',
     description:
       'Expert legal advice on UK Global Talent visas for artists, musicians, performers and creative professionals.',
-    url: 'https://immigration.taylorhampton.co.uk/global-talent',
+    url: 'https://taylorhamptonimmigration.london/global-talent',
   },
 };
 
@@ -57,7 +57,7 @@ const GT_FAQ = [
 const ARTICLE_SCHEMA = {
   '@context': 'https://schema.org',
   '@type': 'Article',
-  '@id': 'https://immigration.taylorhampton.co.uk/global-talent#article',
+  '@id': 'https://taylorhamptonimmigration.london/global-talent#article',
   headline: 'How Do I Apply for a UK Global Talent Visa in the Arts, Music and Creative Industries?',
   description:
     'Legal guidance on applying for a UK Global Talent visa for artists and creative professionals including endorsement through Arts Council England and settlement pathways.',
@@ -70,10 +70,10 @@ const ARTICLE_SCHEMA = {
     name: 'Taylor Hampton Solicitors — UK Immigration',
     logo: {
       '@type': 'ImageObject',
-      url: 'https://immigration.taylorhampton.co.uk/logo.png',
+      url: 'https://taylorhamptonimmigration.london/logo.png',
     },
   },
-  mainEntityOfPage: 'https://immigration.taylorhampton.co.uk/global-talent',
+  mainEntityOfPage: 'https://taylorhamptonimmigration.london/global-talent',
   datePublished: '2026-02-01',
   dateModified: '2026-02-01',
 };
