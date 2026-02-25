@@ -140,26 +140,33 @@ export default function ContactPage() {
                 Leena Chouhan
               </h3>
               <p className="text-gold text-[0.82rem] font-semibold tracking-[0.04em] mb-4">
-                Solicitor &mdash; Immigration
+                Head of UK Immigration &mdash; Solicitor
               </p>
               <div className="space-y-3 text-body text-[0.88rem] leading-[1.75]">
                 <p>
-                  Leena is a specialist immigration solicitor at Taylor Hampton with particular
-                  expertise in Global Talent visas for the creative industries. She advises
-                  international artists, musicians, performers and creative professionals on all
-                  aspects of their UK immigration needs.
+                  Leena Chouhan is a highly experienced UK immigration solicitor with over 20
+                  years&apos; post&#8209;qualification experience. She currently serves as Head of
+                  UK Immigration at Taylor Hampton, specialising in Global Talent visas, Skilled
+                  Worker immigration, and a wide range of UK visa and settlement matters.
                 </p>
                 <p>
-                  With a thorough understanding of the arts and cultural sectors, Leena is well
-                  placed to guide clients through the endorsement and visa application processes.
-                  She also has significant experience in spouse and partner visa applications and
-                  skilled worker immigration.
+                  Leena qualified as a solicitor in 2004 and has held senior roles at EY,
+                  Fragomen, and Moore Barlow, as well as running her own immigration practice.
+                  This extensive experience equips her with a deep understanding of both corporate
+                  and personal immigration issues.
                 </p>
                 <p>
-                  Leena is committed to providing clear, strategic advice tailored to each
-                  client&apos;s circumstances. She understands the pressures faced by creative
-                  professionals working to international schedules and is known for her responsive,
-                  practical approach.
+                  She advises a diverse clientele &mdash; from international artists, performers,
+                  and creative professionals to corporate employers &mdash; on Endorsement
+                  applications, Sponsor Licences, Skilled Worker visas, Spouse visas, Indefinite
+                  Leave to Remain, Naturalisation, and other UK immigration matters.
+                </p>
+                <p>
+                  Known for being approachable, responsive, and practical, Leena has built a
+                  strong reputation for repeat business and referrals through her tailored,
+                  strategic advice and commitment to client success. She understands the pressures
+                  faced by clients working to international schedules and delivers solutions in a
+                  friendly, supportive, and results&#8209;focused manner.
                 </p>
               </div>
             </div>
