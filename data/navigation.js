@@ -4,6 +4,7 @@ export const NAV_LINKS = [
   { href: '/spouse', label: 'Spouse & Partner Visas' },
   { href: '/skilled-worker', label: 'Skilled Worker Visas' },
   { href: '/fees', label: 'Fees' },
+  { href: '/news-articles', label: 'News' },
 ];
 
 export const LEGAL_LINKS = [
