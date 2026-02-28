@@ -1,4 +1,4 @@
-import { ARTICLES } from '@/data/articles';
+import { ARTICLES } from '@/data/Articles';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 
