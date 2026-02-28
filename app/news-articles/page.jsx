@@ -1,4 +1,4 @@
-import { ARTICLES } from '@/data/articles';
+import { ARTICLES } from '@/data/Articles';
 import Link from 'next/link';
 
 export const metadata = {
