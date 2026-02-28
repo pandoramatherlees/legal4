@@ -6,8 +6,9 @@ export function generateStaticParams() {
   return ARTICLES.map((a) => ({ slug: a.slug }));
 }
 
-export function generateMetadata({ params }) {
-  const article = ARTICLES.find((a) => a.slug === params.slug);
+export async function generateMetadata({ params }) {
+  const { slug } = await params;
+  const article = ARTICLES.find((a) => a.slug === slug);
   if (!article) return {};
   return {
     title: `${article.title} | Taylor Hampton Solicitors`,
@@ -15,8 +16,9 @@ export function generateMetadata({ params }) {
   };
 }
 
-export default function ArticlePage({ params }) {
-  const article = ARTICLES.find((a) => a.slug === params.slug);
+export default async function ArticlePage({ params }) {
+  const { slug } = await params;
+  const article = ARTICLES.find((a) => a.slug === slug);
   if (!article) notFound();
 
   const paragraphs = article.content
@@ -57,12 +59,8 @@ export default function ArticlePage({ params }) {
               <p key={i}>{para}</p>
             ))}
           </div>
-
           <div className="mt-16 pt-8 border-t border-gray-100">
-            <Link
-              href="/news-articles"
-              className="text-gold font-semibold hover:underline"
-            >
+            <Link href="/news-articles" className="text-gold font-semibold hover:underline">
               ← Back to all articles
             </Link>
           </div>
