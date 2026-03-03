@@ -1,6 +1,5 @@
 export default function sitemap() {
   const baseUrl = 'https://taylorhamptonimmigration.london';
-
   return [
     { url: baseUrl, lastModified: new Date() },
     { url: `${baseUrl}/global-talent`, lastModified: new Date() },
@@ -10,5 +9,7 @@ export default function sitemap() {
     { url: `${baseUrl}/contact`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/uk-global-talent-visa-guide`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/global-talent-visa-guide-2026`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/uk-evisa-digital-immigration-system`, lastModified: new Date() },
   ];
 }
