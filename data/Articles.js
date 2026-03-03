@@ -1,4 +1,65 @@
+Sure — here it is:
+
+```typescript
 export const ARTICLES = [
+  {
+    id: 3,
+    title: "Moving to a Digital Immigration System: What You Need to Know About UK eVisas",
+    date: "3 March 2026",
+    category: "Immigration Law",
+    excerpt: "In this article Leena Chouhan explains new technology in immigration and the digital immigration system for prospective applicants.",
+    slug: "uk-evisa-digital-immigration-system",
+    author: "Leena Chouhan",
+    content: `The UK immigration system is moving fully into the digital age. UK Visas and Immigration (UKVI) is replacing physical immigration documents with secure online records known as eVisas. This transition is being introduced in phases to ensure a smooth and managed change for applicants and visa holders.
+
+An eVisa is a digital record of your identity and immigration status. It confirms your permission to enter or stay in the UK and sets out the conditions attached to that permission.
+
+Since 2018, millions of individuals have already been issued with an eVisa. UKVI continues to publish statistics showing the number of digital accounts created as the system expands.
+
+Importantly, switching from a physical document to an eVisa does not change your immigration status. Your rights, visa conditions and length of stay remain exactly the same.
+
+What Are the Benefits of an eVisa?
+
+The digital system has been designed to increase security, speed and convenience.
+
+An eVisa cannot be lost, stolen or tampered with in the way that a physical visa or biometric residence permit can. Your status is securely stored online.
+
+As a result, you will no longer need to wait for a physical document to be produced or collected once a decision has been made. In some cases, you may still need to provide biometric information in person. UKVI will notify you if this applies.
+
+Proving your immigration status becomes quicker and simpler. You can access your UKVI account to demonstrate your status at the UK border and share it with employers, landlords and other authorised third parties when required.
+
+Government departments and certain public authorities will continue to receive relevant status information automatically when needed, reducing the administrative burden on visa holders.
+
+What Do I Need to Do to Get an eVisa?
+
+The steps you need to take depend on your individual circumstances.
+
+First, you should check whether you can access or create a UKVI account linked to an eVisa. If you are applying for a new visa or updating an existing status, you will be guided through the digital process.
+
+New Applications From 25 February 2026
+
+From 25 February 2026, most individuals who make a successful application for a UK visit visa, and most other UK visa categories, will receive an eVisa only.
+
+Before travelling to the UK, you must log into your UKVI account to view the permission granted to you. After your application decision, you will be informed how to access your eVisa and whether you will also receive a visa sticker in your passport.
+
+Who Is Already Receiving an eVisa?
+
+eVisas have already replaced visa stickers for:
+
+- Main applicants and dependants applying for work, study and family visas
+- Applicants seeking indefinite leave to enter or settlement on any route, for applications made on or after 30 October 2025
+- Main applicants on work and study routes for applications made on or after 15 July 2025
+
+This reflects the government's clear direction towards a fully digital immigration system.
+
+Expert Immigration Advice
+
+If you are unsure how the digital transition affects your application or existing status, tailored legal advice is essential.
+
+For professional guidance, please contact Leena Chouhan, Head of Immigration at Taylor Hampton Solicitors on 020 7427 5972 or at leena.chouhan@taylorhampton.co.uk.
+
+Clear advice at the right time ensures your immigration position remains secure.`,
+  },
   {
     id: 2,
     title: "The Global Talent Visa: What It Is and Whether It Could Be Right for You",
@@ -70,3 +131,6 @@ For applicants considering this pathway, strategic preparation is essential. The
 Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to individual circumstances should always be sought before taking action.`,
   },
 ];
+```
+
+Just copy and paste that directly over your existing file. The new eVisa article sits at the top as id 3, with the two existing articles unchanged below it.
