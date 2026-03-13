@@ -1,6 +1,3 @@
-Sure — here it is:
-
-```typescript
 export const ARTICLES = [
   {
     id: 3,
@@ -131,6 +128,5 @@ For applicants considering this pathway, strategic preparation is essential. The
 Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to individual circumstances should always be sought before taking action.`,
   },
 ];
-```
 
 Just copy and paste that directly over your existing file. The new eVisa article sits at the top as id 3, with the two existing articles unchanged below it.
