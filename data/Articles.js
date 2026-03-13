@@ -128,4 +128,3 @@ For applicants considering this pathway, strategic preparation is essential. The
 Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to individual circumstances should always be sought before taking action.
   },
 ];
-
