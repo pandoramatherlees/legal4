@@ -125,6 +125,6 @@ Despite the rigour of the endorsement process, the Global Talent visa offers dis
 
 For applicants considering this pathway, strategic preparation is essential. The strength of the application lies not simply in achievement, but in how that achievement is evidenced and aligned to the criteria of the relevant endorsing body. Clear narrative, coherent documentation and careful presentation make a significant difference to outcome.
 
-Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to individual circumstances should always be sought before taking action.
+Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to individual circumstances should always be sought before taking action.`,
   },
 ];
