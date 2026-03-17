@@ -127,7 +127,7 @@ For applicants considering this pathway, strategic preparation is essential. The
 
 Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to individual circumstances should always be sought before taking action.`,
   },
-];,{
+{
   slug: "new-sponsor-compliance-duties-2026",
   title: "New Sponsor Compliance Duties You Need to Act on Now",
   author: "Leena Chouhan",
@@ -216,3 +216,4 @@ For further guidance, visit the [official Home Office sponsor guidance](https://
 To discuss your organisation's compliance position, [contact Leena Chouhan at Taylor Hampton Solicitors](https://taylorhampton.co.uk/).
   `,
 },
+];
