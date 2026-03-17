@@ -127,4 +127,92 @@ For applicants considering this pathway, strategic preparation is essential. The
 
 Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to individual circumstances should always be sought before taking action.`,
   },
-];
+];,{
+  slug: "new-sponsor-compliance-duties-2026",
+  title: "New Sponsor Compliance Duties You Need to Act on Now",
+  author: "Leena Chouhan",
+  date: "17 March 2026",
+  excerpt: "On 6 March 2026, the Home Office updated its sponsor guidance. These changes are already in force and capable of immediate enforcement. Here is what sponsors need to do now.",
+  content: `
+Beneath the recent headlines on visa restrictions and geopolitical developments, a quieter but highly significant shift has taken place in UK immigration compliance.
+
+On 6 March 2026, the Home Office updated its sponsor guidance, including Parts 1 to 3, Appendix D, and introduced a new glossary. These changes followed closely behind HC 1691. While they arrived without fanfare, they are already in force and capable of immediate enforcement.
+
+For sponsors, this creates a simple but urgent reality. If you have not reviewed the updated guidance, your compliance framework is already out of date.
+
+## A New Duty: Evidence of Worker Rights Information
+
+One of the most practical and immediate changes appears in Appendix D. Sponsors must now retain evidence that they have informed sponsored workers of their employment rights in the UK.
+
+This is not a theoretical obligation. Paragraph L2.7 of Part 1 requires sponsors to demonstrate, through HR systems and processes, that this information has been provided. Appendix D confirms that acceptable records may include contracts, written guidance and training materials.
+
+What matters is this. The duty applies not only to new hires but to your entire sponsored workforce.
+
+If you cannot evidence that an existing sponsored employee has received this information, you are already non-compliant. Sponsors should act now to review records across all sponsored individuals and ensure documentation is complete.
+
+## The Introduction of the "Eligible Role"
+
+A new defined term, "eligible role", has been introduced into the guidance. At first glance it appears straightforward, but its implications are far reaching.
+
+A role must now genuinely exist at the point a certificate of sponsorship is assigned. It must reflect real duties, real hours, meet salary and skill thresholds and align with the sponsor's business model and scale. Crucially, the Home Office must be satisfied that these conditions will continue throughout the sponsorship period.
+
+This gives the Home Office a clearer basis to challenge whether a role is genuine. It will be particularly relevant for businesses introducing new roles or exploring self-sponsorship structures.
+
+Sponsors should expect closer scrutiny of how roles are defined and justified within the business.
+
+## Job Descriptions and Occupation Codes: No Room for Drift
+
+The updated guidance reinforces a strict requirement that the role described on a certificate of sponsorship must match what the worker actually does in practice.
+
+If a mismatch is identified and it does not fall within permitted changes, this is now explicitly a mandatory ground for revocation of a sponsor licence.
+
+This is a notable shift in tone. While reporting duties have always existed, the consequences are now clearly framed.
+
+Sponsors should review their entire workforce, not only new hires. Internal processes for promotions, restructures and role changes must be aligned with reporting obligations. Where a change requires a new certificate of sponsorship, it must be identified and actioned promptly.
+
+## A Reset in the Sponsor Relationship
+
+Perhaps the most telling change is not operational but philosophical.
+
+The updated guidance makes clear that sponsorship is a privilege, not a right. It states that a licence creates no enforceable entitlement and may be refused or revoked where the Home Office has reasonable concerns.
+
+The language is deliberate. It signals a shift away from the earlier model of partnership towards a more enforcement-led approach.
+
+This shift is reflected in practice. In September 2025, nearly 2,000 sponsor licences were revoked. The direction of travel is clear.
+
+## Additional Changes Sponsors Must Prepare For
+
+The updated guidance sits alongside further changes introduced through HC 1691.
+
+From 7 April 2026, salary compliance will be assessed per pay period rather than averaged annually. A single payroll error could therefore create immediate compliance risk.
+
+From 26 March 2026, asylum seekers accepting new employment will be restricted to roles at degree level or above. While existing arrangements are unaffected, any new hire must meet this threshold.
+
+Both changes increase the operational burden on sponsors and reduce margin for error.
+
+## What Sponsors Should Do Now
+
+The combined effect of these developments is significant. Compliance is no longer a static process but a live, ongoing obligation requiring active management.
+
+Sponsors should prioritise a full audit of their sponsored workforce. This should include:
+
+- Verification of right to work and employment rights records
+- Review of job descriptions against actual duties
+- Confirmation of occupation codes and salary compliance
+- Assessment of internal reporting processes
+
+Where issues are identified, early action is essential. In some cases, proactive correction or disclosure may mitigate risk.
+
+## A Changing Landscape
+
+The sponsorship regime was once framed as a partnership between business and government. That balance has shifted.
+
+Sponsors are now operating in a more controlled and scrutinised environment. The updated guidance makes clear that compliance is expected, monitored and enforced.
+
+For organisations relying on international talent, the message is simple. The time to review and strengthen compliance is now.
+
+For further guidance, visit the [official Home Office sponsor guidance](https://www.gov.uk/government/collections/sponsorship-information-for-employers-and-educators).
+
+To discuss your organisation's compliance position, [contact Leena Chouhan at Taylor Hampton Solicitors](https://taylorhampton.co.uk/).
+  `,
+},
