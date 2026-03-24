@@ -15,4 +15,3 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/uk-immigration-settlement-reforms-2026`, lastModified: new Date() },
   ];
 }
-```
