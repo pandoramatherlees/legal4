@@ -1,5 +1,131 @@
 export const ARTICLES = [
   {
+    id: 5,
+    title: "UK Immigration Application Changes: What You Need to Know",
+    date: "24 March 2026",
+    category: "Immigration Law",
+    excerpt: "The debate around settlement rights has moved to the centre of UK immigration policy. Leena Chouhan explains what the proposed reforms mean for individuals, families and employers.",
+    slug: "uk-immigration-settlement-reforms-2026",
+    author: "Leena Chouhan",
+    content: `The debate around settlement rights has moved to the centre of UK immigration policy. It is now shaping political tension and legal uncertainty in equal measure. For individuals and businesses alike, the proposed reforms raise immediate questions. What will change, who will be affected, and how should people respond.
+
+At the heart of the issue is the government's plan to extend the qualifying period for indefinite leave to remain from five years to ten. Indeed, this is a significant shift. Notably, settlement has long represented a clear and structured pathway. As such, it offers stability, access to work and education and the ability to build a long term future in the UK. Therefore, extending that pathway changes not only timelines but expectations.
+
+As a result, the proposal has triggered strong reactions within Parliament. In fact, many Labour MPs are now considering procedural steps to force a symbolic vote. While such a vote would not bind the government, it would publicly expose divisions within the party. Importantly this matters for applicants. Immigration policy relies heavily on confidence and consistency. Hence, visible disagreement can create uncertainty for applicants and sponsors.
+
+At the same time, the Home Office has made clear that it believes reform is necessary. Net migration figures have risen sharply in recent years. The government argues that longer routes to settlement will help restore balance and reinforce the principle that permanent residence should be earned. This reflects a broader policy direction seen elsewhere, including Denmark, where stricter frameworks are linked to reduced migration flows.
+
+However, the proposed changes go further than many expected. In particular, the suggestion that new rules could apply to individuals already in the UK has proved controversial. Critics argue that this undermines legitimate expectations. Many migrants have made life decisions based on the current five-year route. Therefore, extending the timeline retrospectively raises concerns about fairness and trust.
+
+There is also a practical dimension. In reality skilled migrants often compare international systems before choosing where to live and work. Countries such as Canada and Australia continue to offer relatively clear and predictable routes to permanent residence. If the UK becomes less competitive in this respect, it may affect its ability to attract talent. This is not simply a political argument. It has economic consequences, particularly in sectors that rely on international expertise.
+
+In response to these concerns, the government has indicated that transitional arrangements may be introduced. This could soften the impact for some individuals already on a settlement pathway. Yet the detail remains unclear. Without clarity, individuals face difficulty in planning their future. Employers face similar challenges when considering recruitment and retention strategies.
+
+For care workers and refugees, the implications are especially significant. These groups often rely on settlement as a means of securing long term stability after periods of uncertainty. Extending the qualifying period may delay access to benefits and other forms of support. It may also affect decisions around family life, housing, and career development.
+
+Despite internal opposition, there is also support for aspects of the reform agenda. Proposals for new safe and legal routes have been broadly welcomed, although details are still awaited. Meanwhile, opposition parties have taken differing positions. Some argue the reforms do not go far enough, while others oppose them entirely. This creates a complex political landscape, where policy may continue to evolve.
+
+Against this backdrop, legal advice becomes essential. Immigration rules are rarely static. However, periods of reform require particular care. Small changes in wording or timing can have significant consequences for eligibility. This is especially true where transitional provisions apply.
+
+At Taylor Hampton Solicitors, Leena Chouhan and her team work closely with individuals and businesses navigating these changes. The focus is practical and forward looking. Each case is assessed on its own facts. Clear advice is provided on current eligibility, potential risks, and strategic options.
+
+For those already in the UK, it is important to review your position now. In some cases, it may be possible to accelerate an application under existing rules. In others, preparation will be key to ensuring that future requirements can be met. Early action can make a material difference.
+
+For employers, planning is equally important. Sponsorship strategies may need to adapt. Retention policies may need to reflect longer settlement timelines. Clear communication with employees will help manage expectations and reduce uncertainty.
+
+Looking ahead, further developments are likely. The scale of consultation responses indicates strong public interest. Parliamentary pressure may lead to adjustments, particularly in relation to transitional arrangements. Yet the direction of travel appears clear. The UK is moving towards a more restrictive settlement framework.
+
+In this environment, informed decision making is critical. Immigration is not only a legal process. It is a life decision. It affects careers, families, and long term plans. Access to clear, reliable advice can provide the confidence needed to move forward.
+
+Taylor Hampton Solicitors continues to support clients through every stage of that journey. Whether you are seeking to secure settlement, protect your current status, or plan for future opportunities, expert guidance ensures that you remain one step ahead of change.
+
+For further information contact leena.chouhan@taylorhampton.co.uk or phone 0044 207 427 5972.`,
+  },
+  {
+    id: 4,
+    title: "New Sponsor Compliance Duties You Need to Act on Now",
+    date: "17 March 2026",
+    category: "Immigration Law",
+    excerpt: "On 6 March 2026, the Home Office updated its sponsor guidance. These changes are already in force and capable of immediate enforcement. Here is what sponsors need to do now.",
+    slug: "new-sponsor-compliance-duties-2026",
+    author: "Leena Chouhan",
+    content: `Beneath the recent headlines on visa restrictions and geopolitical developments, a quieter but highly significant shift has taken place in UK immigration compliance.
+
+On 6 March 2026, the Home Office updated its sponsor guidance, including Parts 1 to 3, Appendix D, and introduced a new glossary. These changes followed closely behind HC 1691. While they arrived without fanfare, they are already in force and capable of immediate enforcement.
+
+For sponsors, this creates a simple but urgent reality. If you have not reviewed the updated guidance, your compliance framework is already out of date.
+
+A New Duty: Evidence of Worker Rights Information
+
+One of the most practical and immediate changes appears in Appendix D. Sponsors must now retain evidence that they have informed sponsored workers of their employment rights in the UK.
+
+This is not a theoretical obligation. Paragraph L2.7 of Part 1 requires sponsors to demonstrate, through HR systems and processes, that this information has been provided. Appendix D confirms that acceptable records may include contracts, written guidance and training materials.
+
+What matters is this. The duty applies not only to new hires but to your entire sponsored workforce.
+
+If you cannot evidence that an existing sponsored employee has received this information, you are already non-compliant. Sponsors should act now to review records across all sponsored individuals and ensure documentation is complete.
+
+The Introduction of the "Eligible Role"
+
+A new defined term, "eligible role", has been introduced into the guidance. At first glance it appears straightforward, but its implications are far reaching.
+
+A role must now genuinely exist at the point a certificate of sponsorship is assigned. It must reflect real duties, real hours, meet salary and skill thresholds and align with the sponsor's business model and scale. Crucially, the Home Office must be satisfied that these conditions will continue throughout the sponsorship period.
+
+This gives the Home Office a clearer basis to challenge whether a role is genuine. It will be particularly relevant for businesses introducing new roles or exploring self-sponsorship structures.
+
+Sponsors should expect closer scrutiny of how roles are defined and justified within the business.
+
+Job Descriptions and Occupation Codes: No Room for Drift
+
+The updated guidance reinforces a strict requirement that the role described on a certificate of sponsorship must match what the worker actually does in practice.
+
+If a mismatch is identified and it does not fall within permitted changes, this is now explicitly a mandatory ground for revocation of a sponsor licence.
+
+This is a notable shift in tone. While reporting duties have always existed, the consequences are now clearly framed.
+
+Sponsors should review their entire workforce, not only new hires. Internal processes for promotions, restructures and role changes must be aligned with reporting obligations. Where a change requires a new certificate of sponsorship, it must be identified and actioned promptly.
+
+A Reset in the Sponsor Relationship
+
+Perhaps the most telling change is not operational but philosophical.
+
+The updated guidance makes clear that sponsorship is a privilege, not a right. It states that a licence creates no enforceable entitlement and may be refused or revoked where the Home Office has reasonable concerns.
+
+The language is deliberate. It signals a shift away from the earlier model of partnership towards a more enforcement-led approach.
+
+This shift is reflected in practice. In September 2025, nearly 2,000 sponsor licences were revoked. The direction of travel is clear.
+
+Additional Changes Sponsors Must Prepare For
+
+The updated guidance sits alongside further changes introduced through HC 1691.
+
+From 7 April 2026, salary compliance will be assessed per pay period rather than averaged annually. A single payroll error could therefore create immediate compliance risk.
+
+From 26 March 2026, asylum seekers accepting new employment will be restricted to roles at degree level or above. While existing arrangements are unaffected, any new hire must meet this threshold.
+
+Both changes increase the operational burden on sponsors and reduce margin for error.
+
+What Sponsors Should Do Now
+
+The combined effect of these developments is significant. Compliance is no longer a static process but a live, ongoing obligation requiring active management.
+
+Sponsors should prioritise a full audit of their sponsored workforce. This should include verification of right to work and employment rights records, review of job descriptions against actual duties, confirmation of occupation codes and salary compliance, and assessment of internal reporting processes.
+
+Where issues are identified, early action is essential. In some cases, proactive correction or disclosure may mitigate risk.
+
+A Changing Landscape
+
+The sponsorship regime was once framed as a partnership between business and government. That balance has shifted.
+
+Sponsors are now operating in a more controlled and scrutinised environment. The updated guidance makes clear that compliance is expected, monitored and enforced.
+
+For organisations relying on international talent, the message is simple. The time to review and strengthen compliance is now.
+
+For further guidance, visit the official Home Office sponsor guidance at https://www.gov.uk/government/collections/sponsorship-information-for-employers-and-educators.
+
+To discuss your organisation's compliance position, contact Leena Chouhan at Taylor Hampton Solicitors at leena.chouhan@taylorhampton.co.uk.`,
+  },
+  {
     id: 3,
     title: "Moving to a Digital Immigration System: What You Need to Know About UK eVisas",
     date: "3 March 2026",
@@ -41,11 +167,7 @@ Before travelling to the UK, you must log into your UKVI account to view the per
 
 Who Is Already Receiving an eVisa?
 
-eVisas have already replaced visa stickers for:
-
-- Main applicants and dependants applying for work, study and family visas
-- Applicants seeking indefinite leave to enter or settlement on any route, for applications made on or after 30 October 2025
-- Main applicants on work and study routes for applications made on or after 15 July 2025
+eVisas have already replaced visa stickers for main applicants and dependants applying for work, study and family visas, applicants seeking indefinite leave to enter or settlement on any route for applications made on or after 30 October 2025, and main applicants on work and study routes for applications made on or after 15 July 2025.
 
 This reflects the government's clear direction towards a fully digital immigration system.
 
@@ -127,93 +249,4 @@ For applicants considering this pathway, strategic preparation is essential. The
 
 Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to individual circumstances should always be sought before taking action.`,
   },
-{
-  slug: "new-sponsor-compliance-duties-2026",
-  title: "New Sponsor Compliance Duties You Need to Act on Now",
-  author: "Leena Chouhan",
-  date: "17 March 2026",
-  excerpt: "On 6 March 2026, the Home Office updated its sponsor guidance. These changes are already in force and capable of immediate enforcement. Here is what sponsors need to do now.",
-  content: `
-Beneath the recent headlines on visa restrictions and geopolitical developments, a quieter but highly significant shift has taken place in UK immigration compliance.
-
-On 6 March 2026, the Home Office updated its sponsor guidance, including Parts 1 to 3, Appendix D, and introduced a new glossary. These changes followed closely behind HC 1691. While they arrived without fanfare, they are already in force and capable of immediate enforcement.
-
-For sponsors, this creates a simple but urgent reality. If you have not reviewed the updated guidance, your compliance framework is already out of date.
-
-## A New Duty: Evidence of Worker Rights Information
-
-One of the most practical and immediate changes appears in Appendix D. Sponsors must now retain evidence that they have informed sponsored workers of their employment rights in the UK.
-
-This is not a theoretical obligation. Paragraph L2.7 of Part 1 requires sponsors to demonstrate, through HR systems and processes, that this information has been provided. Appendix D confirms that acceptable records may include contracts, written guidance and training materials.
-
-What matters is this. The duty applies not only to new hires but to your entire sponsored workforce.
-
-If you cannot evidence that an existing sponsored employee has received this information, you are already non-compliant. Sponsors should act now to review records across all sponsored individuals and ensure documentation is complete.
-
-## The Introduction of the "Eligible Role"
-
-A new defined term, "eligible role", has been introduced into the guidance. At first glance it appears straightforward, but its implications are far reaching.
-
-A role must now genuinely exist at the point a certificate of sponsorship is assigned. It must reflect real duties, real hours, meet salary and skill thresholds and align with the sponsor's business model and scale. Crucially, the Home Office must be satisfied that these conditions will continue throughout the sponsorship period.
-
-This gives the Home Office a clearer basis to challenge whether a role is genuine. It will be particularly relevant for businesses introducing new roles or exploring self-sponsorship structures.
-
-Sponsors should expect closer scrutiny of how roles are defined and justified within the business.
-
-## Job Descriptions and Occupation Codes: No Room for Drift
-
-The updated guidance reinforces a strict requirement that the role described on a certificate of sponsorship must match what the worker actually does in practice.
-
-If a mismatch is identified and it does not fall within permitted changes, this is now explicitly a mandatory ground for revocation of a sponsor licence.
-
-This is a notable shift in tone. While reporting duties have always existed, the consequences are now clearly framed.
-
-Sponsors should review their entire workforce, not only new hires. Internal processes for promotions, restructures and role changes must be aligned with reporting obligations. Where a change requires a new certificate of sponsorship, it must be identified and actioned promptly.
-
-## A Reset in the Sponsor Relationship
-
-Perhaps the most telling change is not operational but philosophical.
-
-The updated guidance makes clear that sponsorship is a privilege, not a right. It states that a licence creates no enforceable entitlement and may be refused or revoked where the Home Office has reasonable concerns.
-
-The language is deliberate. It signals a shift away from the earlier model of partnership towards a more enforcement-led approach.
-
-This shift is reflected in practice. In September 2025, nearly 2,000 sponsor licences were revoked. The direction of travel is clear.
-
-## Additional Changes Sponsors Must Prepare For
-
-The updated guidance sits alongside further changes introduced through HC 1691.
-
-From 7 April 2026, salary compliance will be assessed per pay period rather than averaged annually. A single payroll error could therefore create immediate compliance risk.
-
-From 26 March 2026, asylum seekers accepting new employment will be restricted to roles at degree level or above. While existing arrangements are unaffected, any new hire must meet this threshold.
-
-Both changes increase the operational burden on sponsors and reduce margin for error.
-
-## What Sponsors Should Do Now
-
-The combined effect of these developments is significant. Compliance is no longer a static process but a live, ongoing obligation requiring active management.
-
-Sponsors should prioritise a full audit of their sponsored workforce. This should include:
-
-- Verification of right to work and employment rights records
-- Review of job descriptions against actual duties
-- Confirmation of occupation codes and salary compliance
-- Assessment of internal reporting processes
-
-Where issues are identified, early action is essential. In some cases, proactive correction or disclosure may mitigate risk.
-
-## A Changing Landscape
-
-The sponsorship regime was once framed as a partnership between business and government. That balance has shifted.
-
-Sponsors are now operating in a more controlled and scrutinised environment. The updated guidance makes clear that compliance is expected, monitored and enforced.
-
-For organisations relying on international talent, the message is simple. The time to review and strengthen compliance is now.
-
-For further guidance, visit the [official Home Office sponsor guidance](https://www.gov.uk/government/collections/sponsorship-information-for-employers-and-educators).
-
-To discuss your organisation's compliance position, [contact Leena Chouhan at Taylor Hampton Solicitors](https://taylorhampton.co.uk/).
-  `,
-},
 ];
