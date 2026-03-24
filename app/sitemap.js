@@ -14,3 +14,4 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/new-sponsor-compliance-duties-2026`, lastModified: new Date() },
   ];
 }
+{ url: `${baseUrl}/news-articles/uk-immigration-settlement-reforms-2026`, lastModified: new Date() },
