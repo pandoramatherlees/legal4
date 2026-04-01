@@ -1,4 +1,82 @@
 export const ARTICLES = [
+ {
+    id: 6,
+    title: "UK–EU Youth Mobility Scheme: What the Proposed 'Emergency Brake' Means for Employers and Young Professionals",
+    date: "1 April 2026",
+    category: "Immigration Law",
+    excerpt: "The UK and EU are negotiating a youth mobility scheme that could allow tens of thousands of young people to live and work across borders. Leena Chouhan examines the proposed 'emergency brake' and what it means in practice.",
+    slug: "uk-eu-youth-mobility-scheme-emergency-brake",
+    author: "Leena Chouhan",
+    content: `The UK government is currently in negotiations with the European Union over a proposed youth mobility scheme. This initiative could allow tens of thousands of young people to live and work across the UK and EU. However, a key point of tension has emerged. The UK is seeking firm limits on numbers. The EU is resisting this approach and instead proposing what it describes as an emergency brake.
+
+This development raises important legal and commercial questions. It also signals a shift in how post Brexit mobility may evolve in practice.
+
+What is the proposed youth mobility scheme
+
+The scheme under discussion would enable young people from the UK and EU to live and work in each other's territories for a limited period. In principle, it mirrors existing UK agreements with countries such as Australia and Canada.
+
+However, the political framing is critical. The UK government is keen to avoid categorising the scheme as a form of migration. Instead, it is being positioned as a cultural and economic exchange route. This distinction is likely to influence how the scheme is structured in law and policy.
+
+For employers, this could create a new and flexible talent pathway. For young professionals, it may reopen opportunities that were lost following Brexit.
+
+The emergency brake explained
+
+The EU has proposed a monitoring system rather than a fixed cap. Under this model, the number of participants would be tracked over time. If flows increase beyond acceptable levels, restrictions could then be introduced.
+
+In effect, this is what negotiators are referring to as an emergency brake.
+
+From a legal perspective, this approach introduces flexibility. However, it also creates uncertainty. Employers may face changes in access to talent at short notice. Individuals may find eligibility criteria shifting during the life of the scheme.
+
+By contrast, the UK government has stated that any agreement must be capped and time limited. This reflects broader domestic pressures to demonstrate control over borders.
+
+Why negotiations are proving complex
+
+At the heart of the negotiations is a difference in principle.
+
+The EU views the scheme as a strategic tool. It is designed to strengthen long term relationships between European nations. In this context, imposing strict numerical limits risks undermining its purpose.
+
+The UK, however, is balancing international cooperation with domestic political commitments. Immigration remains a sensitive issue. As a result, ministers are seeking clear safeguards.
+
+These differing priorities explain why agreement has not yet been reached, despite both sides expressing support for the concept.
+
+Wider context: resetting UK EU relations
+
+The youth mobility scheme forms part of a broader effort to reset relations between the UK and EU. Discussions are expected to continue ahead of a planned summit later this year.
+
+At the same time, the EU is implementing internal reforms, including a new migration and asylum pact. This may lead to tighter border controls across Europe. It could also have indirect effects on UK migration patterns, particularly in relation to Channel crossings.
+
+In this evolving landscape, cooperation between the UK and EU is becoming increasingly important. Youth mobility is seen as one of the more positive and forward looking areas of engagement.
+
+Implications for employers
+
+For UK businesses, the proposed scheme could offer access to a wider pool of young talent. This is particularly relevant in sectors facing labour shortages.
+
+However, the final structure of the scheme will be critical. Key questions include whether there will be a fixed annual cap, how quickly restrictions could be introduced under the emergency brake, what compliance obligations employers will face, and whether participants will have access to benefits such as reduced tuition fees.
+
+Until these details are confirmed, businesses should proceed with caution. Strategic workforce planning will need to account for potential variability.
+
+Implications for individuals
+
+For young professionals, the scheme could reopen valuable routes for international experience. This includes work, study and cultural exchange opportunities across Europe.
+
+However, individuals should be aware that the scheme is likely to be time limited, conditions may differ from previous EU free movement rights, and access to public benefits may be restricted.
+
+Legal advice will be important once the framework is finalised, particularly for those seeking to build longer term careers across borders.
+
+Looking ahead
+
+The UK government has indicated that it aims to agree a youth mobility scheme with the EU by the end of 2026. While this timeline is ambitious, progress will depend on resolving the current disagreement over caps and control mechanisms.
+
+The concept of an emergency brake may ultimately provide a compromise. It offers flexibility while preserving a degree of oversight. However, it also introduces complexity that both employers and individuals will need to navigate carefully.
+
+How we can help
+
+At Taylor Hampton Solicitors, we continue to monitor developments closely. We advise businesses and individuals on emerging immigration routes and risk management strategies in a rapidly changing legal environment.
+
+To speak with our team, please call 020 7427 5970 or email leena.chouhan@taylorhampton.co.uk.
+
+Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to your individual circumstances should always be sought before taking action.`,
+  },
   {
     id: 5,
     title: "UK Immigration Application Changes: What You Need to Know",
