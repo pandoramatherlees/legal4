@@ -1,6 +1,6 @@
 export const ARTICLES = [
  {
-    id: 7,
+    id: 8,
     title: "The End of Pre-Settled Status: New Home Office Enforcement and Automation",
     date: "13 April 2026",
     category: "Immigration Law",
@@ -47,6 +47,7 @@ To speak with our team, please call 020 7427 5970 or email leena.chouhan@taylorh
 
 Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to your individual circumstances should always be sought before taking action.`,
   },
+ {
     id: 7,
     title: "The UK Global Talent Visa for Artists: A Flexible Route for International Creatives",
     date: "9 April 2026",
