@@ -1,6 +1,53 @@
 export const ARTICLES = [
  {
     id: 7,
+    title: "The End of Pre-Settled Status: New Home Office Enforcement and Automation",
+    date: "13 April 2026",
+    category: "Immigration Law",
+    excerpt: "The Home Office has announced a significant shift in how it manages the EU Settlement Scheme, including automated checks and the removal of pre-settled status from those who no longer meet residency requirements. Leena Chouhan explains what this means.",
+    slug: "end-of-pre-settled-status-home-office-enforcement",
+    author: "Leena Chouhan",
+    content: `The Home Office has recently announced a significant shift in how it manages the EU Settlement Scheme. According to a new policy paper and reporting from the Independent Monitoring Authority, the government intends to begin removing pre-settled status from individuals who no longer meet residency requirements. For many EU, EEA and Swiss citizens, this marks a transition from a period of administrative grace to one of active enforcement.
+
+Automation and the digital border
+
+The Home Office is now leaning heavily on automated systems to manage the EUSS database. From this week, officials expanded the use of automated checks to grant settled status to those who qualify. This system relies on data from HM Revenue and Customs and the Department for Work and Pensions.
+
+Specifically, the Home Office looks for evidence of 30 months of tax or benefit records within a 60 month period. Consequently, many individuals may find their status upgraded to settled without having to submit a manual application.
+
+What is the process of removing pre-settled status
+
+However, this automation works both ways. The Home Office has also begun identifying individuals who have clearly failed to maintain their continuous residence. Generally, this applies to those who have been outside the UK for more than the permitted timeframe. The process of removing pre-settled status involves two distinct stages.
+
+The first is primary checks. The Home Office reviews internal tax and benefits data to confirm UK residence. The second is secondary checks. Where residency cannot be verified through tax records, officials will use travel data to determine if the individual has spent too much time abroad.
+
+The Home Office intends to prioritise cases based on the length of absence. They will start with individuals who have been outside the UK for up to five years. Should these checks reveal a person is actually eligible for settled status, their digital status will be converted automatically.
+
+The right to respond and vulnerable citizens
+
+It is important to note that status will not be revoked without warning. If the Home Office intends to remove your status, they must contact you first. Affected individuals will have the opportunity to provide evidence of their UK residence, explain the reasons for their absence, and detail any mitigating or proportionate reasons why they should keep their status.
+
+According to the IMA, the standard window to respond is 28 days. While additional time may be granted, particularly for vulnerable individuals, this timeframe is narrow. Therefore, keeping your contact details updated on your UKVI account is now more critical than ever.
+
+Proportionality and IMA safeguards
+
+The Home Office has stated that pre-settled status will only be removed where it is proportionate to do so. Furthermore, any decision to revoke status will include a right of appeal. Despite these assurances, there is cause for caution.
+
+Miranda Biddle, Chief Executive of the IMA, has expressed concerns regarding the implementation of this policy. While the IMA acknowledges that removing status is lawful under the Withdrawal Agreement, they have noted that current guidance lacks detail on how caseworkers will assess individual cases. With an estimated 1.4 million people still holding pre-settled status at the end of 2025, the scale of this exercise is vast.
+
+Legal implications and next steps
+
+The move toward automation is designed to streamline the system. Nevertheless, it also increases the risk of false negatives for those with non-traditional work patterns or periods of travel. Individuals who are self-employed, students, or those who rely on family support may not leave a clear tax trail, making them more susceptible to these automated flags.
+
+If you believe your residency records may be incomplete or if you have had significant absences from the UK, you should seek professional advice immediately. Navigating the appeal process or submitting complex evidence of proportionate reasons for absence requires a careful, evidence led approach to ensure your right to remain in the UK is protected.
+
+How we can help
+
+To speak with our team, please call 020 7427 5970 or email leena.chouhan@taylorhampton.co.uk.
+
+Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to your individual circumstances should always be sought before taking action.`,
+  },
+    id: 7,
     title: "The UK Global Talent Visa for Artists: A Flexible Route for International Creatives",
     date: "9 April 2026",
     category: "Immigration Law",
