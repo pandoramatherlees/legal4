@@ -56,7 +56,7 @@ export default async function ArticlePage({ params }) {
         <div className="mx-auto max-w-[800px] px-6 md:px-8">
           <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed space-y-6">
             {paragraphs.map((para, i) => (
-              <p key={i}>{para}</p>
+              <p key={i} dangerouslySetInnerHTML={{ __html: para }} />
             ))}
           </div>
           <div className="mt-16 pt-8 border-t border-gray-100">
