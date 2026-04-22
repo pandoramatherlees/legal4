@@ -1,4 +1,76 @@
 export const ARTICLES = [
+{
+    id: 9,
+    title: "Right to Work Checks and Sponsor Duties: Clarity or Confusion?",
+    date: "22 April 2026",
+    category: "Immigration Law",
+    excerpt: "Recent Home Office updates to sponsor guidance have introduced fresh uncertainty around right to work checks. Leena Chouhan unpacks what has changed, how the new wording should be understood and why the current position raises concern for sponsors.",
+    slug: "right-to-work-checks-sponsor-duties-clarity-confusion",
+    author: "Leena Chouhan",
+    content: `Recent updates to Home Office sponsor guidance have introduced uncertainty for organisations holding a sponsor licence. In particular, changes made on 6 March 2026, followed by a further amendment on 8 April 2026, have altered how right to work checks may apply. While the intention appears to be broader oversight, the result is a framework that is not yet fully coherent.
+
+This article therefore considers what has changed, how the new wording should be understood in practice and why the current position raises concern.
+
+<strong>What was the requirement prior to March 2026?</strong>
+
+Before March 2026, the position was relatively settled. Sponsors were required to establish a statutory excuse for employees under the Immigration, Asylum and Nationality Act 2006. In addition, they were expected to retain evidence of right to work for sponsored workers who were not direct employees. This reflected a practical balance. Sponsors remained responsible for sponsored individuals, even where there was no direct employment relationship. At the same time, there was no expectation that checks would extend to contractors or third parties outside that framework.
+
+<strong>What has changed from April 2026?</strong>
+
+However, the update issued on 6 March appeared to move beyond this balance. New language referred to organisations that "employ or engage someone" and to workers a sponsor "wishes to employ or sponsor". Crucially, the term "engage" was not defined. Meanwhile, the guidance continued to use the language of employment elsewhere, creating an immediate lack of alignment.
+
+<strong>What are the considerations emerging from the change?</strong>
+
+Against that background, an important question emerged. Was the duty still limited to sponsored workers, including those not directly employed, or had it expanded to include all individuals engaged by a business in any capacity?
+
+On one view, a narrow reading would align with earlier developments in Appendix D. On another, a broader interpretation would extend the obligation significantly. It could include contractors, subcontractors or individuals providing services through third party platforms. In practice, such an interpretation would create serious operational challenges.
+
+<strong>What does compliance look like?</strong>
+
+For example, would a company be expected to verify the right to work of a self employed tradesperson attending its premises? Similarly, would it need to check individuals working for a subcontractor? More broadly, could it realistically verify the status of workers delivering services through large digital platforms? These are not theoretical concerns. Rather, they go to the heart of whether compliance is achievable.
+
+The clarification issued on 8 April 2026 attempts to address some of this uncertainty. In particular, the revised wording now refers to workers a sponsor wishes to "employ or directly engage". This suggests a narrower scope. In other words, the duty appears intended to apply where there is a direct relationship between the organisation and the individual.
+
+Even so, the term "directly engage" remains undefined. As a result, there is still room for interpretation. While the most extreme scenarios may now fall away, there is still no clear boundary. Sponsors are therefore left to assess risk without firm guidance.
+
+In addition, there is a structural issue within the guidance itself. The key provision appears in part 2, which typically deals with how to sponsor a worker. By contrast, sponsor duties are usually set out in part 3. This placement is unexpected and, in practice, makes it harder for organisations to identify the full extent of their obligations.
+
+<strong>Additional requirements under Part 3</strong>
+
+Turning to part 3, a new and clearer duty has been introduced. Paragraph C1.42 now states that sponsors must ensure any worker they sponsor or employ has the legal right to work. This reflects what has long been expected in practice. Indeed, many organisations will already be compliant in this respect. Accordingly, the change brings clarity, at least in relation to employees.
+
+Yet inconsistency remains. Notably, the reference to "engage" does not appear in this paragraph, despite being introduced elsewhere. This may reflect a deeper issue. Immigration law does not currently provide a clear framework for preventing illegal working by non-employees. In that sense, the guidance appears to move ahead of the legal structure that underpins it.
+
+Further complexity arises when considering record keeping duties. On the one hand, sponsors are expected to retain evidence of checks for workers who are not direct employees. This aligns with existing expectations for sponsored individuals. On the other hand, the extension of language to include those who are "engaged" introduces ambiguity once again.
+
+Moreover, the position is made more difficult by inconsistencies in related guidance for compliance visits. On one reading, sponsors are expected to carry out checks on all individuals working on their behalf. On another, checks for non-sponsored staff are not mandatory. Taken together, these statements are difficult to reconcile.
+
+The most significant concern, however, lies in the expanded grounds for licence refusal and revocation. The updated guidance now refers to situations where a sponsor is employing or engaging a person without the right to work. Crucially, this is not clearly linked to whether the sponsor has carried out compliant checks.
+
+Under the statutory framework, an organisation can establish a defence if it has followed the correct right to work procedures. This recognises that employers cannot control every eventuality. For instance, a worker's status may change without notice. Alternatively, documents may appear valid but later prove not to be.
+
+By contrast, the revised revocation provisions do not reflect this nuance. Instead, they suggest that the mere fact of employment or engagement may be sufficient to trigger action. The language indicates that a licence will normally be revoked in such circumstances. As a consequence, a presumption is created that may be difficult to challenge, even where the sponsor has acted diligently.
+
+This leads to an imbalance. In effect, a sponsor that has followed all required steps could still face serious consequences. At the same time, the distinction between employment and engagement has been blurred without clear limits. Taken together, this creates uncertainty at both a legal and operational level.
+
+Looking more broadly, there is also a legislative context to consider. The changes appear to anticipate reforms set out in the Border Security, Asylum and Immigration Act 2025. However, those provisions are not yet in force. Parliament has indicated that any expansion of the regime should be introduced through legislation. In that light, extending obligations through guidance in advance of that process raises questions about timing and scope.
+
+<strong>As a sponsor what are my priorities here?</strong>
+
+In practical terms, the immediate priority for sponsors is risk management. First, organisations should continue to carry out robust right to work checks for all employees. Second, they should review relationships that may fall within the concept of direct engagement. Finally, clear internal processes and careful record keeping remain essential.
+
+At the same time, there is a clear need for further guidance from the Home Office. Sponsors require a framework that is consistent, practical and aligned with the underlying legal structure. Without this, compliance becomes uncertain and the risk of unfair outcomes increases.
+
+This is, ultimately, an evolving area. Further updates are likely, particularly once the legislative framework is fully in place. Until then, sponsors must navigate a position that is still taking shape.
+
+<strong>How we can help</strong>
+
+For more information or advice on how these changes may affect your organisation, please contact Leena Chouhan at Taylor Hampton Solicitors. Our team can provide tailored guidance on sponsor compliance, right to work procedures and risk management in light of the current uncertainty.
+
+To speak with our team, please call 020 7427 5970 or email leena.chouhan@taylorhampton.co.uk.
+
+Disclaimer: This article provides general information only and does not constitute legal advice. Immigration rules and guidance change over time. Professional advice tailored to your individual circumstances should always be sought before taking action.`,
+  },
  {
     id: 8,
     title: "The End of Pre-Settled Status: New Home Office Enforcement and Automation",
