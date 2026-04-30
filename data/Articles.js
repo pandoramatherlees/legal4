@@ -1,5 +1,50 @@
 export const ARTICLES = [
 {
+    id: 99,
+    title: "Proving Financial Independence in the UK: What is the Adequate Maintenance and Accommodation Requirement?",
+    slug: "adequate-maintenance-accommodation-requirement",
+    date: "April 30, 2026",
+    author: "Leena Chouhan",
+    excerpt: "For many UK immigration routes, applicants must show they can support themselves without relying on public funds. The adequate maintenance and accommodation requirement offers a flexible alternative to the minimum income threshold, but careful calculation and evidence are essential.",
+    content: `
+      <p>For many UK immigration routes, applicants must show they can live in the UK without relying on public funds. This is known as the adequate maintenance and accommodation requirement. It sits alongside, but is distinct from, the minimum income requirement that applies to most partner visas. While the minimum income test uses fixed financial thresholds, adequate maintenance is more nuanced. It asks a simple but important question: whether a family can support itself at a level comparable to a household receiving income support.</p>
+      <p>In practice, this requirement applies across a range of routes. It is commonly seen in family applications under Appendix FM where a sponsor receives certain benefits, but it also appears in routes such as the UK Ancestry visa and others governed by Appendix Finance. The flexibility of the test can make it more accessible, yet it also introduces complexity. Each case turns on its own facts, and careful calculation is essential.</p>
+
+      <h2><strong>How does the calculation work for UK immigration applicants?</strong></h2>
+      <p>The legal framework for adequate maintenance was clarified in the Upper Tribunal decision of <em>Ahmed (benefits; proof of receipt; evidence) Bangladesh</em> [2013] UKUT 84 (IAC). The Tribunal set out a formula that remains central to decision making:</p>
+      <p><strong>A minus B must be at least equal to C.</strong></p>
+      <p>A represents net weekly income. This means income after tax and National Insurance. It can include earnings, benefits, pensions, or other permitted sources. B represents weekly housing costs, including rent or mortgage payments and council tax. C is the benchmark, the amount a comparable British family would receive in income support.</p>
+      <p>This approach focuses on real disposable income. Gross salary is not relevant. Personal debts are not deducted. Only essential housing costs are taken into account. Importantly, only income available at the date of application can be considered. Future job offers or anticipated earnings cannot be relied upon.</p>
+      <p>Because the benchmark is linked to income support rates, the required level changes each year. For the 2026 to 2027 period, a couple with two children must show at least £325.91 per week after housing costs. This figure reflects the combined allowances for adults and dependent children.</p>
+
+      <h2><strong>A practical example for UK applicants</strong></h2>
+      <p>Consider a sponsor with one child who earns a modest income and receives child related benefits. After calculating total weekly income and deducting housing costs, the remaining amount may fall short of the required threshold. This does not mean the application must fail. The rules allow savings to bridge the gap, provided they are properly evidenced.</p>
+      <p>Savings are converted into a weekly equivalent by dividing the total by a set number of weeks. For entry clearance applications, this is 143 weeks. Even relatively modest savings can therefore make a meaningful difference when spread across this period.</p>
+
+      <h2><strong>What income and savings can be used?</strong></h2>
+      <p>One of the strengths of the adequate maintenance test is its flexibility. A wide range of income sources can be included. Employment income, self employment profits, rental income, dividends, pensions and certain benefits may all be counted. These can be combined to present a full financial picture.</p>
+      <p>Savings also play an important role. Unlike the minimum income requirement, there is no minimum threshold such as £16,000. All qualifying cash savings can be considered. For Appendix FM applications, savings must usually have been held for at least six months. By contrast, routes under Appendix Finance are less prescriptive and do not impose a strict holding period.</p>
+      <p>The evidential burden varies depending on the route. Under Appendix FM, the requirements are detailed and structured. Applicants must provide payslips, bank statements and employer letters where relevant. Savings must be supported by bank statements and a clear explanation of their source. Housing costs must be evidenced with tenancy agreements, mortgage statements or council tax bills.</p>
+      <p>For other routes, the Home Office takes a more flexible approach. While documents such as payslips, bank statements and tax records are still expected, there is no fixed evidential period. Decision makers should not refuse an application simply because fewer months of evidence are provided, provided the overall picture is credible.</p>
+
+      <h2><strong>Who must meet the requirement?</strong></h2>
+      <p>Under Appendix FM, adequate maintenance applies primarily where the sponsor receives a specified benefit. These include Personal Independence Payment, Disability Living Allowance, Carer's Allowance and Attendance Allowance. It also applies in certain other family contexts, including applications by parents, adult dependent relatives and some children.</p>
+      <p>Other immigration routes adopt the same underlying principle but apply it with different evidential expectations. UK Ancestry applicants, for example, may rely on third party support from family members. This reflects the broader and more flexible nature of Appendix Finance.</p>
+
+      <h2><strong>What is the accommodation requirement?</strong></h2>
+      <p>Alongside maintenance, applicants must also show they will have adequate accommodation. This requirement applies widely, including to most Appendix FM applications and several other routes.</p>
+      <p>The accommodation must be suitable for the family's needs. It must not be overcrowded and must comply with public health standards. The legal framework for assessing overcrowding is set out in the Housing Act 1985, which defines both room and space standards. If these standards are breached, the accommodation will not be considered adequate.</p>
+      <p>Applicants do not need to own the property. They may live with family or friends, provided they have exclusive use of sufficient living space. Bedrooms must be adequate in number, though living rooms can sometimes be used for sleeping. Kitchens and bathrooms cannot.</p>
+      <p>In theory, accommodation should be secured at the date of application. In practice, there is some flexibility. Entry clearance applications are rarely refused on accommodation grounds alone. A clear plan, supported by a letter from a host and proof of their right to occupy the property, is often sufficient.</p>
+
+      <h2><strong>Summary</strong></h2>
+      <p>The adequate maintenance and accommodation requirement is both practical and humane in its intent. It recognises that financial circumstances vary and allows applicants to demonstrate stability in different ways. At the same time, it requires careful preparation. Calculations must be precise. Evidence must be consistent and credible.</p>
+      <p>For applicants and sponsors, the key is to approach the requirement methodically. Each element should be documented clearly, from income sources to housing arrangements. When done well, the test can be met with confidence, even where income is modest.</p>
+
+      <p><em>Disclaimer: This article is provided for general information purposes only and does not constitute legal advice. Immigration rules and Home Office guidance are subject to change and may be applied differently depending on individual circumstances. While care has been taken to ensure accuracy at the time of writing, no guarantee is given that the information is complete or up to date. Readers should not rely on this article as a substitute for obtaining specific legal advice. If you require advice tailored to your situation, please contact Taylor Hampton Solicitors or speak directly with Leena Chouhan.</em></p>
+    `
+  },
+    {
     id: 9,
     title: "Right to Work Checks and Sponsor Duties: Clarity or Confusion?",
     date: "22 April 2026",
