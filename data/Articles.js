@@ -10,7 +10,7 @@ export const ARTICLES = [
 <h2>Who May Benefit from the Policy Change</h2>
 <p>In principle, the recognition of discretion could have benefited a broad group of migrants who face financial hardship. In practice, the position is much narrower.</p>
 <p>Evidence from advisory organisations such as The Unity Project suggests that most applicants considering a change of conditions application have been on skilled worker visas, often in health and social care roles. However, relatively few proceed with applications. The reasons are clear: the process is complex, the evidential burden is high, and there is a perceived risk to existing immigration status.</p>
-<p>Among those who do apply, outcomes vary. Some individuals obtain access to public funds indirectly through a private or family life application. Others pursue judicial review following refusal.</p>
+<p>Among those who do apply, outcomes vary. For instance, some individuals obtain access to public funds indirectly through a private or family life application. Others pursue judicial review following refusal.</p>
 
 <h2>Policy Guidance and Its Limitations</h2>
 <p>Updated Home Office guidance introduced in March 2024 confirms that discretion exists. However, it also emphasises that it will be used only in particularly compelling circumstances and that such cases are expected to be rare.</p>
@@ -19,36 +19,11 @@ export const ARTICLES = [
 
 <h2>Home Office Decision Making in Practice</h2>
 <p>In practice, decision making has often been slow. Some applications are resolved following escalation. Others remain pending for extended periods, in some cases over a year.</p>
-<p>Applicants should also expect at least one request for further information. Refusals frequently rely on standard reasoning, often stating that the applicant has not demonstrated sufficiently compelling circumstances or that return to their country of origin remains reasonable.</p>
+<p>Applicants should also expect at least one request for further information. Refusals frequently rely on standard reasoning. These decisions often state that the applicant has not demonstrated sufficiently compelling circumstances or that return to their country of origin remains reasonable.</p>
 <p>There is also a recurring suggestion in refusal letters that applicants may be better suited to a different immigration route, which can create additional uncertainty and cost.</p>
 
 <h2>Risk of Visa Cancellation</h2>
-<p>The risk of visa cancellation is explicitly referenced in policy guidance and must be taken seriously. Applicants should seek detailed legal advice before proceeding.</p>
-<p>At the time of writing, there is limited evidence of widespread visa cancellations following these applications. This may reflect a broader pause affecting certain sectors, including care workers. However, the absence of reported cases does not remove the underlying risk.</p>
-<p>Clear and carefully prepared representations are essential. These should address why access to public funds is justified and why leave should not be curtailed despite financial hardship.</p>
-
-<h2>Case Studies and Emerging Patterns</h2>
-<p>Some applicants have achieved positive outcomes where a change of conditions application is combined with a private or family life claim. In these cases, access to public funds may be granted during or after consideration of the broader application.</p>
-<p>There are also examples of successful legal challenges. In one case, a vulnerable individual facing homelessness and domestic abuse secured access to public funds after judicial review proceedings were initiated. The case highlighted the importance of detailed evidence and careful legal argument, particularly where strict policy application may restrict discretion.</p>
-<p>Similarly, in another case a claimant required support to care for an unwell family member. Following legal action, the Home Office granted access to public funds on a discretionary basis.</p>
-<p>These examples demonstrate that while refusals are common, they are not always the final position. Legal challenge can be effective where the decision fails to properly consider the evidence or applies policy too rigidly.</p>
-
-<h2>National Data and Transparency</h2>
-<p>There is currently no reliable national dataset that clearly tracks outcomes for this group. Published Home Office statistics do not separate applicants by visa category in a meaningful way.</p>
-<p>Internal data referenced in an Equality Impact Assessment suggests that uptake has been low and that grants are rare. However, the data itself is described as incomplete and potentially unreliable. This lack of transparency makes it difficult to assess the true scale of success or refusal rates.</p>
-
-<h2>Summary and Practical Guidance</h2>
-<p>The recognition of discretion in October 2023 was significant. However, the practical reality is more restrictive than many anticipated.</p>
-<p>Applications are complex and carry risk. Success appears more likely where there is a strong alternative immigration basis, clear evidence of hardship, and a willingness to pursue legal remedies where necessary.</p>
-<p>Each case turns on its facts. Careful preparation and early legal advice are essential.</p>
-
-<h2>Disclaimer</h2>
-<p>This article is for general information only. It does not constitute legal advice and should not be relied upon as such. Immigration law and policy change frequently and individual circumstances vary. Specific advice should always be sought before taking action.</p>
-
-<h2>Contact</h2>
-<p>If you would like advice on a change of conditions application or a related immigration matter, please contact Leena Chouhan at <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a>.</p>
-  `,
-},
+<p>The risk of visa cancellation is explicit
     {
     id: 99,
     title: "Proving Financial Independence in the UK: What is the Adequate Maintenance and Accommodation Requirement?",
