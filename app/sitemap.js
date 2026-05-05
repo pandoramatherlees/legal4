@@ -18,6 +18,6 @@ export default function sitemap() {
 { url: `${baseUrl}/news-articles/end-of-pre-settled-status-home-office-enforcement`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/right-to-work-checks-sponsor-duties-clarity-confusion`, lastModified: new Date() },
  { url: `${baseUrl}/news-articles/adequate-maintenance-accommodation-requirement`, lastModified: new Date() },
-    {url: `${baseUrl}/news-articles/access-to-public-funds-skilled-workers-students, lastModified: new Date() }
+    {url: `${baseUrl}/news-articles/access-to-public-funds-skilled-workers-students`, lastModified: new Date() }
 ];
 }
