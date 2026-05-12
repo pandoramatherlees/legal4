@@ -1,4 +1,112 @@
 export const ARTICLES = [
+  {
+  id: 101,
+  title: "British Citizenship Registration for Children: Understanding the Main Routes",
+  slug: "british-citizenship-registration-children",
+  date: "2026-05-12",
+  author: "Leena Chouhan",
+  excerpt: "An overview of the main routes through which children may register as British citizens under the British Nationality Act 1981, including key time limits, evidential requirements and the discretionary section 3(1) route.",
+  content: `
+    <p>For many families living in the UK, British citizenship represents stability, identity and long term security. Yet the rules surrounding citizenship for children can often feel technical and difficult to navigate, particularly where immigration status has changed over time or where a child was born abroad.</p>
+
+    <p>Under the British Nationality Act 1981 there are several routes through which a child may become a British citizen by registration. Importantly, many of these routes are time sensitive. In most cases, applications must be made before a child turns 18.</p>
+
+    <p>"Naturalisation" is generally the route used by adults who wish to become British citizens after living in the UK for a qualifying period. Registration, by contrast, is most commonly used for children, although some adults may also qualify in limited circumstances.</p>
+
+    <p>According to recent Home Office figures, there were more than 69,000 grants of citizenship through registration in the year ending December 2025. This reflects the growing number of families seeking clarity around their children's nationality rights.</p>
+
+    <p>This article highlights the most common registration routes available to children.</p>
+
+    <h2>Children Born in the UK Where a Parent Later Becomes British or Settled</h2>
+
+    <p>A child born in the UK is not automatically British if neither parent was British or settled at the time of birth. However, this can change later.</p>
+
+    <p>Under section 1(3) of the British Nationality Act 1981, a child may register as British if, before they turn 18, one parent becomes either:</p>
+    <ul>
+      <li>a British citizen</li>
+      <li>settled in the UK, including obtaining indefinite leave to remain or settled status under the EU Settlement Scheme</li>
+    </ul>
+
+    <p>Similarly, section 1(3A) applies where a parent becomes a member of the armed forces before the child reaches 18.</p>
+
+    <p>Children aged over ten must satisfy the good character requirement.</p>
+
+    <p>Importantly, successful applicants under these provisions become British citizens "otherwise than by descent". This means they can normally pass citizenship to their own children born overseas in the future.</p>
+
+    <p>For example, a child born in London to parents holding pre settled status may later become eligible once one parent obtains settled status.</p>
+
+    <h2>Children Born in the UK Who Have Lived Here for Ten Years</h2>
+
+    <p>Section 1(4) provides an important entitlement route for children born in the UK who have spent the first ten years of their life here.</p>
+
+    <p>To qualify:</p>
+    <ul>
+      <li>the child must have been born in the UK</li>
+      <li>neither parent was British or settled at the time of birth</li>
+      <li>the child must have lived continuously in the UK for the first ten years of life</li>
+      <li>absences from the UK must usually not exceed 90 days in any year</li>
+    </ul>
+
+    <p>There is discretion available where absences exceed the normal limits, particularly where there are compelling or exceptional circumstances.</p>
+
+    <p>Evidence is extremely important in these applications. Families are often required to provide school records, medical records, passports and other documents demonstrating continuous residence throughout the ten year period.</p>
+
+    <h2>Children Born Abroad to British Citizens by Descent</h2>
+
+    <p>British nationality law distinguishes between citizenship "by descent" and "otherwise than by descent".</p>
+
+    <p>Where a parent was born in the UK and is British otherwise than by descent, a child born abroad will usually automatically acquire British citizenship.</p>
+
+    <p>However, children born overseas to parents who are themselves British by descent may not automatically become British. In these circumstances, registration may still be possible under sections 3(2) or 3(5).</p>
+
+    <p>Under section 3(2), the British parent must have lived in the UK for a qualifying three year period before the child's birth.</p>
+
+    <p>Under section 3(5), both the parent and child must live in the UK together for a three year qualifying period after the child's birth.</p>
+
+    <p>An important distinction is that successful applications under section 3(5) result in citizenship otherwise than by descent, which can provide greater flexibility for future generations.</p>
+
+    <h2>Children Born Abroad to Members of the Armed Forces</h2>
+
+    <p>Section 4D creates an entitlement route for children born outside the UK where a parent was serving in the British armed forces at the time of birth.</p>
+
+    <p>This applies to children born on or after 13 January 2010.</p>
+
+    <p>Notably, the serving parent does not necessarily need to have been British before the application is made. Evidence of military service will normally be required, alongside the child's birth certificate and parental consent documentation.</p>
+
+    <h2>Registration at the Home Secretary's Discretion</h2>
+
+    <p>Section 3(1) is one of the broadest and most flexible provisions within British nationality law.</p>
+
+    <p>This route allows the Home Secretary to register any child as British where it is considered appropriate to do so. Unlike the entitlement routes discussed above, applications under section 3(1) are discretionary.</p>
+
+    <p>The Home Office will generally consider factors such as:</p>
+    <ul>
+      <li>the child's future intentions</li>
+      <li>the parents' immigration status and circumstances</li>
+      <li>length of residence in the UK</li>
+      <li>compassionate or compelling circumstances</li>
+      <li>the child's overall connection to the UK</li>
+    </ul>
+
+    <p>These applications must be carefully prepared with detailed supporting evidence. Strong representations are often essential where the child does not meet the standard requirements under another route.</p>
+
+    <h2>Application Process and Fees</h2>
+
+    <p>Applications are usually submitted online through the UK Government nationality application pages.</p>
+
+    <p>At the time of writing, the Home Office fee for child nationality registration is £1,000. Fee waivers may be available where a family cannot afford the application fee and paying it would affect a child's essential needs.</p>
+
+    <p>The Home Office currently advises that applications may take around six months to process, although delays are not uncommon.</p>
+
+    <p>Where an applicant turns 18 before registration is completed, a citizenship ceremony may also be required and this carries an additional administrative fee.</p>
+
+    <p>British citizenship applications involving children are often more nuanced than families expect. Questions frequently arise around residence requirements, immigration history, parental status and documentary evidence. Early legal advice can therefore make a significant difference, particularly where a child may lose eligibility upon turning 18.</p>
+
+    <p>For advice on British citizenship registration applications, contact Leena Chouhan at Taylor Hampton Solicitors Immigration Team or email <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a>.</p>
+
+    <p><em>Disclaimer: This article is provided for general information only and does not constitute legal advice. Immigration and nationality law can change frequently and individual circumstances will vary. Specialist legal advice should always be obtained before making any application or relying on the information contained in this article.</em></p>
+  `
+},
 {
   id: 100,
   title: "Access to Public Funds for Skilled Workers and Students: What Changed After October 2023 and What It Means in Practice",
