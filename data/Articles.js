@@ -1,5 +1,50 @@
 export const ARTICLES = [
   {
+    id: 102,
+    title: "Marriage Visitor Visa or Fiancé Visa? Understanding the Key Differences Before You Apply",
+    date: "18 May 2026",
+    category: "Immigration Law",
+    excerpt: "Choosing between a Marriage Visitor Visa and a Fiancé(e) Visa is one of the most common areas of confusion for couples planning a wedding in the UK. Leena Chouhan explains the key differences, eligibility requirements and long term implications of each route.",
+    slug: "marriage-visitor-visa-vs-fiance-visa",
+    author: "Leena Chouhan",
+    content: `<p>For many couples, planning a wedding in the UK is an exciting step. Yet one of the most common areas of confusion is deciding which immigration route is appropriate before the ceremony takes place. The choice between a Marriage Visitor Visa and a Fiancé(e) Visa is not simply procedural. Selecting the wrong visa can result in delays, refusals and disruption to future plans together.</p>
+<p>Although both visas allow couples to marry or enter a civil partnership in the UK, they serve very different purposes. The correct option depends largely on what you intend to do once the wedding has taken place.</p>
+<h2>Your Long Term Plans Matter - Why Do They Count?</h2>
+<p>The most important question is whether the couple plans to leave the UK after the wedding or remain here together permanently.</p>
+<p>A Marriage Visitor Visa is intended for individuals coming to the UK for a temporary stay in order to marry or form a civil partnership. After the ceremony the applicant is expected to leave the country. This route does not lead to settlement and does not allow the applicant to remain in the UK long term.</p>
+<p>A Fiancé(e) Visa is designed for couples who intend to build their future together in the UK. It allows a foreign national to enter the country to marry a British citizen or a person who already holds settled status. After the marriage takes place the applicant may then apply to remain in the UK as a spouse.</p>
+<p>Understanding this distinction at the outset is essential because the Home Office will assess the application against the applicant's future intentions.</p>
+<h2>Different Eligibility Requirements</h2>
+<p>The requirements for each visa differ significantly.</p>
+<p>Applicants for a Marriage Visitor Visa must demonstrate that they are genuine visitors and that they fully intend to leave the UK at the end of their stay. One of the most common reasons for refusal is concern that the applicant may attempt to remain in the UK after the wedding.</p>
+<p>As a result applicants are often expected to provide strong evidence of their ties to their home country. This may include employment commitments, property ownership, financial responsibilities or close family connections overseas.</p>
+<p>Although this visa does not lead to settlement, applicants must still show that the relationship is genuine. However there is no English language requirement and no minimum income threshold.</p>
+<p>By contrast, the Fiancé(e) Visa carries more extensive obligations because it forms part of the settlement route.</p>
+<p>Applicants must demonstrate that the relationship is genuine and ongoing. In addition the sponsoring partner must usually satisfy the minimum financial requirement. At the time of writing this is currently £29,000 per year. Applicants must also meet the English language requirement and provide evidence of suitable accommodation in the UK.</p>
+<h2>How Long Can You Stay?</h2>
+<p>Both visas initially grant permission to remain in the UK for up to six months. However the practical effect of each route is very different.</p>
+<p>A Marriage Visitor Visa cannot be extended and does not allow the applicant to switch into another immigration category from within the UK. Once the wedding has taken place the applicant must leave before the visa expires.</p>
+<p>A Fiancé(e) Visa also provides six months in which the marriage or civil partnership must occur. Once married the applicant may apply from inside the UK for a Spouse Visa without needing to return overseas. This is what creates the pathway towards long term residence and eventually settlement.</p>
+<h2>Restrictions During the Initial Visa Period</h2>
+<p>Both visas carry similar conditions during the initial six month period.</p>
+<p>Applicants are not permitted to work or access public funds while in the UK under either route. Study may also be restricted depending on the circumstances.</p>
+<p>However once an applicant holding a Fiancé(e) Visa successfully switches into the Spouse Visa category, they are generally permitted to work and study in the UK.</p>
+<h2>Costs and Financial Considerations</h2>
+<p>There is also a considerable difference in application costs.</p>
+<p>A Marriage Visitor Visa currently costs £135 and permits multiple entries during the six month validity period.</p>
+<p>The Fiancé(e) Visa is significantly more expensive with current application fees standing at £2,064.</p>
+<p>Neither route requires payment of the Immigration Health Surcharge at the initial application stage. Nevertheless, applicants should be aware that this also means they are not automatically entitled to free NHS treatment during this period.</p>
+<h2>Choosing the Correct Route</h2>
+<p>The right visa depends entirely on the couple's intentions after the wedding.</p>
+<p>For couples planning a ceremony in the UK before returning overseas a Marriage Visitor Visa may be appropriate.</p>
+<p>For couples intending to establish their married life together in the UK the Fiancé(e) Visa is normally the correct route because it provides a pathway towards residence and settlement.</p>
+<p>Immigration rules can be highly technical and refusals can have long term consequences for future applications. Seeking advice from an experienced immigration solicitor before applying can help couples understand the requirements clearly and prepare the strongest possible application.</p>
+<p><em>This article is for general information only. It does not constitute legal advice and should not be relied upon as such. Immigration law and policy change frequently and individual circumstances vary. Specific advice should always be sought before taking action.</em></p>
+<h2>Contact</h2>
+<p>Leena Chouhan is an immigration specialist working with Taylor Hampton Solicitors advising on UK immigration, family migration and complex visa applications. For more information contact <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a> or call 0044 2031430322.</p>
+  `
+},
+  {
   id: 101,
   title: "British Citizenship Registration for Children: Understanding the Main Routes",
   slug: "british-citizenship-registration-children",
