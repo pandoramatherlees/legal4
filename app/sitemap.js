@@ -13,11 +13,13 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/uk-evisa-digital-immigration-system`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/new-sponsor-compliance-duties-2026`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/uk-immigration-settlement-reforms-2026`, lastModified: new Date() },
-{ url: `${baseUrl}/news-articles/uk-eu-youth-mobility-scheme-emergency-brake`, lastModified: new Date() },
-  { url: `${baseUrl}/news-articles/uk-global-talent-visa-artists`, lastModified: new Date() },
-{ url: `${baseUrl}/news-articles/end-of-pre-settled-status-home-office-enforcement`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/uk-eu-youth-mobility-scheme-emergency-brake`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/uk-global-talent-visa-artists`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/end-of-pre-settled-status-home-office-enforcement`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/right-to-work-checks-sponsor-duties-clarity-confusion`, lastModified: new Date() },
- { url: `${baseUrl}/news-articles/adequate-maintenance-accommodation-requirement`, lastModified: new Date() },
-    {url: `${baseUrl}/news-articles/access-to-public-funds-skilled-workers-students`, lastModified: new Date() }
-{ url: `${baseUrl}/news-articles/british-citizenship-registration-children`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/adequate-maintenance-accommodation-requirement`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/access-to-public-funds-skilled-workers-students`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/british-citizenship-registration-children`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/marriage-visitor-visa-vs-fiance-visa`, lastModified: new Date() },
   ];
+}
