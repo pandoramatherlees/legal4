@@ -21,9 +21,9 @@ export const FEE_CATEGORIES = [
     title: 'Skilled Worker Visa',
     iconName: 'Briefcase',
     rows: [
-      ['Individual Application', 'From \u00A32,500 + VAT'],
-      ['Sponsor Licence Application', 'From \u00A33,000 + VAT'],
-      ['Certificate of Sponsorship Assignment', 'From \u00A3500 + VAT per CoS'],
+      ['Individual Visa Application', 'From \u00A32,500 + VAT'],
+      ['Sponsor Licence Application', 'From \u00A34,500 + VAT'],
+      ['Certificate of Sponsorship Assignment', 'From \u00A32,500 + VAT per CoS'],
     ],
   },
   {
