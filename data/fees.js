@@ -3,9 +3,9 @@ export const FEE_CATEGORIES = [
     title: 'Global Talent Visa',
     iconName: 'Sparkles',
     rows: [
-      ['Stage 1: Endorsement Application', 'From \u00A33,500 + VAT'],
-      ['Stage 2: Visa Application', 'From \u00A32,500 + VAT'],
-      ['Combined Stage 1 & 2', 'From \u00A35,500 + VAT'],
+      ['Endorsement and Visa Application', 'From \u00A33,000 + VAT'],
+      ['Review of Visa Application', 'Per Hour \u00A3350 + VAT'],
+      ['Full Consultation, 'Per Hour \u00A3295 + VAT'],
     ],
   },
   {
