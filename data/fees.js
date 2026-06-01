@@ -5,7 +5,7 @@ export const FEE_CATEGORIES = [
     rows: [
       ['Endorsement and Visa Application', 'From \u00A33,000 + VAT'],
       ['Review of Visa Application', 'Per Hour \u00A3350 + VAT'],
-      ['Full Consultation, 'Per Hour \u00A3295 + VAT'],
+      ['Full Consultation', 'Per Hour \u00A3295 + VAT'],
     ],
   },
   {
