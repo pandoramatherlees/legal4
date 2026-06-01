@@ -1,4 +1,41 @@
 export const ARTICLES = [
+{
+    id: 103,
+    title: "Why Does Long-Term Skilled Worker Retention Matter More Than Ever?",
+    date: "1 June 2026",
+    category: "Immigration Law",
+    excerpt: "A newly published report from the Migration Advisory Committee examines who actually stays in the UK after arriving on a Skilled Worker visa. Leena Chouhan explains what the findings mean for employers, migrants and future immigration policy.",
+    slug: "skilled-worker-retention-mac-report",
+    author: "Leena Chouhan",
+    content: `<p>The UK's immigration debate often focuses on numbers. How many people arrive, how many visas are issued and whether thresholds should rise or fall. Yet a newly published report from the Migration Advisory Committee moves the conversation in a more interesting direction. It asks a different question: who actually stays?</p>
+<p>The report examines migrants who entered the UK on Skilled Worker visas between 2014 and 2024 and tracks whether they continued to hold valid immigration status over time. Its conclusions are significant for employers, migrants and policymakers alike.</p>
+<h2>What the Research Shows</h2>
+<p>The findings present a picture of long-term commitment, particularly among workers in sectors the UK relies upon most heavily. They also raise important questions about future immigration reform and whether the government fully understands the economic and human realities behind migration policy.</p>
+<p>The findings arrive at a time when ministers are discussing a tougher earned settlement model. Under such proposals, migrants may need to spend longer in the UK before qualifying for permanent residence depending on salary levels, occupation and other criteria. The MAC's evidence suggests these changes may affect different groups in very different ways.</p>
+<p>One of the report's clearest findings is that Skilled Worker migrants are increasingly remaining in the UK for the long term. Five year stay rates rose from 74% for migrants arriving in 2014 to 85% for those arriving in 2019. This trend predates Brexit and appears consistent across multiple migrant groups.</p>
+<h2>Sectors with the Highest Retention Rates</h2>
+<p>The sectors with the highest retention rates are particularly revealing. Health and care workers are among the most likely to remain in the UK long term. According to the report, 88.2% of migrants working in health and social care still held valid immigration status after five years. Among nurses, the figure rises to 94%.</p>
+<p>This reflects something immigration lawyers and employers have observed for years. Many skilled migrants arrive not simply to earn money but to create stability and opportunity for themselves and their families. They invest emotionally and professionally in the UK, becoming part of local communities and essential workforces.</p>
+<p>In contrast, sectors such as higher education show lower stay rates, likely linked to the international nature of academic careers and the prevalence of shorter contracts.</p>
+<p>Salary also plays a surprisingly important role. Migrants earning under £40,000 were more likely to remain in the UK than those in the higher band, while workers earning over £125,000 showed the lowest long-term retention rates. Highly paid global professionals often have greater international mobility and more opportunities across multiple jurisdictions. Lower paid skilled workers, particularly in care and healthcare, may instead view the UK as a place for permanent settlement and long-term security.</p>
+<h2>Nationality Patterns</h2>
+<p>Nationality patterns are equally striking. Migrants from Africa, Southern Asia and non-EU European countries were among the most likely to remain long term, while migrants from North America and Oceania were less likely to stay. The MAC notes that migrants from wealthier countries generally demonstrate lower retention rates.</p>
+<h2>Implications for Policy</h2>
+<p>For several years, political rhetoric has frequently portrayed migration as fluid and temporary. However, the evidence increasingly points towards something more complex. Many Skilled Worker migrants are making deep and lasting commitments to the UK economy and society.</p>
+<p>The MAC notes that groups already demonstrating lower stay rates — such as higher earners and academic professionals — could become more deterred by restrictive settlement pathways. By contrast, sectors already showing extremely high retention may continue to absorb tougher rules because their commitment to remaining is already strong.</p>
+<p>That creates an interesting tension for policymakers. On one hand, the government wishes to appear tougher on immigration. On the other, the UK economy remains deeply dependent on international recruitment in sectors suffering chronic labour shortages. Healthcare, social care, engineering, technology and specialist professional services continue to rely heavily on overseas expertise. Immigration policy therefore cannot be viewed purely through a political lens. It is also an economic strategy.</p>
+<h2>What This Means for Employers</h2>
+<p>For employers, the report contains several important lessons. Businesses sponsoring overseas workers should recognise that many sponsored employees are likely to remain for the long term if provided with stable opportunities and clear progression pathways. Sponsorship is no longer simply about short-term recruitment. Increasingly, it forms part of long-term workforce planning.</p>
+<p>Retention also matters commercially. Skilled Worker sponsorship involves considerable financial and administrative investment. Employers who support integration, career development and settlement planning may benefit from greater loyalty and lower turnover over time.</p>
+<h2>What This Means for Migrants</h2>
+<p>For migrants themselves, the report offers reassurance that they are not alone in viewing the UK as a long-term future rather than a temporary stop. It also highlights the importance of obtaining proper immigration advice early, particularly as settlement rules continue to evolve.</p>
+<p>Changes to settlement pathways can have significant consequences for families, career decisions and financial planning. Migrants considering long-term residence should ensure they understand how future reforms could affect their eligibility timelines and options.</p>
+<h2>Conclusion</h2>
+<p>Migration policy is often discussed in abstract numbers and political slogans. Yet behind every visa application is a person making major life decisions. Many skilled migrants are not simply passing through the UK. They are contributing to its public services, strengthening industries and building futures here over many years.</p>
+<p>As the government continues to debate reforms to the Skilled Worker route and settlement system, the evidence suggests one thing clearly. Long-term retention is already happening — and in some sectors at remarkably high levels. The challenge now is whether future policy will support that stability or risk undermining it.</p>
+<p><em>For more information contact Leena on 0203 143 0322 or email <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a></em></p>
+<p><strong>Disclaimer:</strong> This article is provided for general information only and does not constitute legal advice. Immigration and nationality law can change frequently and individual circumstances will vary. Specialist legal advice should always be obtained before making any application or relying on the information contained in this article.</p>`,
+ },
   {
     id: 102,
     title: "Marriage Visitor Visa or Fiancé Visa? Understanding the Key Differences Before You Apply",
