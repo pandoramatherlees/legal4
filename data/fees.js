@@ -12,9 +12,9 @@ export const FEE_CATEGORIES = [
     title: 'Spouse / Partner Visa',
     iconName: 'Heart',
     rows: [
-      ['Initial Application', 'From \u00A33,000 + VAT'],
-      ['Extension Application', 'From \u00A32,000 + VAT'],
-      ['Indefinite Leave to Remain', 'From \u00A32,500 + VAT'],
+      ['Initial Application', 'From \u00A33,500 + VAT'],
+      ['Extension Application', 'From \u00A32,500 + VAT'],
+      ['Indefinite Leave to Remain', 'From \u00A33,500 + VAT'],
     ],
   },
   {
