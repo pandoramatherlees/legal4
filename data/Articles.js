@@ -1,4 +1,63 @@
 export const ARTICLES = [
+    {
+  id: 104,
+  title: "UK Net Migration Falls to Lowest Level Since 2012: What Does It Mean for Employers, Skilled Workers and Families?",
+  date: "9 June 2026",
+  category: "Immigration Law",
+  slug: "uk-net-migration-falls-lowest-since-2012",
+  excerpt: "Net migration has fallen to 171,000 — the lowest level since 2012. Leena Chouhan examines what the latest ONS figures mean for UK employers, skilled workers, international students and families.",
+  content: `
+    <p>The latest migration statistics released by the Office for National Statistics (ONS) show a significant shift in the UK's immigration landscape. Net migration has fallen to 171,000, almost half the figure recorded in 2024, marking the lowest level since 2012 — excluding the unusual circumstances created by the Covid pandemic.</p>
+
+    <p>For employers, skilled workers, international students and families considering relocation to the United Kingdom, these figures provide an important insight into the government's evolving immigration strategy. More importantly, they signal that further changes are likely to follow.</p>
+
+    <h2>Why Has UK Net Migration Fallen?</h2>
+    <p>According to the ONS, the reduction has been driven largely by a decrease in arrivals from outside the European Union, particularly those entering the UK for employment purposes.</p>
+    <p>Several policy changes introduced during 2024 have contributed to this decline. These include restrictions on dependants accompanying international students and care workers, alongside substantial increases to salary thresholds for skilled worker visas and family sponsorship routes. The government has retained these measures and, in some cases, strengthened them further. As a result, immigration routes that were previously accessible to a broader range of applicants have become significantly more restrictive.</p>
+
+    <h2>What Are the Current Migration Figures?</h2>
+    <p>The latest data shows:</p>
+    <ul>
+      <li>Net migration fell to 171,000</li>
+      <li>Approximately 800,000 people immigrated to the UK during 2025</li>
+      <li>Around 642,000 people emigrated from the UK during the same period</li>
+      <li>Asylum applications fell by 12% compared with the previous year</li>
+      <li>The number of asylum seekers housed in hotels reduced from over 30,000 to just under 21,000</li>
+    </ul>
+    <p>While overall migration has decreased substantially, the figures remain higher than those seen before Brexit and the pandemic.</p>
+
+    <h2>What Changes Are Being Proposed?</h2>
+    <p>The government has made clear that reducing migration remains a key policy objective. Prime Minister Sir Keir Starmer has stated that further reforms are planned, including a greater emphasis on skills, economic contribution and English language proficiency.</p>
+    <p>Among the proposals already announced are:</p>
+    <ul>
+      <li>A requirement for migrants to demonstrate English language ability equivalent to A level standard</li>
+      <li>An increase in the Skilled Worker salary threshold to £41,700</li>
+      <li>Continued efforts to reduce dependence on overseas labour in lower paid sectors</li>
+    </ul>
+    <p>These measures form part of what ministers describe as a "skills based migration system" designed to prioritise highly skilled applicants who can contribute to the UK's economy.</p>
+
+    <h2>What Does This Mean for UK Employers?</h2>
+    <p>For many businesses, particularly those operating in sectors experiencing recruitment shortages, the continued tightening of immigration rules presents both challenges and opportunities.</p>
+    <p>Employers that have relied heavily on overseas recruitment may need to review workforce planning strategies and invest further in domestic recruitment and training programmes. At the same time, organisations seeking to sponsor overseas talent should prepare for increasing compliance requirements and higher salary thresholds.</p>
+    <p>Strategic workforce planning is becoming more important than ever. Businesses considering sponsorship should ensure they understand both their existing obligations and any future changes that may affect recruitment plans.</p>
+
+    <h2>What Does This Mean for Skilled Workers?</h2>
+    <p>For overseas professionals seeking opportunities in the UK, the immigration landscape remains open but increasingly selective. Applicants working in high demand sectors such as technology, engineering, healthcare, finance and specialist professional services continue to have strong prospects.</p>
+    <p>However, salary levels, qualifications and English language ability are becoming increasingly important factors in determining eligibility. Anyone considering a move to the UK should seek professional advice from a qualified immigration solicitor before making significant personal or financial commitments. Early planning can often identify the most suitable immigration route and reduce the risk of unexpected complications.</p>
+
+    <h2>What About Families and International Students?</h2>
+    <p>Family visa applicants continue to face higher financial requirements than in previous years. Sponsors must now demonstrate significantly greater levels of income before family members can join them in the UK.</p>
+    <p>International students remain welcome but face tighter restrictions regarding dependants. While the UK continues to attract talented students from around the world, the focus now moves towards ensuring that study routes are used primarily for education rather than broader migration purposes.</p>
+
+    <h2>Looking Forward</h2>
+    <p>The latest migration figures demonstrate that recent policy measures are having a measurable impact. Nevertheless, immigration remains a politically significant issue and further reforms are likely during the coming years.</p>
+    <p>For employers, skilled workers and families, the key message is clear: the UK immigration system continues to evolve rapidly and proactive planning is essential. Those who understand the changing requirements and seek timely professional guidance will be best placed to navigate the opportunities and challenges ahead.</p>
+
+    <p><em>This article is intended for general information purposes only and does not constitute legal advice. Immigration rules and policies change frequently and individual circumstances vary. Professional advice should always be sought before making any immigration application or decision.</em></p>
+
+    <p><strong>For specialist immigration advice, please contact Leena Chouhan at Taylor Hampton Solicitors: <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a></strong></p>
+  `,
+},
 {
     id: 103,
     title: "Why Does Long-Term Skilled Worker Retention Matter More Than Ever?",
