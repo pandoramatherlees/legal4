@@ -22,5 +22,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/british-citizenship-registration-children`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/marriage-visitor-visa-vs-fiance-visa`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/skilled-worker-retention-mac-report`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/uk-net-migration-falls-lowest-since-2012`, lastModified: new Date() },
   ];
 }
