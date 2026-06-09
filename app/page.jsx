@@ -202,7 +202,22 @@ export default function HomePage() {
           ))}
         </div>
       </SectionWrap>
-
+{/* Awards */}
+      <SectionWrap bg="white" goldTop>
+        <div className="max-w-[680px] mx-auto text-center animate-on-scroll">
+          <SectionHeading>Awards &amp; Recognition</SectionHeading>
+          <div className="flex justify-center">
+            <img
+              src="/assets/legal-100-2026.png"
+              alt="Lawyer International Legal 100 — Best Immigration Law Firm of the Year UK 2026 Winner — Taylor Hampton Solicitors"
+              width={260}
+              height={260}
+              loading="lazy"
+              className="rounded-full shadow-lg"
+            />
+          </div>
+        </div>
+      </SectionWrap>
       <CtaBanner heading="Ready to discuss your immigration needs?" sub="Our specialist immigration team is here to help. Contact us for a confidential consultation." />
     </>
   );
