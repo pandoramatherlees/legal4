@@ -24,5 +24,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/skilled-worker-retention-mac-report`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/uk-net-migration-falls-lowest-since-2012`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/sponsor-licence-compliance-2026`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/uk-university-sponsor-licence-rag-rating-2026`, lastModified: new Date() },
   ];
 }
