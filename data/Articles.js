@@ -1,5 +1,61 @@
 export const ARTICLES = [
     {
+    id: 107,
+    title: "Government Announces Major Changes to Right to Work and Right to Rent Checks from October 2026: What Should Visa Applicants Know?",
+    author: "Leena Chouhan",
+    date: "7 July 2026",
+    excerpt: "The UK Government has announced significant reforms to the Right to Work and Right to Rent schemes, extending compliance obligations to contractors, agency workers and the gig economy, alongside new digital identity verification requirements. Leena Chouhan explains what employers, landlords and businesses need to know ahead of the October 2026 implementation date.",
+    category: "Business Immigration",
+    slug: "right-to-work-right-to-rent-changes-october-2026",
+    content: `
+<p>In this article Leena Chouhan, our Head of Immigration discusses important changes that are affecting many business areas of the UK economy.</p>
+
+<p>The UK Government has announced significant reforms to the Right to Work and Right to Rent schemes that will affect employers, landlords and businesses across the country. The changes are designed to strengthen immigration compliance and tackle illegal working through wider legal responsibilities and enhanced digital identity verification.</p>
+
+<p>The new measures implement provisions contained in the Border Security, Asylum and Immigration Act 2025 and are expected to come into force on 1 October 2026.</p>
+
+<h2>Wider Responsibility for Businesses – What Has Changed?</h2>
+
+<p>One of the most important changes is the extension of Right to Work obligations beyond traditional employment relationships.</p>
+
+<p>Until now, employers have generally been responsible for carrying out immigration checks on employees. From October 2026, the law will also apply to businesses that engage individuals through contracting or subcontracting arrangements. This includes many agency workers, self-employed contractors and workers operating within the growing gig economy.</p>
+
+<p>The aim is to close gaps in the current system and ensure organisations cannot avoid compliance obligations simply because individuals are not directly employed.</p>
+
+<p>Businesses that fail to carry out the required checks may face civil penalties under the expanded enforcement regime.</p>
+
+<h2>New Digital Verification Requirements Now Apply</h2>
+
+<p>The Government is also strengthening the rules surrounding digital identity verification. This is happening across all government departments, and immigration is no exception.</p>
+
+<p>Organisations choosing to carry out digital Right to Work or Right to Rent checks will now be required to use Government registered Digital Verification Service Providers (DVSPs). The intention is to improve the security, consistency and reliability of digital identity checks while reducing the risk of fraud.</p>
+
+<p>These measures complement wider reforms under the Data Use and Access Act 2025, which will allow greater use of secure digital document verification during recruitment and onboarding processes. All in all, a tighter regulatory landscape for visa applicants and also for employers and businesses.</p>
+
+<h2>Why These Changes Matter</h2>
+
+<p>The Government has stated that illegal working remains a significant driver of illegal migration and worker exploitation. Moreover, the Government believes the reforms better reflect today's labour market, where many organisations engage workers through agencies, contractors and platform-based arrangements rather than traditional employment.</p>
+
+<p>For employers, contractors, landlords and letting agents, the changes really emphasise the importance of reviewing compliance procedures well before the October 2026 implementation date.</p>
+
+<p>Businesses should consider whether their existing Right to Work processes extend to all categories of workers engaged on their behalf. Organisations that rely heavily on agency staff or subcontractors may need to update contracts, internal policies and onboarding procedures to ensure compliance.</p>
+
+<p>Landlords and letting agents should also review their Right to Rent procedures to ensure they continue to meet the statutory requirements.</p>
+
+<p>Taking action early can help reduce the risk of civil penalties and demonstrate a robust compliance framework, so ensure you are involving your Immigration Solicitor.</p>
+
+<h2>How We Can Help</h2>
+
+<p>Immigration compliance is becoming increasingly complex as legislation continues to evolve. Seeking professional advice before the new rules take effect can help employers, landlords and businesses understand their obligations and implement compliant procedures.</p>
+
+<p>If you would like advice on Right to Work checks, Right to Rent requirements, immigration compliance or any other UK immigration matter, please contact Leena Chouhan, Head of Immigration at Taylor Hampton Solicitors. Leena and her team advise employers, businesses, landlords and individuals on all aspects of UK immigration law and compliance.</p>
+
+<p>Email: leena.chouhan@taylorhampton.co.uk<br/>Telephone: 0044 203 143 0322</p>
+
+<p><em>Disclaimer: This article is provided for general information only and does not constitute legal advice. Immigration law changes frequently and each case depends on its own facts. Specific legal advice should always be obtained before taking or refraining from taking any action.</em></p>
+`,
+  },
+    {
     id: 106,
     title: "UK University Sponsor Licence Rules Tighten: What the New Compliance Regime Means for Higher Education",
     author: "Leena Chouhan",
