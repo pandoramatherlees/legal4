@@ -1,4 +1,50 @@
 export const ARTICLES = [
+   {
+    id: 109,
+    title: "Lovers and Lovebirds: Financial Criteria",
+    author: "Leena Chouhan",
+    date: "15 July 2026",
+    excerpt: "Leena Chouhan explains the Spouse Visa and the minimum income requirements for couples wishing to live together in the UK — including exceptions, disability benefit waivers, and the extra costs for dependent children.",
+    category: "Immigration",
+    slug: "lovers-and-lovebirds-financial-criteria",
+    content: `
+      <p>Whether newlyweds, newly engaged, or newly dating, it is important to be weary of the necessary financial requirements of living in the United Kingdom. There are no limits as to who you can love in the United Kingdom (that's the beautiful thing about love). There is one caveat to applying for the Spouse Visa however, or in a less serious tone, a necessary hurdle to prevent you and your love from clipping cupid's wings.</p>
+      <p>In this article Leena Chouhan, our expert immigration lawyer, discusses the Spouse Visa, along with the necessary financial requirements needed to ensure that your love isn't held behind a paywall.</p>
+
+      <h2>How Much is too Little?</h2>
+      <p>Applying for a family visa is not a costly endeavor but ensuring that you and your significant other has enough monetary funding to ensure meeting the minimum income requirement is necessary to acquiring the visa.</p>
+      <p>Typically, the UK government only requires at least £29,000 combined between you and your other half. If there was an extenuating circumstance prior to applying that led to a disability and you receive some form of disability/carer's benefits, then you can waive the minimum income requirement.</p>
+      <p>Another circumstance that allows for the waiving of the minimum income requirement is when the application for the visa was made. If you or your partner applied prior to 11 April 2024 and you wish to extend your visa, then the fee is waived including if you first applied as a fiancé, fiancée, or proposed civil partner.</p>
+      <p>The UK government will always welcome new relationships because these relationships are what keep communities thriving. As the saying goes, "love is in the air."</p>
+
+      <h2>Disability Benefits and Carer's Benefits: How Beneficial are They?</h2>
+      <p>In the case of a disability, the UK government is more than willing to accommodate to ensure that you and your significant other can still live your new lives in the UK without any financial criteria needing to be met.</p>
+      <p>There are many benefits that are recognized by the UK government as being sufficient for waiving the minimum income requirement. Some of these include the Police Injury Pension, Attendance Allowance, Severe Disablement Allowance, and Carer Support Payment. There are many other recognized benefits which can all be found on <a href="https://www.gov.uk/uk-family-visa/proof-income-partner" target="_blank" rel="noopener noreferrer">https://www.gov.uk/uk-family-visa/proof-income-partner</a>.</p>
+
+      <h2>Application in the Past? Different Cost in the Present</h2>
+      <p>As mentioned previously, people who applied for the Spouse Visa prior to 11 April 2024 are not required to meet the minimum income requirement at £29,000, rather, you must match the requirement at £18,600 combined. This circumstance is only permitted for those extending their visa with the same partner as when you first applied.</p>
+
+      <h2>Extra Children, Extra Costs</h2>
+      <p>Alongside this minimum income requirement, it is also necessary to prove that you and your significant other have sufficient funds for any child you may have in or bring into the United Kingdom. You need to be able to provide for any children whom you're applying for the Spouse Visa as a dependent or if the children are already in the UK as dependents on your visa or your significant other's.</p>
+      <p>There are exceptions to this however as certain children and parents do not need to provide additional money. This is only the case if the children are British or Irish citizens, permanently settled in the UK, or have pre-settled status in the country.</p>
+      <p>In some cases, you may not need to be able provide extra money for children listed as dependents if those children are citizens of the EU, Iceland, Liechtenstein, Norway, or Switzerland and don't have pre-settled or permanently settled in the UK.</p>
+      <p>Now, a lot of talking but not so much saying how much each child will cost. Don't worry, the time is now. When needing to provide extra money for the first child listed as a dependent, it needs to be £3,800 a year. Alongside this, any additional children that are listed will require £2,400 yearly.</p>
+      <p>One caveat to this is that if the total amount you'd need to earn surpasses the minimum income requirement of £29,000, then you only need to prove that you and your significant other make a combined £29,000 without the extra costs.</p>
+
+      <h2>What if I Can't Pay it?</h2>
+      <p>No worries! The UK government will never prevent you from being with your special one and allows for future applications even if you can't meet the financial criteria.</p>
+      <p>For any of you who have a child in the UK who is a British or Irish citizen and has lived in the UK for at least 7 years, then the UK government deems it unreasonable for them to leave the UK, as such, they allow you to reapply to ensure they are not left alone.</p>
+      <p>The other circumstance is much simpler. The UK government preventing you from coming to the UK or leaving would violate your human rights, as such, they allow any person to reapply for a visa no matter the circumstance. The only problem that arises from these two exceptions in the financial criteria requirement is that if you wish to settle in the UK, you will need to wait at least 10 years after living in the country to apply.</p>
+
+      <h2>Nothing but Love Awaits you in the British Isles</h2>
+      <p>Congratulations! We here at Taylor Hampton Solicitors hope that you and your significant other can arrive and live in the United Kingdom together for years to come and so ensuring that you meet any financial requirement is important for us so you can live your British dreams.</p>
+
+      <h2>Where Can I Go for Help?</h2>
+      <p>For more information and to ask for assistance, see our contact page or contact Leena Chouhan on +44 203 143 0322.</p>
+
+      <p><em>Disclaimer: This article is for general information purposes only and does not constitute legal advice. Immigration law and Home Office guidance change frequently and organisations should seek professional advice on their specific circumstances.</em></p>
+    `,
+  },
     {
     id: 108,
     title: "A Ticket to a New Tomorrow: The UK Global Talent Visa",
