@@ -27,5 +27,8 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/uk-university-sponsor-licence-rag-rating-2026`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/right-to-work-right-to-rent-changes-october-2026`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/global-talent-visa-application-guide-2026`, lastModified: new Date() }, 
-    { url: `${baseUrl}/news-articles/lovers-and-lovebirds-financial-criteria`, lastModified: new Date() },];
+    { url: `${baseUrl}/news-articles/lovers-and-lovebirds-financial-criteria`, lastModified: new Date() },
+  { url: `${baseUrl}/news-articles/lovers-and-lovebirds-financial-criteria`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/lovers-and-lovebirds-professional-help`, lastModified: new Date() },
+];
 }
