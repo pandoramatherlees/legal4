@@ -1,6 +1,55 @@
 export const ARTICLES = [
 {
     id: 110,
+    title: "Lovers and Lovebirds: Do You Need to be Married?",
+    author: "Leena Chouhan",
+    date: "18 July 2026",
+    excerpt:
+      "Marriage isn't the only route to a Spouse Visa. Leena Chouhan explains civil partnerships, unmarried couples, fiancé(e) applications and the other pathways the UK government recognises.",
+    category: "Immigration",
+    slug: "lovers-and-lovebirds-do-you-need-to-be-married",
+    content: `
+      <p>Marriage is a requirement for many, but not for the government. The UK government recognizes many different types of partnerships so that you and your partner can live your future lives in the UK, regardless of relationship status.</p>
+      <p>In this article Leena Chouhan, our expert immigration lawyer, discusses whether marital status is a requirement for applying for the Spouse Visa.</p>
+
+      <h2>Getting the Basics Done First</h2>
+      <p>Although you do not need to be married, it is crucial that your partner living in the UK meets certain requirements so that you are eligible to apply for the Spouse Visa. These requirements can include being a British or Irish citizen, stateless/refugee status, or settled in the UK either on a permanent residence or ILR.</p>
+      <p>These requirements are set to ensure that you and your partner do fully intend to live with one another after applying.</p>
+
+      <h2>No Marriage, No Problem!</h2>
+      <p>The UK government recognizes many different types of relationships varying from civil partnerships or engagements. Alongside these relationships, the UK government still allows you to apply if you have a child in the UK that is either a British or Irish citizen because it would be unreasonable for them to leave the UK.</p>
+      <p>Marriage is the answer for many people, however, it is important to know that it is not the only way for partners to live their lives together in the UK.</p>
+
+      <h2>Civil Partnerships: Unmarried, still Eligible</h2>
+      <p>Civil partnerships are very similar to that of marriage, however, rather than exchanging vows at the altar, you exchange signatures for the UK government.</p>
+      <p>The only requirements to be able to form a civil partnership is to be 18 years of age or over as well as not being closely blood related and not already being in a recognized marriage or civil partnership. These are the regulations present in England, with Scotland, Northern Ireland, and other areas outside the UK having different laws regarding forming a civil partnership.</p>
+      <p>For more information on this use this link: <a href="https://www.gov.uk/marriages-civil-partnerships" target="_blank" rel="noopener noreferrer">Marriages and civil partnerships in England and Wales: Check if you can get married or form a civil partnership - GOV.UK</a></p>
+
+      <h2>Civil Partnership: Applying and Requirements</h2>
+      <p>When applying for a Spouse Visa the only requirement that is needed to be eligible for the Spouse Visa is being in a recognized relationship via a legal certificate. Other evidence to prove your relationship can include the likes of a tenancy agreement, voting registration at the same address as your partner, student finance paperwork indicating you live at the same address, or a statement indicating a joint bank statement.</p>
+
+      <h2>Non-Civil Partnerships and Other Methods of Getting a Visa</h2>
+      <p>Being in a recognized civil partnership is not the only way for you to get a Spouse Visa, as the UK government allows for numerous different pathways to ensure that the visa for your future is swiftly in your hands.</p>
+      <p>If you and your partner have been living together in a relationship for at least two years, then you are eligible to apply for a Spouse Visa. Living together also provides greater legal documentation that indicates a close relationship such as previously mentioned.</p>
+      <p>Although this next pathway will eventually end in marriage, you are still not quite there. If you are a fiancé, fiancée, or in a proposed civil partnership, then you are eligible to apply. The only requirement to this is that you declare you will be married or enter into the formal civil partnership within 6 months of arriving into the UK. This may be counterintuitive for many, but it still serves as an effective method for those who do eventually wish to be married. There is no better place to be married than the beautiful isle of Great Britain.</p>
+      <p>This pathway of eventual marriage has another caveat as well. When arriving in the UK, you are not able to work or study as part of the required six months grace period of marriage/civil partnership. Once you are married, you will need to apply for a visa extension. Once this is done you are able to both work and study in the UK.</p>
+      <p>This next example is also common and demonstrates the UK government's ability to accommodate different cultural limitations when it comes to partnerships. If you and your partner have been in a relationship for at least 2 years prior to applying but cannot live together for cultural or religious reasons. No matter what culture you come from, the UK government is always willing to understand and accommodate to ensure that the future you wish to have with your partner will always be on the table.</p>
+
+      <h2>Other Methods not Involving Relationships</h2>
+      <p>There are many circumstances that may lead to a person being able to apply for a visa despite not meeting the requirements. Although you need to be in a relationship to be able to apply for the Spouse Visa, other options are available if you meet one of two past requirements.</p>
+      <p>If you have a child listed as a dependent and they are UK or Irish citizens that have resided in the UK for at least 7 years, then it would be unreasonable to believe that they would leave their homes. Alongside this, the ability to apply for a visa and being able to come in or out of the UK is a fundamental human right that has been recognized, as such, the UK government wants to do everything possible for you or your spouse to ensure that you can enter the country.</p>
+
+      <h2>What Now?</h2>
+      <p>For many marriage is the final step needed to being independent, but that is not the case for the Spouse Visa. The UK government has made it a point that any person can love any other regardless of sexual orientation and culture. The Spouse Visa is the encapsulation of this. To end on a bright note, love knows no borders.</p>
+
+      <h2>Where Can I Go for Help?</h2>
+      <p>For more information and to ask for assistance, see our contact page or contact Leena Chouhan on +44 203 143 0322.</p>
+
+      <p><em>Disclaimer: This article is for general information purposes and does not constitute legal advice. Immigration law and Home Office guidance change frequently and organizations should seek professional advice on their specific circumstances.</em></p>
+    `,
+  },
+    {
+    id: 110,
     title: "Lovers and Lovebirds: Should You Get Professional Help?",
     author: "Leena Chouhan",
     date: "22 July 2026",
