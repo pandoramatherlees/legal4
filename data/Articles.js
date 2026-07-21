@@ -1,5 +1,67 @@
 export const ARTICLES = [
 {
+    id: 111,
+    title: "Lovers and Lovebirds: Common Reasons for Refusal",
+    author: "Leena Chouhan",
+    date: "21 July 2026",
+    excerpt: "When applying for the Spouse Visa it is crucial that you understand the chance of refusal. Expert immigration lawyer Leena Chouhan discusses the most common reasons for refusals and how to avoid unnecessary pitfalls.",
+    category: "Family Immigration",
+    slug: "spouse-visa-common-reasons-for-refusal",
+    content: `
+<p>You would think that simply asking out your significant other for the first time would be your biggest risk of rejection — unfortunately, the government itself can reject you as well. When applying for the Spouse Visa it is crucial that you understand and are willing to embrace the chance of refusal. The best way to ensure that you don't get refused is to avoid common mistakes. As the saying goes, "the worst they can say is no".</p>
+
+<p>In this article Leena Chouhan, our expert immigration lawyer, discusses the Spouse Visa, along with the most common reasons for refusals and how not to stumble into unnecessary holes in the road.</p>
+
+<h2>Not Demonstrating How Much You Really Love Them</h2>
+
+<p>Although this seems relatively rudimentary, it still is a major hurdle that must be crossed. The UK government wants to ensure that the person applying for the Spouse Visa can truly be considered either a civil or romantic partner and as such requires evidence of the relationship that goes beyond just friends.</p>
+
+<p>The most common documents submitted are those that demonstrate either joint finances or communications — phone and text logs, joint financial statements, records of travels and photographs together.</p>
+
+<p>The logic behind this is straightforward: a Spouse Visa is meant to be for your significant other or civil partner, and being unable to present evidence of this relationship gives no reason for the government to believe you are truly in one.</p>
+
+<h2>Applying for the Wrong Visa</h2>
+
+<p>You would be surprised how common applying for the wrong visa is — there are so many, after all. Ensuring that you apply for the Spouse Visa (also called the Partner Visa) is necessary because if you apply to another visa and don't meet the requirements, it delays the process further. It is a very common mistake, and as such, should be taken as a lesson learned rather than cause for despair.</p>
+
+<h2>Validity of Marriage</h2>
+
+<p>This point is targeted primarily towards married couples, who need to present more information regarding their marital status. Marriage, legally, is a binding agreement between two individuals, so ensuring that you and your spouse have a legal document certifying the marriage — whether a marriage certificate or civil partnership certificate — is essential.</p>
+
+<p>The UK receives many applications missing this legal documentation and as such may interpret any undocumented marital status as potentially fraudulent, hence the refusal.</p>
+
+<p>You must also provide certificates of divorce or death where applicable. The UK government wants to ensure that you and your spouse are in a single relationship with no other legally recognised marriages prior to your current application.</p>
+
+<h2>Partner Information Inconsistencies</h2>
+
+<p>Ensuring that you and your partner have consistent information across all legal documents is crucial. If two accounts of the same person's details don't match, something is clearly amiss — and this is precisely the logic the UK government applies. Any form of inconsistency can be seen as demonstrating poor communication between partners and unreliability.</p>
+
+<p>This extends beyond legal documents. You may also be asked about marriage history, family background and other personal information. Would you accept someone's partner for a visa if they knew nothing about them?</p>
+
+<h2>Spouse's Immigration Status</h2>
+
+<p>This common pitfall falls somewhat outside the applicant's hands, as it depends on the partner currently residing in the UK. The partner in the UK must meet one of three requirements for their partner to be eligible for the Spouse Visa: they must be a UK citizen, a UK settled person, or a refugee or person under humanitarian protection.</p>
+
+<p>If you apply without confirming your partner's status, you will more than likely be refused. This is not the end of the road — in many cases you can both appeal the decision or reapply at a later date.</p>
+
+<h2>Not Meeting the Financial Requirements</h2>
+
+<p>The United Kingdom is an expensive country to live in, and ensuring that you, your partner and any dependent children can support yourselves is essential. To be accepted you must meet the minimum required combined income of £29,000. Additional requirements apply depending on the number of children listed as dependants.</p>
+
+<p>Demonstrating that you meet this financial threshold involves submitting documents such as six months' bank statements, a job contract, tax returns, business accounts or any other financial documentation that evidences your ability to meet the criteria.</p>
+
+<h2>What Now?</h2>
+
+<p>Hopefully this has been of use. We at Taylor Hampton Solicitors wish you and your partner the very best of luck in this new stage of life.</p>
+
+<h2>Where Can I Go for Help?</h2>
+
+<p>For more information and assistance, see our <a href="/contact">contact page</a> or contact Leena Chouhan on +44 203 143 0322.</p>
+
+<p><em>This article is for general information purposes only and does not constitute legal advice. Immigration law and Home Office guidance change frequently and organisations should seek professional advice on their specific circumstances.</em></p>
+`
+  },
+    {
     id: 110,
     title: "Lovers and Lovebirds: Do You Need to be Married?",
     author: "Leena Chouhan",
