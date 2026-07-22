@@ -31,5 +31,6 @@ export default function sitemap() {
   { url: `${baseUrl}/news-articles/lovers-and-lovebirds-financial-criteria`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/lovers-and-lovebirds-professional-help`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/spouse-visa-common-reasons-for-refusal`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/lovers-and-lovebirds-spouse-visa-requirements`, lastModified: new Date() },
 ];
 }
