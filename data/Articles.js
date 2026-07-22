@@ -1,5 +1,71 @@
 export const ARTICLES = [
 {
+    id: 112,
+    title: "Lovers and Lovebirds: Requirements for the Spouse Visa",
+    author: "Leena Chouhan",
+    date: "2026-07-22",
+    excerpt: "Leena Chouhan explains the UK Spouse Visa: who qualifies, how to prove your relationship, how long you can stay and how to bring your children with you.",
+    category: "Immigration",
+    slug: "lovers-and-lovebirds-spouse-visa-requirements",
+    content: `
+      <p>&ldquo;Distance means so little when someone means so much.&rdquo; This line from the American novelist Tom McNeal resonates with so many of us, capturing that aching wish to have the person you love beside you no matter what stands between you.</p>
+
+      <p>What if there were a way to bridge that distance?</p>
+
+      <p>There is no reason the one you love should stay held behind borders when the United Kingdom offers a real pathway for two lives to be reunited. In this article Leena Chouhan, our expert immigration lawyer, walks through the Spouse Visa and its requirements so that your other half can be sitting beside you as soon as possible.</p>
+
+      <h2>Getting the Basics Done Right</h2>
+
+      <p>The Spouse Visa covers a wide range of relationships and lets almost anyone build a life with their significant other in the country of their dreams. The UK sets out these basic requirements on its Family in the UK page: <a href="https://www.gov.uk/uk-family-visa/partner-spouse">Family visas: apply, extend or switch: Apply as a partner or spouse - GOV.UK</a>.</p>
+
+      <p>The starting point is to show that you are in a marriage or civil partnership that the UK formally recognises. This recognition can arise in several ways. The general position is that both you and your partner must be over 18, while the partner already living in the UK needs to be a British or Irish citizen.</p>
+
+      <p>That is not where it ends. As the old saying goes, home is where you make it, something the UK understands well. The partner based in the UK must be settled here, whether through indefinite leave to remain, settled status or proof of permanent residence. This step matters because the government wants reassurance that you and your significant other can truly build a future together.</p>
+
+      <p>The next requirement reminds me of the Odyssey, and of the trials Odysseus and Penelope endured to find their way back to one another. If your partner is fleeing somewhere dangerous, whether that be war, economic turbulence or national instability, they too can make the journey to reach the person who has been waiting for them. The United Kingdom allows a partner to qualify for the Spouse Visa where they hold protected status, such as leave to remain as a refugee, permission to stay as a refugee or humanitarian protection.</p>
+
+      <p>Once this foundation of your love story takes root, the next task is to prove how much you have truly come to love the one you love. Legally, at least.</p>
+
+      <h2>How Much do you REALLY Love them?</h2>
+
+      <p>To clarify&hellip;</p>
+
+      <p>That subheading is a joke. Even so, proving the reality of your relationship matters if your partner is to be eligible for the Spouse Visa.</p>
+
+      <p>The most basic proof comes from documents issued by the government, a bank, a landlord, a utility provider or a medical professional, showing that you live together, are married, share your expenses or are in a civil partnership. One easy mistake is to submit paperwork that is out of date, because your evidence needs to be less than 4 years old for the Home Office to accept it.</p>
+
+      <p>Fortunately for the lovebirds who do not, or cannot, live with their partner, the government confirms that living together is not always a condition of the Spouse Visa. Where you have been in a relationship for at least 2 years but cannot share a home because of work, study or cultural reasons, you can instead provide evidence of regular communication, of mutual financial support, of care for any children you share where relevant, or of time spent together as a couple such as a holiday.</p>
+
+      <p>With so many ways to evidence your bond, the government wants to do all it can to prevent long spells of separation. Once you are reunited though, it is important not to outstay your welcome.</p>
+
+      <h2>Overstaying your Legal Welcome</h2>
+
+      <p>As with any visa, you and your partner need to understand the limits placed on how long you may remain in the UK. If you are married or in a civil partnership that is already in place, you are welcome to stay for 2 years and 9 months, after which you must reapply to extend. An extension gives you a further 2 years and 6 months, and you can extend more than once.</p>
+
+      <p>Fianc&eacute;s, fianc&eacute;es and proposed civil partners may stay for 6 months. Once you have married or entered your civil partnership, you will need to apply to extend your stay.</p>
+
+      <p>For those who became engaged before extending their visa, there is no cause for worry, because your status in the country has not changed. When you apply for the extension, take care not to apply as a fianc&eacute;, fianc&eacute;e or proposed civil partner, as this restarts the whole application from the beginning. Apply instead under the same visa status you held when you first arrived, and extend from there.</p>
+
+      <h2>What About the Little Ones?</h2>
+
+      <p>Children are no obstacle when you apply, since you can list them as dependants on your Spouse Visa application.</p>
+
+      <p>Two things must be true for a child to be registered as a dependant in the UK. They must be under 18 at the point you apply, or have been under 18 when first granted leave, and they must not be living an independent life.</p>
+
+      <p>An independent life here means living apart from the person applying for the visa and standing on their own, for instance by having left home to raise a family of their own.</p>
+
+      <h2>What Now?</h2>
+
+      <p>Congratulations. With any luck you and your loved one now feel ready to begin this new chapter in the United Kingdom. All of us at Taylor Hampton Solicitors wish you the very best as you take this next step.</p>
+
+      <h2>Where Can I Go for Help?</h2>
+
+      <p>For more information or to ask for assistance, please see our contact page or contact Leena Chouhan on +44 203 143 0322.</p>
+
+      <p><em>Disclaimer: This article is for general information purposes only and does not constitute legal advice. Immigration law and Home Office guidance change frequently and organisations should seek professional advice before acting.</em></p>
+    `,
+  },
+    {
     id: 111,
     title: "Lovers and Lovebirds: Common Reasons for Refusal",
     author: "Leena Chouhan",
