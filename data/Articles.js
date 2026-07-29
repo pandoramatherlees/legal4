@@ -1,5 +1,63 @@
 export const ARTICLES = [
 {
+  id: 113,
+  title: "The Skill Tree: What's the UK Skilled Worker Visa",
+  author: "Leena Chouhan",
+  date: "2026-07-29",
+  excerpt: "A comprehensive guide to the UK Skilled Worker Visa, covering eligibility requirements, certificates of sponsorship, benefits, and special considerations for healthcare and education professionals.",
+  category: "Immigration",
+  slug: "skilled-worker-visa",
+  content: `
+    <p>What does a hammer, tractor, and a computer have in common? The answer won't surprise you, none of these three different items share any obvious connection. But what if I told you they did.</p>
+    
+    <p>All three of these items require the person wielding them to be skilled in their profession and demonstrate the necessary attributes necessary to being successful in advancing the goals of their employers. This is the basis of the UK Skilled Worker Visa: a pathway for many to enter and live in the UK based purely on their skill, rather than on any other merit.</p>
+
+    <h2>How Skilled is not Skilled Enough?</h2>
+    
+    <p>Understanding the threshold you need to cross to be able to apply for the Skilled Worker Visa is entirely left up to the needs of your employer.</p>
+    
+    <p>The actual application process depends on a list of various criteria that must be met to be eligible to apply. These include working for a UK employer that has been approved by the Home Office, having a certificate of sponsorship for the role your employer needs, having a minimum base salary that will vary depending on the work, and finally, and most obviously, having a job that has the eligibility of the Skilled Migrant Visa.</p>
+    
+    <p>As mentioned previously, the certificate of sponsorship is a prerequisite to meeting the eligibility requirement for the Skilled Worker Visa. It's important to know that there are two different certificates of sponsorship available for you: <strong>Defined</strong> and <strong>Undefined</strong>.</p>
+    
+    <p><strong>Defined certificates</strong> are meant for applicants applying for the Skilled Worker Visa from outside the UK. Applying for a defined certificate is not difficult, but it does require applying through the sponsorship management system (SMS), which you'll receive access to after receiving your license.</p>
+    
+    <p><strong>Undefined certificates</strong> are meant for applicants applying from within the United Kingdom, as well as for any person applying for a visa other than the Skilled Worker Visa. When applying for the certificate it will be necessary to explain exactly how many undefined certificates you will need in your first year. The way of applying for more undefined certificates is also through SMS, which will typically give a decision on the status of your certificates within 12 weeks, or in 5 days if you pay more.</p>
+
+    <h2>Is It Worth It?</h2>
+    
+    <p>Being able to work in the UK is a great opportunity for you, and if you have one, your family. Once you obtain the Skilled Worker Visa, it will give you many privileges that come with obtaining a UK visa.</p>
+    
+    <p>The basic benefits you'll receive include the ability to work in an eligible job (it's a work visa after all), the ability to study, permission to bring your partner and children if listed as "dependents", and importantly, the ability to apply for permanent residence in the UK via Indefinite Leave to Remain (ILR).</p>
+    
+    <p>Applicants are also allowed to work for a charity or at a charitable cost. Voluntary work is important not just for society, but also for the soul, and the UK government identifies this as well. Volunteer work must comply with the guidelines set out by the government, including requirements such as being unpaid labor, the charity being registered with the government, being a voluntary organization, an associated fundraising body that operates alongside your employer, or a statutory body.</p>
+    
+    <p>The downside to the Skilled Worker Visa is like that of many visas, which will generally not be a turn-off for most general applicants. Because you are not a citizen or permanent resident of the UK, you are not legally permitted to collect benefits or receive a State Pension. The restriction that is connected most directly with the Skilled Worker Visa is that you are not allowed to change your profession or employer on the same visa in which you applied.</p>
+    
+    <p>You will need to reapply for a new Skilled Worker Visa with the new employer to ensure that you are legally allowed to remain and work in the United Kingdom.</p>
+
+    <h2>Different Job, Different Requirements</h2>
+    
+    <p>Medical school is a daunting endeavor worldwide, and teaching the next generation is just as important, so meeting the requirements for the Skilled Worker Visa is crucial. When applying as a medical worker or educator, you will be faced with different requirements depending on the healthcare profession you intend to apply into.</p>
+    
+    <p>The main requirement that must be met is that your salary must be at least £25,000 or higher depending on if the "going rate" of your job is higher. This "going rate" is based on the national pay scales set by the relevant independent body of your profession, in this case it would be the NHS or the TRA.</p>
+    
+    <p>Meeting these requirements will be so important not just for you, but also for the health and future of so many people across the United Kingdom. Ensuring that you are able to attain your Skilled Worker Visa will be crucial in deciding whether someone's lives are impacted positively and their academic futures have hope.</p>
+
+    <h2>So, What Now?</h2>
+    
+    <p>Here at Taylor Hampton, we wish you nothing but the absolute best for you and the future of whomever you wish to bring into the UK. The future of both the UK economy and the lives of so many will be decided by whether you decide to apply for the visa to begin with.</p>
+    
+    <p>Best of luck!</p>
+
+    <h2>Where Can I Go for Help?</h2>
+    
+    <p>For more information and to ask for assistance, see our <a href="/contact">contact page</a> or contact Leena Chouhan on +44 203 143 0322.</p>
+
+    <p><strong>Disclaimer:</strong> This article is for general information purposes only and does not constitute legal advice. Immigration law and Home Office guidance change frequently, and organisations should seek professional advice on their specific circumstances.</p>
+  `
+},
+    {
     id: 112,
     title: "Lovers and Lovebirds: Requirements for the Spouse Visa",
     author: "Leena Chouhan",
