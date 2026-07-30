@@ -1,5 +1,61 @@
 export const ARTICLES = [
 {
+    id: 114,
+    title: "The Skill Tree: Skilled Worker Visa Requirements",
+    author: "Leena Chouhan",
+    date: "2026-07-30",
+    excerpt: "A practical guide to meeting the Skilled Worker Visa requirements — from finding an approved UK sponsor and obtaining a Certificate of Sponsorship to salary thresholds and the English language requirement.",
+    category: "Immigration",
+    slug: "skilled-worker-visa-requirements",
+    content: `<p>"Knowing is not enough; we must apply. Willing is not enough; we must do." This is a quote from the German writer and polymath Johann Wolfgang von Goethe, which perfectly describes that just knowing what is needed is not the same as understanding the importance of acting on it. This quote perfectly explains why it is so crucial to know what the requirements for the Skilled Worker Visa are. To place the visa in the context of the quote, just saying you know how to apply is not enough — you must also apply the knowledge to do what must be done.</p>
+
+<h2>First Steps to a New Occupation</h2>
+
+<p>The basic requirements for attaining the Skilled Worker Visa are not complex, but they do require you to do research into exactly what type of work you wish to pursue. The first requirement to be eligible is to work for a UK employer that has been approved by the Home Office. Approval from the Home Office is crucial because it demonstrates that you will be working for a trustworthy organisation that will benefit not just your life, but the lives of all those around you.</p>
+
+<p>The second requirement is attaining a <strong>Certificate of Sponsorship (CoS)</strong>. This is needed to ensure that the UK government has documentation of exactly what your job will be, when it will be conducted, and any other information that may be needed prior to entering the country. A CoS can be obtained once you are selected for a job.</p>
+
+<p>It is important to note that there are two different types of CoS: <strong>Defined</strong> and <strong>Undefined</strong>. A Defined CoS is required for all applicants applying from outside the UK. This also requires your employer to meet additional requirements via the Sponsorship Management System (SMS), from which you will obtain access to your SMS account via your employer where you will see your work licence.</p>
+
+<p>The Undefined CoS is designed for Skilled Workers applying from within the UK. The duration of your licence depends on the quantity of Undefined CoS that your employer chooses to apply for.</p>
+
+<p>The third requirement is that the job you will be working in the UK needs to be considered one of the many eligible occupations. The UK government requires all applicants to have occupations that match an approved list of occupation codes. Eligibility varies vastly between the different occupation zones, but that doesn't mean your occupation will not be listed.</p>
+
+<p>To know whether your occupation is considered eligible for the Skilled Worker Visa, consult the official GOV.UK list of eligible occupations.</p>
+
+<p>The final tangible requirement is meeting a minimum salary for your profession. This varies vastly between occupations, as different occupations require different salaries. The standard salary requirement to be eligible is <strong>£41,700</strong>, but this figure can be reduced depending on certain criteria.</p>
+
+<p>The legal requirement to be paid less is that you still need to be making between 70% and 90% of the minimum salary — and your salary must be at least £33,400 annually — as well as meeting one of three criteria. These include: holding a postdoctoral position in science or higher education; being under 26 and either studying, being a recent graduate, or in professional training; or holding a PhD-level qualification in science, technology, engineering, or maths that is relevant to the occupation you are applying for.</p>
+
+<p>Medical and education occupations follow different salary rules based on the national pay scales. The minimum salary that medical and education occupations must meet is at least <strong>£25,000</strong>, or more depending on the occupation's minimum salary.</p>
+
+<p>The list of eligible healthcare and education jobs, alongside their occupation codes, is published on GOV.UK.</p>
+
+<h2>Language Requirement: What to Know</h2>
+
+<p>To be eligible for the Skilled Worker Visa, it is a requirement by the UK government for you to have a working understanding of the English language. The UK government requires all applicants to be able to speak, read, write, and understand English, as well as being able to prove it.</p>
+
+<p>There are several ways for applicants to prove their proficiency in English, so for many applicants this is a simple hurdle to clear. The first is having a UK school qualification or a degree from a UK institution. Either of these proves to the Home Office that you have lived and studied in the English language.</p>
+
+<p>The second method is by having a degree from an institution outside the UK which was taught in English. This is a very important path for many to take, as most applicants apply from outside the UK.</p>
+
+<p>The final method is by passing an English test from an approved provider. The test in question is the <strong>Secure English Language Test (SELT)</strong>. You must prove that you can read, write, speak, and understand English to at least a B2 level on the Common European Framework of Reference for Languages (CEFR) scale.</p>
+
+<p>There is also a list of countries and territories whose nationals do not have to demonstrate their English proficiency, published by the Home Office.</p>
+
+<p>The final exception is for applicants who are doctors, dentists, nurses, midwives, or veterinarians, as they must be certified by their relevant regulated professional body.</p>
+
+<h2>What Now?</h2>
+
+<p>Congratulations! Hopefully you have been able to meet the above requirements — and for the lucky few, be an exception to some. This will be the first of many steps for you and your professional life in the UK, and will serve as a great stepping stone to achieving your desired life.</p>
+
+<h2>Where Can I Go for Help?</h2>
+
+<p>For more information and to ask for assistance, see our contact page or contact <strong>Leena Chouhan</strong> on <strong>+44 203 143 0322</strong>.</p>
+
+<p><em>Disclaimer: This article is for general information purposes only and does not constitute legal advice. Immigration law and Home Office guidance change frequently, and individuals and organisations should seek professional advice on their specific circumstances.</em></p>`
+  },
+  {
   id: 113,
   title: "The Skill Tree: What's the UK Skilled Worker Visa",
   author: "Leena Chouhan",
