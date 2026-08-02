@@ -34,5 +34,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/lovers-and-lovebirds-spouse-visa-requirements`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/skilled-worker-visa`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/skilled-worker-visa-requirements`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/the-skill-tree-main-reasons-for-refusal`, lastModified: new Date() },
   ];
 }
