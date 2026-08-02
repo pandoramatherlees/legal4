@@ -1,4 +1,49 @@
 export const ARTICLES = [
+    {
+    id: 115,
+    title: "The Skill Tree: Main Reasons for Refusal",
+    author: "Leena Chouhan",
+    date: "2 August 2026",
+    excerpt: "Leena Chouhan walks through the most common mistakes that lead to Skilled Worker Visa refusals — from sponsorship errors and English language proof to salary requirements and employer legitimacy — and how to avoid them.",
+    category: "Immigration",
+    slug: "the-skill-tree-main-reasons-for-refusal",
+    content: `
+      <p>When it comes to ensuring that you receive your visa, it is unbelievably important to ensure that no common mistakes or unnecessary errors are left without notice. The Skilled Worker Visa needs to be handled with the same kind of care as any other major government application, as it can dictate your future with even the smallest of inconsistencies. Ensuring a successful application is less about how important your role is, but more on how correct you can make your application.</p>
+      <p>In this article Leena Chouhan, our expert immigration lawyer, discusses common mistakes that applicants make when applying for the Skilled Worker Visa and the best ways to avoid them.</p>
+
+      <h2>Sponsorship Full of Errors</h2>
+      <p>The Skilled Worker visa requires many documents to ensure a successful application, one of these being a certificate of sponsorship (CoS). A CoS is crucial as it is a necessary step in proving to the UK Home Office that your employer recognizes you and your skill in your occupation and truly wants you in the country.</p>
+      <p>This all sounds good and well, until there's an error. Your employer is the person who fills out this sponsorship after gaining access to the Sponsor Management System (SMS), which all employers of Skilled Worker Visa holders need to complete to ensure proper entry into the United Kingdom. The error in this situation arises from delegating this task to another individual who does not have adequate information regarding your application.</p>
+      <p>These errors can include a myriad of things, but the most common is a poor understanding of what your job role is. Marking down the job title and job description is necessary for the Home Office to know whether you qualify for the Skilled Worker Visa, so if your employer marks you down as another occupation code rather than the one designated for your specific occupation, it could lead to a swift refusal.</p>
+      <p>The best way to remedy this is by supplying the information to your employer in an orderly manner so that little confusion arises when they delegate your future to another.</p>
+
+      <h2>Poor Grip on the English Language</h2>
+      <p>It is perfectly fine not to have English as your first language, nor to be proficient in it. The reason why it is important in this case is that the Home Office requires all applicants of the Skilled Worker Visa to have a proficient understanding and grip of the English language.</p>
+      <p>Many applicants do not apply from within the United Kingdom, so many do not have English as their native language, this is perfectly fine. The process of learning a new language is a tricky thing, but it is entirely possible with enough determination and commitment to learning.</p>
+      <p>The Home Office requires all applicants to demonstrate their proficiencies in speaking, writing, reading, and understanding of the language through many means—failing to provide proof can be the difference between a success and failed application.</p>
+      <p>To avoid this, the best advice to receive is to immerse yourself in a community where the prominent language is English. This will improve all of the aforementioned fields of proficiency and ensure that you will be successful when proving your proficiency.</p>
+
+      <h2>Not Meeting the Salary Requirements</h2>
+      <p>Every occupation has a specific minimum salary that must be met prior to applying for the Skilled Worker Visa. These wages vary between occupations, which is why it is very common for this to be the main reason why many get refused.</p>
+      <p>Salary rules between occupations are constantly varying, as is the nature of immigration law and the Home Office, so being up-to-date and ensuring that you know exactly how much you need to do at your new job is crucial.</p>
+      <p>The best way to avoid this is by reviewing what the requirements for your occupation and what the varying rates are from the 'going rate' via the official Home Office page <a href="https://www.gov.uk/skilled-worker-visa/when-you-can-be-paid-less" target="_blank" rel="noopener noreferrer">here</a>.</p>
+
+      <h2>Job Legitimacy</h2>
+      <p>This seems like a strange reason, but it is the reality for many applicants. Whether it be a dodgy website or a low-confidence employer, ensuring that the job you are applying for can be recognized by the Home Office as being an actual employer is key.</p>
+      <p>The Home Office holds the discretion to invalidate your application depending on whether they believe your employer has nefarious reasons for your entry to the United Kingdom. These reasons can involve a suspended, downgraded, or concern with the employer's sponsorship license which will have a significant impact on whether you get accepted or denied.</p>
+      <p>This of course is out of your control, but there are some ways people intend to enter the United Kingdom via the Skilled Worker Visa without the intent of working for their specific employer. These reasons can be for immigration reasons as the Home Office can find probable cause that your employer is working as a pathway for immigration, rather than an occupation. Other reasons can be the inability for your employer to demonstrate why they need extra hands on deck.</p>
+      <p>Many things fall out of your control for this specific reasons for refusal, but ensuring you do the adequate research on your employer falls squarely on you. The best way to avoid this is to research your employer, ask what their sponsorship license status is, and ensure that the company you are working for has a sufficient enough reason for the Home Office to decide that your presence in the United Kingdom will be necessary for the continued operation of the firm.</p>
+
+      <h2>What Now?</h2>
+      <p>Hopefully now you understand the common mistakes that applicants make when applying for the Skilled Migrant Visa. Now you know exactly what not to do and how to ensure you don't commit these common mistakes.</p>
+      <p>Best of luck!</p>
+
+      <h2>Where Can I go For Help?</h2>
+      <p>For more information or to ask for assistance, please see our contact page or contact Leena Chouhan on +44 203 143 0322.</p>
+
+      <p><em>Disclaimer: This article is for general information purposes only and does not constitute legal advice. Immigration law and Home Office guidance change frequently and organizations should seek professional advice before acting.</em></p>
+    `,
+  },
 {
     id: 114,
     title: "The Skill Tree: Skilled Worker Visa Requirements",
