@@ -1,5 +1,52 @@
 export const ARTICLES = [
     {
+    id: 116,
+    title: "The Skill Tree: Obtaining Indefinite Leave to Remain (ILR)",
+    author: "Leena Chouhan",
+    date: "2 August 2026",
+    excerpt: "Leena Chouhan sets out the route to settlement for Skilled Worker Visa holders — the five-year residence rule, salary requirements, continued employment, the Life in the UK test, and the right time to apply for Indefinite Leave to Remain.",
+    category: "Immigration",
+    slug: "the-skill-tree-obtaining-indefinite-leave-to-remain-ilr",
+    content: `
+      <p>Your future in the United Kingdom lies entirely in your hands, so knowing how to remain will be important to living your British dream. Indefinite Leave to Remain (ILR) is a legal process that allows holders of certain visas to apply for settlement in the United Kingdom, allowing you to live, study, and work for as long as you wish.</p>
+      <p>The requirements for ILR vary between different visa categories, so understanding what the requirements are for the Skilled Worker Visa is important for your future.</p>
+      <p>In this article Leena Chouhan, our expert immigration lawyer, discusses the steps necessary to ensuring that you receive Indefinite Leave to Remain and live your new life in the United Kingdom.</p>
+
+      <h2>Time Spent Isn't Indefinite</h2>
+      <p>The general requirements to be eligible for an ILR under Skilled Work Visa are not complex and allow for many to apply. The first, and most simple requirement needed is that of living and working in the United Kingdom for at least 5 years prior to applying for ILR.</p>
+      <p>This may seem straight forward but there are many rules that dictate exactly what counts as time spent in the country. There are only three rules that count in deciding how much time you've truly spent in the country, which include how much time has been spent outside the United Kingdom, whether you were a partner/child listed as a 'dependent for a time' or if you have had more than one visa.</p>
+      <p>These rules are easy to understand and easy to follow because the Home Office wants to ensure that dedicated workers are compensated with the opportunity to live in the country. The first rule requires you not to be outside of the UK for more than 180 days within a 12-month span. This makes sense, if you're not in the country then you can't say you have spent time there.</p>
+      <p>The second rule is interesting because it can also decide the futures of your partner and children depending on if they wish to gain ILR in the future as well. The Home Office prohibits any time spent as a 'dependent' as being considered part of the 5-year minimum.</p>
+      <p>The third rule will help you more than negatively affect you. If you have had more than one type of visa listed in <a href="https://www.gov.uk/indefinite-leave-to-remain-tier-2-t2-skilled-worker-visa/time-uk" target="_blank" rel="noopener noreferrer">this</a> list then you can combine the time between your Skilled Worker Visa and any other visa to the 5-year requirement.</p>
+
+      <h2>A Proper Salary Prevents Unnecessary Leave</h2>
+      <p>The most important aspect of a Skilled Worker Visa is the ability to work, which makes sense right? But the most important aspect of working is the salary requirements. This requirement varies between occupations, but the need for a definite salary minimum is a crucial step in receiving your ILR.</p>
+      <p>The standard salary that is required if you hold a Skilled Worker Visa is £41,700 per year alongside meeting the 'standard going rate' of the specific occupation you will be working in.</p>
+      <p>This requirement ensures that you will be able to provide for yourself and be able to sufficiently contribute to the economy of the United Kingdom and pay the sufficient taxation needed but still be able to live on a liveable wage.</p>
+
+      <h2>The Need to Remain</h2>
+      <p>The entire point of the Skilled Worker Visa is to allow for you to work and live in the United Kingdom for an employer in your field. This very principle continues even after applying for an ILR because you need to prove that you will not quit your job or provide sufficient evidence of continued worker of your original employer.</p>
+      <p>The reason for this requirement is for the Home Office to determine whether your status on the Skilled Worker Visa is simply for immigration reasons or if it truly is to work in the United Kingdom. To prove this you will need to have sufficient documentation from your employer to confirm that you will be continued to be employed by then even after obtaining an ILR.</p>
+
+      <h2>Sufficient Knowledge of the UK</h2>
+      <p>The final hurdle is one that will require studying, the Life in the UK test. I know what you are thinking, "why do I need to do another test?!" this is completely reasonable because no one likes taking tests. Unfortunately, this a hurdle that needs to be jumped to ensure that your ILR is approved and you will be allowed to live in the United Kingdom.</p>
+      <p>The Home Office specifies that any person on the Skilled Worker Visa between the ages of 18 to 64 will need to take this exam which can be found <a href="https://www.gov.uk/life-in-the-uk-test" target="_blank" rel="noopener noreferrer">here</a>. Alongside this exam, you will also need to demonstrate your proficiency in the English language.</p>
+      <p>Fortunately for you this can be entirely skipped depending on your status in the UK. The requirements for obtaining the Skilled Worker Visa involves demonstrating proficiency in English already, so the Home Office has deemed it unnecessary for applicants of an ILR to take another English proficiency exam.</p>
+
+      <h2>When to Apply</h2>
+      <p>It is important to know when to apply for your ILR as applying too early or too late can severely hamper the likelihood of success. The earliest time to apply is 28 days before the 5-year requirement is met on your current visa, if you apply prior to this it is more than likely your application will be denied.</p>
+      <p>On the other hand if your Skilled Worker Visa expires prior to applying for an ILR, then you will need to renew it which can unnecessarily increase the amount of time needed to get your ILR.</p>
+
+      <h2>So What Now?</h2>
+      <p>Life in the United Kingdom is a wonderful experience and having the opportunity to work in the occupation that you love is a dream for many. We here at Taylor Hampton Solicitors hope that your future in the UK will be successful and wish you best of luck in all future visa endeavours!</p>
+
+      <h2>Where Can I Go for Help?</h2>
+      <p>For more information or to ask for assistance, please see our contact page or contact Leena Chouhan on +44 203 143 0322.</p>
+
+      <p><em>Disclaimer: This article is for general information purposes only and does not constitute legal advice. Immigration law and Home Office guidance change frequently and organizations should seek professional advice before acting.</em></p>
+    `,
+  },
+    {
     id: 115,
     title: "The Skill Tree: Main Reasons for Refusal",
     author: "Leena Chouhan",
