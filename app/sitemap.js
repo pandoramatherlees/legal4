@@ -36,5 +36,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/skilled-worker-visa-requirements`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/the-skill-tree-main-reasons-for-refusal`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/the-skill-tree-obtaining-indefinite-leave-to-remain-ilr`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/skilled-worker-visa-successful-application`, lastModified: new Date() },
   ];
 }
