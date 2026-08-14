@@ -1,4 +1,82 @@
 export const ARTICLES = [
+   {
+    id: 118,
+    title: "Global Talent Visa Expands to Attract Leading Researchers to the UK",
+    author: "Leena Chouhan",
+    date: "2026-08-14",
+    excerpt: "The UK Government has expanded the Global Talent visa so that more than 100 research-intensive businesses — including AstraZeneca and Jaguar Land Rover — can now support eligible international researchers, strengthening the UK's position as a destination for global research talent.",
+    category: "Immigration",
+    slug: "global-talent-visa-expands-researchers",
+    content: `<p><em>By Leena Chouhan, Head of Immigration, Taylor Hampton Solicitors</em></p>
+
+<p>The UK Government has now expanded the Global Talent visa to make it easier for innovative businesses to attract leading researchers and scientists from around the world.</p>
+
+<p>Announced on <strong>6 August 2026</strong>, the expansion means that more than 100 UK research-intensive businesses can now support eligible international researchers through the Global Talent visa route.</p>
+
+<p>This move is designed to strengthen the UK's position as a destination for international research talent. It supports businesses working in sectors such as life sciences, artificial intelligence, advanced manufacturing, clean energy, quantum technologies and, of course, the creative industries. In fact, figures from January of this year show that in the UK the creative industries contribute <strong>£145.8bn</strong> to the economy per annum and support some <strong>2.4 million workers</strong>.</p>
+
+<h2>The New Visa: What Has Changed?</h2>
+
+<p>The Global Talent visa is already an important route for highly talented individuals who want to live and work in the UK without being tied to a traditional sponsored employment route.</p>
+
+<p>Previously, the UKRI Endorsed Funder pathway was primarily associated with universities and research institutions. The latest expansion opens the pathway to more than 100 commercial research businesses. These include major international companies such as <strong>AstraZeneca</strong> and <strong>Jaguar Land Rover</strong>, alongside growing research and technology businesses.</p>
+
+<p>For the first time, eligible researchers working on funded projects can be supported by UK research-intensive businesses. This creates additional opportunities for researchers who may previously have had fewer routes into the UK through commercial research organisations.</p>
+
+<p>The Government says the expansion is intended to support research and development in priority sectors while helping innovative British businesses access highly skilled international expertise.</p>
+
+<h2>Who Could Benefit?</h2>
+
+<p>The Global Talent visa is designed for talented individuals at different stages of their careers.</p>
+
+<p>Under the research and academic routes, applicants may qualify through a number of pathways. Specifically, these routes include eligible academic appointments, competitive fellowships and funded research grants. There is also a peer review route for established or potential research leaders who do not have an eligible appointment, fellowship or research grant.</p>
+
+<p>The latest changes are particularly relevant to researchers who are being recruited by approved commercial research organisations.</p>
+
+<p>The Government has also highlighted the importance of early-career researchers. In April 2026, the fast-track Academic Appointments route was simplified to cover all roles involving academic, research or innovation leadership and development at approved UK institutions, as well as PhD-level roles where research and innovation is the primary function.</p>
+
+<p>This reflects a wider attempt to make the UK's immigration system more responsive to the needs of research-intensive industries.</p>
+
+<h2>Why Is the Change Important?</h2>
+
+<p>Access to international research talent is important to businesses operating in highly competitive sectors.</p>
+
+<p>Researchers and scientists can bring specialist expertise as well as international experience and new ideas. The Government believes that attracting this talent can support research and development in the UK while contributing to wider economic growth.</p>
+
+<p>The expansion is therefore not simply about individual immigration applications. It is also part of a broader strategy to strengthen the UK's science, technology and innovation sectors.</p>
+
+<p>The Government has identified <strong>eight high-growth sectors</strong> in its Modern Industrial Strategy where access to global talent is considered particularly important. These include advanced manufacturing, digital and technologies, clean energy, life sciences and the aforementioned creative industries.</p>
+
+<p>For businesses operating in these areas, the Global Talent route may provide an important additional option when recruiting internationally.</p>
+
+<h2>A Flexible Visa Route for Exceptional Talent</h2>
+
+<p>One of the attractions of the Global Talent visa is its flexibility.</p>
+
+<p>Unlike many sponsored work routes, the Global Talent visa is designed around the individual's talent rather than simply their employment with one particular employer.</p>
+
+<p>The Government has stated that researchers whose expertise is recognised through a research grant will be able to move to another firm or establish their own spin-out.</p>
+
+<p>This flexibility can be particularly valuable in research and technology sectors, where individuals may move between universities, commercial organisations and spin-out companies as projects develop.</p>
+
+<p>The Government says that more than <strong>12,500 talented people from over 130 countries</strong> have already built research careers in Britain through the endorsed funder pathway.</p>
+
+<p>The latest expansion is intended to increase that pool by giving commercial research organisations a greater role in bringing international talent to the UK.</p>
+
+<h2>What Does This Mean for Applicants?</h2>
+
+<p>The expansion is welcome news for researchers considering a move to the UK. However, eligibility remains specific and the correct endorsement pathway will depend on the applicant's circumstances.</p>
+
+<p>Applicants should consider carefully whether they qualify through an academic appointment, fellowship, funded research grant or peer review. They should also ensure that the organisation supporting their application is eligible under the relevant Global Talent arrangements.</p>
+
+<p>Importantly, applicants need to treat their application with due care and attention so as not to lose out. Immigration rules and eligibility requirements change over time, especially with so many UK Government changes. Professional advice can therefore be valuable before an application is submitted.</p>
+
+<p>At Taylor Hampton Solicitors, we advise individuals, researchers, businesses and international talent on UK immigration routes including the Global Talent visa.</p>
+
+<p>If you are considering applying for a Global Talent visa, or your organisation would like to understand how the latest expansion could benefit international recruitment, please contact <strong>Leena Chouhan</strong> on <strong>0044 20 7143 0322</strong> or email <strong>leena.chouhan@taylorhampton.co.uk</strong>.</p>
+
+<p><em>Disclaimer: This article is intended for general information only and does not constitute legal advice. Immigration rules and Home Office requirements can change and eligibility will depend on the individual circumstances of each applicant. You should obtain specific legal advice before making an immigration application. Taylor Hampton Solicitors accepts no responsibility for reliance on the information contained in this article without obtaining individual legal advice.</em></p>`
+  },
     {
     id: 117,
     title: "The Skill Tree: How Can You Guarantee a Successful Application?",
