@@ -1,5 +1,29 @@
 export const ARTICLES = [
    {
+    id: 119,
+    title: "Sponsored and Silenced: How the Health and Care Worker Visa Leaves Migrant Nurses Exposed",
+    author: "Leena Chouhan",
+    date: "2026-08-18",
+    excerpt: "The Royal College of Nursing's 'From Recruitment to Reality' report reveals how Certificates of Sponsorship under the Health and Care Worker visa are being used by unscrupulous employers to threaten, underpay and exploit migrant care workers and nurses. Leena Chouhan examines why healthcare workers are uniquely exposed, and what affected workers can do.",
+    category: "Immigration",
+    slug: "sponsored-and-silenced-health-care-worker-visa",
+    content: `<p>Introduced in July 2025, the UK Health and Care Worker visa has recently come under critique by the Royal College of Nursing (RCN) for facilitating the exploitation of migrant care workers in a report from the 7th of August &ndash; &ldquo;From Recruitment to Reality&rdquo;.</p>
+<h2>Certificates of Sponsorship and Employer Abuse</h2>
+<p>The UK Health and Care Worker visa&rsquo;s biggest change to the old system was the introduction of &ldquo;Certificate of Sponsorships&rdquo; (CoS), a required document provided by a UK employer allowing migrants to work in the UK. This followed similar changes to other Skilled Worker Visas, moving toward digitising the migration process. This introduces, according to RCN, &lsquo;power imbalances&rsquo; which grants employers much more control over their migrant employees and is &lsquo;heightening the risk of exploitation&rsquo;.</p>
+<p>Within the RCN report, they evidence that the connecting of immigration status to employment status has opened migrant workers in these fields to bullying, threats, and poor working conditions. Out of 90 reports to the RCN over threats being made to immigration status, 56% of those threats were found to be lodged by employers. Similarly, 42 workers reported that the terms of their contract had changed substantively after employment, such as lower pay than agreed, or longer hours. One migrant care nurse found herself in the charge of 35 residents due to bullying and understaffing, the report states.</p>
+<p>Professor Nicola Ranger, General Secretary and Chief Executive of RCN, stated that the new CoS system allows &lsquo;unscrupulous employers to use withdrawal of sponsorships as leverage to extort money, alter contracts, reduce pay&rsquo; and more. Relatedly, Unseen UK found a 606% rise in modern slavery cases linked to the care sector between 2021 and 2022, with potential victims in the sector climbing from 106 to 712 over the same period, according to Unseen&rsquo;s 2023 report.</p>
+<h2>Why Healthcare Workers?</h2>
+<p>It begs the question, why do healthcare workers seem so uniquely affected by the visa reforms?</p>
+<p>Thiana Ojetola-Attah identifies the crux of the problem as the system of monopsony, where the NHS&rsquo; role as the overwhelmingly dominant supplier of healthcare means there is scarce competition and therefore wages can, and are, kept low. This dynamic is compounded for migrant care workers by the CoS system. Where a domestic care worker on suppressed wages can theoretically seek another employer, a migrant worker&rsquo;s right to remain is tied to that single sponsoring employer. Monopsony limits everyone&rsquo;s bargaining power, but for CoS holders it removes the option of leaving altogether.</p>
+<p>The Independent Chief Inspector of Borders and Immigration described the migration process&rsquo; measures to protect migrant workers against exploitation in its 2024 report as &lsquo;totally inadequate&rsquo;. The reason for this, the ICIBI claims, is that unlike the majority of other professions under the &ldquo;Skilled Worker&rdquo; label, healthcare is much less regulated and was not designed to face such immigration programmes.</p>
+<h2>How to Seek Help</h2>
+<p>For migrant care workers facing threats to their sponsorship &ndash; unagreed changes to pay or contract terms, or employers using their visa status as leverage &ndash; understanding your rights, and the options available to challenge this unlawful treatment, is critical. Taylor Hampton&rsquo;s immigration team regularly advise both sponsored workers and employers navigating the Skilled Worker and Health and Care Worker visa routes.</p>
+<p>If you are concerned about your position under a Certificate of Sponsorship, or believe you may have grounds for a claim, please get in touch with our team for an initial consultation. Contact <strong>Leena Chouhan</strong> on <strong>0044 203 143 0322</strong> or email <strong>leena.chouhan@taylorhampton.co.uk</strong>.</p>
+<h2>Where Can I Go for Help?</h2>
+<p>For more information or to ask for assistance, please see our <a href="/contact">contact page</a> or contact Leena Chouhan at <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a> or on +44 203 143 0322.</p>
+<p><em>Disclaimer: This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.</em></p>`,
+  },
+   {
     id: 118,
     title: "Global Talent Visa Expands to Attract Leading Researchers to the UK",
     author: "Leena Chouhan",
