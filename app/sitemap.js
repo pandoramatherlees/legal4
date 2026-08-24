@@ -39,5 +39,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/skilled-worker-visa-successful-application`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/global-talent-visa-expands-researchers`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/sponsored-and-silenced-health-care-worker-visa`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/common-reasons-ilr-applications-refused-avoid`, lastModified: new Date() },
   ];
 }
