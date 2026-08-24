@@ -4,6 +4,9 @@ export const ARTICLES = [
     title: "Common Reasons ILR Applications are Refused and How to Avoid This",
     author: "Leena Chouhan",
     date: "2026-08-24",
+    excerpt: "Leena Chouhan, our Head of Immigration, explains why Indefinite Leave to Remain (ILR) applications are commonly refused — from missing documents and financial requirements to failed tests and continuous residency issues — and how to avoid these pitfalls.",
+    category: "Immigration",
+    slug: "common-reasons-ilr-applications-refused-avoid",
     content: `In this article Leena Chouhan, our Head of Immigration, explains Indefinite Leave to Remain (ILR) and why applicants are refused acceptance.
 
 Your application for Indefinite Leave to Remain in the UK (ILR) can be rejected for various reasons. It is crucial that applicants remain informed both on what they need to do, and how to get help.
@@ -69,7 +72,7 @@ Get in touch to discuss your case:
 ---
 
 **Disclaimer:** This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.`
-  } 
+  } ,
    {
     id: 119,
     title: "Sponsored and Silenced: How the Health and Care Worker Visa Leaves Migrant Nurses Exposed",
