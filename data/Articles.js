@@ -1,19 +1,14 @@
 export const ARTICLES = [
-   ---
-layout: post
-title: "Common Reasons ILR Applications are Refused and How to Avoid This"
-date: 2026-08-24
-author: "Leena Chouhan"
-author_role: "Head of Immigration"
-article_number: 120
-categories: [immigration, ILR, visa-guidance]
----
-
-In this article Leena Chouhan, our Head of Immigration, explains Indefinite Leave to Remain (ILR) and why applicants are refused acceptance.
+{
+    id: 120,
+    title: "Common Reasons ILR Applications are Refused and How to Avoid This",
+    author: "Leena Chouhan",
+    date: "2026-08-24",
+    content: `In this article Leena Chouhan, our Head of Immigration, explains Indefinite Leave to Remain (ILR) and why applicants are refused acceptance.
 
 Your application for Indefinite Leave to Remain in the UK (ILR) can be rejected for various reasons. It is crucial that applicants remain informed both on what they need to do, and how to get help.
 
-## **ILR – What to Expect**
+**ILR – What to Expect**
 
 The ILR has two routes: the 5-year and 10-year paths. The former requires you to be on a Skilled Workers visa, whilst the latter is more accessible and is open to anyone who has lived continuously in the UK for 10 years.
 
@@ -21,7 +16,7 @@ However, the process can be lengthy and confusing. Beyond various tests, documen
 
 Applicants often report feeling [extremely stressed and confused](https://www.reddit.com/r/ukvisa/comments/1jf98g0/ilr_refused_advice_needed_please/) over the reasons for their rejection, and wish they had [guidance for further steps to take](https://www.reddit.com/r/ukvisa/comments/1jbjz5g/ilr_10_year_route_refused_urgent_help_needed/?share_id=R68Hc-F85rREwZP7PGDLK&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1). We hope to provide some reassurance and guidance with the below explanations of common reasons for rejections, and how to avoid them.
 
-## **1. Incorrect/Missing Application Documents**
+**1. Incorrect/Missing Application Documents**
 
 One of the more common mistakes made in the ILR application process is failing to submit all relevant documents to finalise an application. Although you may meet all other requirements for an application, inaccuracies in crucial information (name, date of birth, employment dates etc.) can cause suspicion and weaken your case to the Home Office.
 
@@ -29,7 +24,7 @@ It is integral to ensure both the validity of any documents put forward, as well
 
 To prevent this mistake, it can help to ask immigration professionals to verify/complete your application for you. An immigration solicitor can ensure your claim is made through the proper channels and reflects your circumstances.
 
-## **2. Financial Requirement**
+**2. Financial Requirement**
 
 For family and some work routes, the government demands proof of financial income, to ensure that they won't become overly dependent on state benefits. The reasons for a rejection in this way are various:
 
@@ -39,7 +34,7 @@ For family and some work routes, the government demands proof of financial incom
 
 To resolve these issues, ensure you verify the details of your financial documents, whilst trying to resolve outstanding debts/taxes before applying. It may help to have your documents reviewed by an immigration professional.
 
-## **3. Failing English Language and Life in the UK Tests**
+**3. Failing English Language and Life in the UK Tests**
 
 The English language requirement and Life in the UK Test are both mandatory to an ILR application proceeding. Failing either will automatically disqualify your application. The first assesses your speaking and understanding of English, whilst the second quizzes British history, traditions, laws, and culture.
 
@@ -47,7 +42,7 @@ The language test demands a B1 result for an ILR application, but may vary if yo
 
 Beyond preparing for these tests, ensure that the test centre you are doing it with is valid. See this [approved list from the UK Government](https://assets.publishing.service.gov.uk/media/68da41badadf7616351e4b3d/List_of_approved_Secure_English_Language_Tests_taken_in_the_UK+_5_.ods).
 
-## **4. Failure to Prove Continuous Residency**
+**4. Failure to Prove Continuous Residency**
 
 A central part of your application to reside in the UK permanently is showing that you are a continuous resident – that is, you spend the bulk of your time in the UK. As such, the Government has strict guidelines in place on how long you may be out of the country for:
 
@@ -57,24 +52,24 @@ A central part of your application to reside in the UK permanently is showing th
 
 Going above this limit, or not providing valid documents confirming an adherence to this limit, will likely lead to the rejection of your ILR application.
 
-### **On COVID-19**
+**On COVID-19**
 
 Many applicants have faced rejections, despite having a 10 year residence in the UK and facing no objection on any of the other points raised in this article. This is often because of the way that residency was considered during 2021 due to the COVID-19 crisis. If an applicant's right to stay in the country expired, they were granted Exceptional Assurance by the government, permitting them to be in the country due to the pandemic. However, time spent on an expired visa under Exceptional Assurance does not contribute to the 10-year period.
 
 Ensure that all records are up-to-date, and that you have stayed in the country on a valid visa for the ten-year period. An immigration solicitor would be able to ensure that you have met the continuous residency criteria.
 
-## **How Taylor Hampton Solicitors Can Help**
+**How Taylor Hampton Solicitors Can Help**
 
-Navigating an ILR application, and recovering from a refusal, can be daunting without the right support. Our team can review your documents, flag gaps before the Home Office does, and guide you through each requirement with clarity and confidence. 
+Navigating an ILR application, and recovering from a refusal, can be daunting without the right support. Our team can review your documents, flag gaps before the Home Office does, and guide you through each requirement with clarity and confidence.
 
 Get in touch to discuss your case:
-
 - **Email:** [Leena.chouhan@taylorhampton.co.uk](mailto:Leena.chouhan@taylorhampton.co.uk)
 - **Phone:** +442031430322
 
 ---
 
-**Disclaimer:** This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.
+**Disclaimer:** This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.`
+  } 
    {
     id: 119,
     title: "Sponsored and Silenced: How the Health and Care Worker Visa Leaves Migrant Nurses Exposed",
