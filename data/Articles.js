@@ -1,4 +1,145 @@
 export const ARTICLES = [
+    {
+    id: 121,
+    title: "Indefinite Leave to Remain Documents Checklist: What Evidence Do You Need?",
+    author: "Leena Chouhan",
+    date: "2026-08-26",
+    excerpt:
+      "Leena Chouhan sets out the documentation required for an Indefinite Leave to Remain application, from core identity papers to evidence of continuous residence, English language ability and financial circumstances. Immigration rules change frequently, so proper advice should always be taken.",
+    category: "Immigration",
+    slug: "indefinite-leave-to-remain-documents-checklist",
+    content: `<p>In this article Leena Chouhan explores the kind of documentation you need as an applicant for a UK visa. Visas and immigration rules change frequently, so be aware of this and of the need for proper advice when looking for immigration services.</p>
+
+<p>Applying for indefinite leave to remain (ILR) is a significant step, and often serves as a gateway to British citizenship. To make a successful application, you will need, among other things, to provide complete and accurate documentary evidence of your identity.</p>
+
+<p>If you are considering applying for ILR and are wondering what documentation you will need to submit, this article is for you. We consider first the key papers that applicants are usually required to submit, and then additional documents that are sometimes required.</p>
+
+<p>Before proceeding it is worth noting that any documents submitted must comply with Immigration Rule 34, i.e., they must be complete, genuine, and legible when submitted.</p>
+
+<h2>Key documents</h2>
+
+<p>The core documents required are as follows:</p>
+
+<ul>
+<li>A current passport (or another document which proves your identity and indicates what nationality you are).</li>
+<li>Online proof of your immigration status (if you have an eVisa). Get a share code to evidence this.</li>
+<li>Your biometric residence permit (BRP). You can use this for up to 2 years after the expiry date or until 31 December 2026, whichever is sooner.</li>
+<li>All the passports you have had whilst in the UK.</li>
+<li>If you are between 18 and 65, you will also need proof that you have passed your Life in the UK test. This proof can be either the &ldquo;unique reference number&rdquo; or a letter with the &ldquo;test reference ID&rdquo;.</li>
+</ul>
+
+<p>Please note that if your documents are in a language other than English or Welsh, you will need to provide certified translations alongside the originals.</p>
+
+<h2>Other documents</h2>
+
+<p>Depending on your circumstances, you may need to provide further documentation.</p>
+
+<h2>Identity and immigration history</h2>
+
+<p>You may need to upload all documents demonstrating that you had permission to stay in the UK throughout the period qualifying you for ILR.</p>
+
+<p>This may include:</p>
+
+<ul>
+<li>Communications from the Home Office confirming visas, extensions etc.</li>
+<li>Evidence of your current visa.</li>
+<li>Previous BRP cards (if you have had multiple).</li>
+<li>(If you are making a family application) Certificate of Sponsorship reference or sponsor declaration for family applications.</li>
+</ul>
+
+<h2>English language requirement</h2>
+
+<p>Applicants for ILR must demonstrate B1 level English (or better) on the CEFR scale.</p>
+
+<p>Valid evidence of this includes:</p>
+
+<ul>
+<li>A valid Secure English Language Test (SELT) certificate.</li>
+<li>An academic qualification conducted in English and recognised by UK ENIC.</li>
+<li>Being a national of a country that is primarily English speaking.</li>
+</ul>
+
+<p>Exemptions apply for those 65 and over and for some long-term medical conditions.</p>
+
+<h2>Proof of residence and time outside the UK</h2>
+
+<p>To apply for ILR, you will need to show continuous lawful residence in the UK, usually for 5 or 10 years. To demonstrate that, you must submit dated documentation.</p>
+
+<p>These documents should affirm that you were physically in the UK and using it as your main home, throughout the relevant years. You should aim to have at least 1&ndash;2 pieces of evidence for each year.</p>
+
+<p>Relevant evidence may include:</p>
+
+<ul>
+<li>Utility bills.</li>
+<li>Bank statements.</li>
+<li>Official letters from public bodies (for instance, the NHS).</li>
+<li>Enrolment or attendance documentation in educational institutes.</li>
+<li>Residence-related documents, e.g., council tax bills, tenancy agreements, or mortgage statements.</li>
+</ul>
+
+<p>You will also need to account for any absences, and make sure they are consistent with the Home Office&rsquo;s travel records. This could mean submitting any of the following:</p>
+
+<ul>
+<li>Boarding passes, flight bookings, travel tickets, or visas showing travel dates.</li>
+<li>(If the travel is work-related) letters from an employer confirming the reason for the trip and that it was approved.</li>
+<li>Passport stamps.</li>
+<li>Letters of explanation for any longer absences.</li>
+</ul>
+
+<h2>Employment and financial documents</h2>
+
+<p>If your visa is work-based, you will need to demonstrate continuous employment by a suitable sponsor. You will also need to show that your salary meets the threshold.</p>
+
+<p>If your visa is partner or family-based, you will still need to demonstrate that your household income meets the minimum income requirements.</p>
+
+<p>Employed applicants should submit:</p>
+
+<ul>
+<li>Six months&rsquo; worth of (recent) payslips with the corresponding bank statements that show your salary being paid in.</li>
+<li>An employer&rsquo;s letter confirming your job title, start date, salary, and that your employment is still continuing.</li>
+<li>P60s or tax summaries for every financial year in the relevant period.</li>
+<li>Certificate of Sponsorship (CoS) number and employer sponsor licence details.</li>
+<li>(Optional but can be beneficial) your employment contract.</li>
+</ul>
+
+<p>If you are self-employed, you should submit:</p>
+
+<ul>
+<li>HMRC self-assessment tax returns and tax year overviews.</li>
+<li>Recent business/professional bank statements.</li>
+<li>Audited business accounts or an accountant&rsquo;s letter supporting your income, turnover and trading period.</li>
+<li>Invoices, contracts, and evidence that your business activities are ongoing.</li>
+<li>(If relevant) VAT registration certificate with evidence of payment.</li>
+</ul>
+
+<p>If you are self-employed, ensure that the above match HMRC records.</p>
+
+<p>For partner or family applicants you might like to send:</p>
+
+<ul>
+<li>Bank statements showing your savings in the last six months.</li>
+<li>Evidence of any other income you have.</li>
+<li>(If employed) six months&rsquo; worth of recent payslips with bank statements and a letter from your employer.</li>
+<li>(If self-employed) recent tax returns, correspondence from an accountant, business bank account statements.</li>
+</ul>
+
+<h2>Practical advice</h2>
+
+<p>Documents are usually uploaded electronically, although the Home Office may ask to see originals. You must keep your original documents until a decision has been reached on your application.</p>
+
+<p>Ensure that your scans are not blurry and that you label files clearly, in order to facilitate your application.</p>
+
+<p>If you are scanning a passport, scan all the pages that cover the relevant period including blank ones.</p>
+
+<p>Comply with any requests for further information promptly and be transparent.</p>
+
+<h2>Where Can I Go for Help?</h2>
+
+<p>Taylor Hampton advises on Indefinite Leave to Remain applications. We are also expert in the Global Talent Visa and the Skilled Worker Visa. If you need help with your ILR application, please contact Leena Chouhan on +44 203 143 0322 or email <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a>.</p>
+
+<p><em>Disclaimer: This article is intended for general information only and does not constitute legal advice. Immigration rules and Home Office requirements can change and eligibility will depend on the individual circumstances of each applicant. You should obtain specific legal advice before making an immigration application. Taylor Hampton Solicitors accepts no responsibility for reliance on the information contained in this article without obtaining individual legal advice.</em></p>`,
+  }
+    ,
 {
     id: 120,
     title: "Common Reasons ILR Applications are Refused and How to Avoid This",
