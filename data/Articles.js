@@ -1,5 +1,96 @@
 export const ARTICLES = [
     {
+    id: 122,
+    title: "Understanding the Global Talent Visa: Arts and Creative Sectors",
+    author: "Leena Chouhan",
+    date: "2026-08-24",
+    excerpt:
+      "The Global Talent Visa offers leaders and potential leaders in the arts and creative industries a flexible route to live and work in the UK. Leena Chouhan explains the sectors covered, the evidence required for each, and how the &lsquo;leader&rsquo; and &lsquo;potential leader&rsquo; pathways differ.",
+    category: "Immigration",
+    slug: "understanding-the-global-talent-visa-arts-and-creative-sectors",
+    content: `<p>Between the labels &lsquo;potential leader&rsquo; and &lsquo;leader&rsquo;, and the various industries covered by the Global Talent Visa, it is important to clarify the pathways available to applicants.</p>
+
+<h2>What is the Global Talent Visa?</h2>
+<p>The Global Talent Visa was introduced on 20 February 2020 to replace the old Tier 1 visa for &ldquo;Exceptional Talent&rdquo;. It focuses on providing &lsquo;leaders&rsquo; or &lsquo;potential leaders&rsquo; in their artistic field a unique pathway that recognises their contributions to their sector. As such, there are unique benefits granted to those who qualify.</p>
+
+<p>Benefits include:</p>
+<ul>
+<li>Visa length of up to 5 years</li>
+<li>Right to be an employee, self-employed, or a director of a company</li>
+<li>Ability to change or leave jobs without notifying the Home Office</li>
+<li>Bringing dependants over with you</li>
+<li>Travelling and returning to the UK</li>
+</ul>
+
+<p>The creative sectors covered are:</p>
+<ul>
+<li>Combined Arts (Dance, Literature, Music, Theatre, or Visual Arts)</li>
+<li>Architecture</li>
+<li>Fashion Design</li>
+<li>Film and Television</li>
+<li>Design Industry</li>
+</ul>
+
+<p>An application for a Global Talent Visa under any of these categories costs &pound;766. It may take up to 3 weeks for processing if you are outside the UK, and 8 weeks if you are inside. Further, it requires either an endorsement of your position as a leader (or potential leader) in the field, or a relevant award for your work in the field, the lists of which may be found <a href="https://www.gov.uk/government/publications/global-talent-eligible-prestigious-prize-lists" target="_blank" rel="noopener noreferrer">here</a>.</p>
+
+<h2>What Do I Need to Apply?</h2>
+<p>The below are the essential documents all categories must submit to proceed with an application:</p>
+<ul>
+<li>3 letters of recommendation from companies you have worked with or for, one of which must be based in the UK</li>
+<li>10 individual pieces of evidence of exceptional talent from the last 5 years</li>
+<li>Your CV (must be typed)</li>
+<li>The CVs of the authors of your letters of recommendation</li>
+</ul>
+
+<h2>Further Requirements by Sector</h2>
+<p>Each category under this visa has different requirements for the evidence submitted. Below are any additional requirements, adjusted by sector.</p>
+
+<h2>Combined Arts, Architecture, and Design Industries</h2>
+<p><strong>Leader:</strong> To be a &lsquo;leader in your field&rsquo;, you must have been working professionally in this field for the last 5 years, as well as have a &ldquo;substantial&rdquo; record of work in at least two countries (inclusive of your country of residence).</p>
+
+<p><strong>Potential Leader:</strong> You must have at least 3 years of professional experience, and prove a &ldquo;developing&rdquo; record of work in at least one country (inclusive of your country of residence).</p>
+
+<p>Further evidence of 2 of the following is also required:</p>
+<ul>
+<li><strong>International media recognition</strong> &ndash; provide at least 2 examples from well-established media outlets, in a physical or digital publication, from at least 2 countries.</li>
+<li><strong>International prizes</strong> &ndash; if not on the <a href="https://www.gov.uk/government/publications/global-talent-eligible-prestigious-prize-lists" target="_blank" rel="noopener noreferrer">eligible prize list</a>, you must have proof you won at least one &lsquo;significant&rsquo; international prize.</li>
+<li><strong>International publication or exhibition</strong> &ndash; from national publications, broadcasts etc. that your work has been performed or sold professionally at an international level.</li>
+</ul>
+
+<h2>Fashion Design</h2>
+<p>Evidence of 2 of the following in the last 5 years:</p>
+<ul>
+<li><strong>International media recognition</strong> &ndash; provide at least 2 examples of your work in &lsquo;significant&rsquo; reviews, either in print or online, from at least 2 countries.</li>
+<li><strong>International prizes</strong> &ndash; if not on the <a href="https://www.gov.uk/government/publications/global-talent-eligible-prestigious-prize-lists" target="_blank" rel="noopener noreferrer">eligible prize list</a>, you must have either won or been shortlisted for the prize, or helped someone else do so.</li>
+<li><strong>International shows or exhibitions</strong> &ndash; provide proof of catwalk shows, exhibitions, or presentations which the British Fashion Council considers &lsquo;internationally significant&rsquo;.</li>
+<li><strong>International distribution and sales</strong> &ndash; provide proof of international sales of your clothing, through your own channels, or through retailers and boutiques.</li>
+</ul>
+
+<p>If applying for &lsquo;exceptional promise&rsquo;, you must instead provide 2 pieces of evidence from:</p>
+<ul>
+<li><strong>International media recognition</strong> &ndash; provide at least 2 examples of your work in &lsquo;prominent&rsquo; reviews, either in print or online.</li>
+<li><strong>Support or sponsorship</strong> &ndash; these include British Fashion Council schemes, the Fashion East support scheme, the Sarabande Foundation etc.</li>
+<li><strong>Sales from luxury clients</strong> &ndash; proof of one or more orders of significant value from a luxury retailer or boutique, not from an individual.</li>
+<li><strong>Industry recognition</strong> &ndash; two examples that your graduating collection was recognised by &lsquo;leading industry players&rsquo;, such as designers, brands, or retailers.</li>
+</ul>
+
+<h2>Film and Television</h2>
+<p>Evidence of 1 of the following:</p>
+<ul>
+<li>Academy Awards, BAFTAs, Golden Globes, or Emmys (which means you can apply directly for the visa without an endorsement).</li>
+<li>Notable industry recognition, by providing proof of both international distribution sales and of being involved in prizes on the <a href="https://www.pact.co.uk/applying-for-talent-visas/notable-industry-recognition-awards-list.html" target="_blank" rel="noopener noreferrer">PACT notable industry recognition awards list</a>.</li>
+</ul>
+
+<p>As well as proof of any of the following: multiple interviews from reputable media outlets in different territories; various screenings at high-profile festivals; or listings of international work credited to you.</p>
+
+<h2>How Taylor Hampton Can Help</h2>
+<p>The various requirements set out above, between a &lsquo;leader&rsquo; and &lsquo;potential leader&rsquo; application, as well as between the various categories of work covered by the visa, make lodging an application confusing. It can be helpful to have someone familiar and experienced with the application process guide you through the steps, and ensure your documents are submitted and up to date.</p>
+
+<p>Taylor Hampton&rsquo;s Immigration team have helped various leaders and potential leaders in their field with the Global Talent Visa, and as such are familiar with the application process and its obstacles. If you would like assistance with your application, please get in touch with our team for an initial consultation. Contact Leena Chouhan on +44 203 143 0322 or email <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a>.</p>
+
+<p><em>Disclaimer: This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.</em></p>`,
+  },
+    {
     id: 121,
     title: "Indefinite Leave to Remain Documents Checklist: What Evidence Do You Need?",
     author: "Leena Chouhan",
