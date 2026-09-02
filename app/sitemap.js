@@ -42,5 +42,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/common-reasons-ilr-applications-refused-avoid`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/indefinite-leave-to-remain-documents-checklist`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/understanding-the-global-talent-visa-arts-and-creative-sectors`, lastModified: new Date(), },
+    { url: `${baseUrl}/news-articles/new-requirements-for-sponsor-management-system`, lastModified: new Date() },
   ];
 }
