@@ -21,7 +21,7 @@ export const ARTICLES = [
 <h2>How Taylor Hampton can help with SMS training</h2>
 <p>These changes shift more responsibility onto fewer people, which makes it worth getting your SMS set-up correctly and promptly. We can help sponsors review their current Level 1 and Level 2 users, work out who should hold access going forward, and get key personnel comfortable using SMS under the new MFA requirements. If you&rsquo;d like support getting ready for these changes, get in touch with our team at <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a> or call <a href="tel:+442031430322">+44 203 143 0322</a>.</p>
 <p><em>Disclaimer: This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.</em></p>`,
-}
+},
     {
     id: 122,
     title: "Understanding the Global Talent Visa: Arts and Creative Sectors",
