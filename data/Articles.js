@@ -1,5 +1,28 @@
 export const ARTICLES = [
     {
+  id: 123,
+  title: "New Requirements for Sponsor Management System",
+  author: "Leena Chouhan",
+  date: "2026-09-02",
+  excerpt: "Leena Chouhan, Head of Immigration at Taylor Hampton Solicitors, explains major changes to the Sponsor Management System (SMS), including the removal of Level 2 Users, mandatory multi-factor authentication, and new licence notifications for Authorising Officers.",
+  category: "Business Immigration",
+  slug: "new-requirements-for-sponsor-management-system",
+  content: `<p>Leena Chouhan, our Head of Immigration at Taylor Hampton Solicitors, explains the changes to the Sponsor Management System visa path.</p>
+<p>The Home Office has introduced significant changes to the Sponsor Management System (SMS), notably removing Level 2 Users, introducing mandatory MFA, and notifications on sponsor licences &ndash; all of these make a big difference to the management of sponsorships.</p>
+<h2>Level 2 users</h2>
+<p>From 9th September 2026, sponsors can no longer appoint new Level 2 users on their SMS account. Any existing Level 2 users need to be upgraded to Level 1 or deactivated, with a deadline of 8th March 2027 to get this sorted.</p>
+<p>While a lot of sponsors have let Level 2 users, who only have limited access rights, handle day-to-day tasks within SMS, now they must look into reviewing who has access to the SMS system and decide whether responsibility should sit with fewer people going forward.</p>
+<h2>Multi-Factor Authentication (MFA)</h2>
+<p>Mandatory MFA starts rolling out on 3rd September 2026 for existing Worker and Temporary Worker sponsors, and from 9th September 2026 for anyone granted a new sponsor licence. Student sponsors will follow suit in early November.</p>
+<p>Once MFA is activated, logging into SMS will require entering a one-time passcode sent to your email or phone, in addition to the usual username and password. Authorising Officers, Key Contacts and Level 1 Users will get two weeks&rsquo; notice before MFA is enabled on their licence, so it&rsquo;s worth having contact details (especially mobile numbers) up to date in SMS now to prevent confusion when the MFA is mandatorily introduced.</p>
+<h2>Licence notifications</h2>
+<p>From 9th September 2026, Authorising Officers will start receiving email notifications for certain licence activity, including changes to Level 1 User details, new Level 1 Users being added, and changes to the Authorising Officer&rsquo;s own email address. Sponsors who assigned fewer than 1,000 CoS or CAS in 2025 will also be notified every time a CoS or CAS is assigned.</p>
+<p>For larger organisations this may mean more time spent reviewing alerts, which is worth factoring into considerations over who holds the Authorising Officer role.</p>
+<h2>How Taylor Hampton can help with SMS training</h2>
+<p>These changes shift more responsibility onto fewer people, which makes it worth getting your SMS set-up correctly and promptly. We can help sponsors review their current Level 1 and Level 2 users, work out who should hold access going forward, and get key personnel comfortable using SMS under the new MFA requirements. If you&rsquo;d like support getting ready for these changes, get in touch with our team at <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a> or call <a href="tel:+442031430322">+44 203 143 0322</a>.</p>
+<p><em>Disclaimer: This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.</em></p>`,
+}
+    {
     id: 122,
     title: "Understanding the Global Talent Visa: Arts and Creative Sectors",
     author: "Leena Chouhan",
