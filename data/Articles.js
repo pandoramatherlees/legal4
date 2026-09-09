@@ -1,5 +1,61 @@
 export const ARTICLES = [
     {
+    id: 124,
+    title: "Film & TV UK Global Talent Visa Requirements",
+    author: "Leena Chouhan",
+    date: "2026-09-08",
+    excerpt:
+      "Unlike other sectors covered by the Global Talent Visa, the Film and TV route has no two-tier system and does not accept &lsquo;exceptional promise&rsquo;. Leena Chouhan sets out who can apply, the documents PACT expects, the awards and endorsement routes, and the likely timeline.",
+    category: "Global Talent Visa",
+    slug: "film-and-tv-uk-global-talent-visa-requirements",
+    content: `<p>Unlike other sectors covered by the Global Talent Visa, applying for Film and TV has no two-tier system which accepts &lsquo;exceptional promise&rsquo;. As such, it is vital to ensure you meet all the document checklists and criteria to demonstrate &lsquo;exceptional talent&rsquo; in your field.</p>
+
+<h2>Who Can Apply?</h2>
+<p>The Film and TV Global Talent Visa covers adults working in the film, television, animation, post-production and visual effects industries. It is governed by the Producers&rsquo; Alliance for Film and Television (PACT) on behalf of Arts Council England, who will judge if your experience in the field makes you an &lsquo;exceptional talent&rsquo;.</p>
+<p>You must be over 18, have a clean immigration history, and have proof of a TB certificate if coming from <a href="https://www.gov.uk/tb-test-visa/countries-where-you-need-a-tb-test-to-enter-the-uk" target="_blank" rel="noopener noreferrer">this list of countries</a>.</p>
+
+<h2>Required Documents</h2>
+<p>For all Global Talent Visa applications, applicants must provide the following:</p>
+<ul>
+<li>3 letters of recommendation from employers, one of whom must be based in the UK;</li>
+<li>10 pieces of evidence of exceptional talent, each no more than 2 sides of A4, and from the last 5 years;</li>
+<li>A copy of your CV, and of the authors of letters of recommendation.</li>
+</ul>
+<p>Applicants must also provide either an endorsement, or proof of relevant awards, with the two routes differing slightly.</p>
+
+<h2>Awards Route vs. Endorsement Route</h2>
+<p>If you have an eligible award, you may be able to bypass the need for an endorsement and directly apply for a visa. The prize must be in your name, <a href="https://www.gov.uk/government/publications/global-talent-eligible-prestigious-prize-lists/global-talent-film-and-television-prizes" target="_blank" rel="noopener noreferrer">on the published list</a>, and you must be the winner of the prize. If won as a group, you must be a named member of that group, rather than awards given to whole organisations. The prize list consists of Golden Globes, BAFTAs, and Academy Awards.</p>
+<p>If you do not hold an eligible award, you will have to apply for an endorsement before applying for the visa directly. To apply, you must meet one of the following criteria:</p>
+<ul>
+<li>In the last 10 years, you have been nominated for, or made a significant contribution to winning an Academy Award, a BAFTA, a Golden Globe, or an Emmy Award; or</li>
+<li>In the last 15 years, you have achieved a minimum of 2 nominations for an Academy Award, a BAFTA, a Golden Globe, or an Emmy Award; or</li>
+<li>You have notable industry recognition through achieving international distribution sales, media recognition and a specified combination of awards from <a href="https://www.pact.co.uk/applying-for-talent-visas/notable-industry-recognition-awards-list.html" target="_blank" rel="noopener noreferrer">Pact&rsquo;s Notable Industry List</a>.</li>
+</ul>
+<p>Once you have an endorsement or provided proof of an eligible award to bypass that process, you can lodge an application for the Global Talent Visa.</p>
+
+<h2>Timeline of an Application</h2>
+<p>Below is a rough idea of the order in which an application is submitted, processed, and approved, with a rough estimate of wait-times.</p>
+<ul>
+<li>PACT endorsement decision: typically, 6&ndash;8 weeks from submission;</li>
+<li>Window to apply for the visa: 3 months from the date of your endorsement letter from PACT;</li>
+<li>Approval of visa: 3 weeks if living outside the UK, 8 weeks if living inside the UK.</li>
+</ul>
+<p>There are no maintenance funds requirement and no English language requirement for this route, however there is if you go on to apply for an Indefinite Leave to Remain (ILR).</p>
+
+<h2>How Taylor Hampton Immigration Can Help</h2>
+<p>Endorsement applications in this category are ultimately a judgement call by PACT on your career achievements, which makes how you prepare and present the evidence just as important as the evidence itself. We help clients:</p>
+<ul>
+<li>Work out early on which route (awards or endorsement) fits their career to date;</li>
+<li>Identify and approach the right referees;</li>
+<li>Build a submission that is evidenced, well-organised and pre-empts the questions a case officer is likely to raise;</li>
+<li>Handle correspondence with PACT and the follow-on visa application once endorsement is granted.</li>
+</ul>
+<p>If your endorsement or visa application has already been refused, we can also advise on endorsement reviews, administrative review and judicial review.</p>
+<p>Taylor Hampton&rsquo;s Immigration team have helped various leaders and potential leaders in their field with the Global Talent Visa, and as such are familiar with the application process and its obstacles. If you would like assistance with your application, please get in touch with our team for an initial consultation. Contact Leena Chouhan on +44 203 143 0322 or email <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a>.</p>
+
+<p><em>Disclaimer: This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.</em></p>`,
+  },
+    {
   id: 123,
   title: "New Requirements for Sponsor Management System",
   author: "Leena Chouhan",
