@@ -43,5 +43,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/indefinite-leave-to-remain-documents-checklist`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/understanding-the-global-talent-visa-arts-and-creative-sectors`, lastModified: new Date(), },
     { url: `${baseUrl}/news-articles/new-requirements-for-sponsor-management-system`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/film-and-tv-uk-global-talent-visa-requirements`, lastModified: new Date() },
   ];
 }
