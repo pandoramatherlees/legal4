@@ -1,4 +1,38 @@
 export const ARTICLES = [
+{
+    id: 125,
+    title: "Immigration Changes to Section 3C &ndash; Limits to Application Swapping",
+    author: "Leena Chouhan",
+    date: "2026-09-14",
+    excerpt:
+      "The Home Office has announced a Statement of Changes (HC 584) reforming Section 3C of the Immigration Act 1971, closing off the use of fee waiver requests and delayed biometrics to extend lawful stay. Leena Chouhan explains what changes on 8 October 2026 and what it means for applicants working towards Indefinite Leave to Remain.",
+    category: "Immigration Law",
+    slug: "immigration-changes-to-section-3c-limits-to-application-swapping",
+    content: `<p>In a recent announcement, the Home Office is cracking down on methods to extend lawful stay in the country without a visa, chiefly those involving fee waivers and biometrics.</p>
+
+<h2>HC 584</h2>
+<p>On the 3rd of September, the Home Office announced a Statement of Changes (HC 584), within which were plans to reform Section 3C of the Immigration Act 1971. This was passed &lsquo;to combat abuse of the fee waiver process&rsquo; and the biometrics process, both of which involve the switching of a human-rights-based application to a non-HR-based application with the intention of extending lawful stay, often to fulfil Indefinite Leave to Remain (ILR) requirements.</p>
+
+<h2>Application Swapping</h2>
+<p>&ldquo;Application swapping&rdquo; in UK immigration involves initiating one application on an undesired visa, only to later reapply for the correct visa once over a certain time threshold, such as to meet an upcoming 5-year requirement for ILR. Despite the recent HC 584 decision, application swapping is by no means illegal or deceitful. Applying for leave under one application avenue, then swapping once eligible for a more ideal one, is entirely fair.</p>
+<p>However, the Home Office has deemed two specific practices of application swapping to be unfair in how they utilise the systems of the Home Office against it to extend a stay unlawfully. In the recent amendments, paragraphs 34G(4) and 34BB(2A) of the Rules set clear restrictions to Section 3C on fee waivers and biometrics respectively.</p>
+
+<h2>Fee Waivers</h2>
+<p>Until now, an applicant could request a fee waiver for one type of application, most commonly a HR-based application, and then go on to submit an entirely different, non-HR application instead. Because Section 3C leave and continuity of stay could be tied back to the date of the original fee waiver request, this let applicants use a free, no-cost request as a placeholder. This bought time to reach a qualifying threshold, such as 10 years&rsquo; continuous residence for ILR, before switching to the application route they had intended to use all along.</p>
+<p>The amendment to paragraph 34G(4), together with a new paragraph 34G(5), closes this off. From 8th October 2026, the date of application will only be backdated to the fee waiver request where the application that follows is for the same route named in that request, and is submitted either within 10 working days of the fee waiver decision, or as a paid application before that decision is received. Where an applicant requests a fee waiver for one route but then applies on a different route, the date of application is instead treated as the date that later application was actually made, not the earlier date of the fee waiver request.</p>
+<p>This makes fee waiver application swaps highly risky. Anyone who switches routes after a fee waiver request may be found to have a gap between the expiry of their previous leave and the date of their new application, breaking continuity of lawful residence and, in some cases, meaning the applicant has technically become an overstayer without realising it.</p>
+
+<h2>Biometrics</h2>
+<p>The new paragraph 34BB(2A) writes into the Immigration Rules something that was never properly implemented from the Immigration (Biometric Registration) Regulations 2008, that there is a single, fixed enrolment period for biometrics, no matter how many times the application is later varied.</p>
+<p>The old method of using biometric checks to extend lawful stay was as follows. An applicant submits an HR-based application but does not enrol their biometrics, since the Home Office cannot move to a decision until this is done. Then they vary the application, sometimes several times over, on the basis that each variation resets the biometrics deadline. In practice, biometrics are often never enrolled at all, and the repeated variations are what keep the applicant&rsquo;s Section 3C leave active.</p>
+<p>From 8th October 2026, that will not work. Where an application is varied, the applicant must still enrol their biometrics within the period originally set for the first application for the variation to be valid. If applicants miss that original deadline, then the variation itself will be invalid. Further, if biometrics were never enrolled at all, the underlying application can fail too, bringing an end to the applicant&rsquo;s Section 3C leave and lawful status along with it.</p>
+
+<h2>How Taylor Hampton Can Help</h2>
+<p>The new rules could have serious consequences for those relying on fee waivers, pending biometrics or application variations, particularly applicants working towards ILR. Our immigration team can assess your position, advise on the correct timing and route, check whether your continuous residence is protected, and respond quickly to any refusal or loss of status. If you are approaching ILR, considering a fee waiver or planning to vary an application, we recommend taking advice before the changes take effect on 8 October 2026.</p>
+<p>If you would like assistance with any outstanding applications, please get in touch with our team for an initial consultation. Contact Leena Chouhan on +44 203 143 0322 or email <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a>.</p>
+
+<p><em>Disclaimer: This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.</em></p>`,
+  },
     {
     id: 124,
     title: "Film & TV UK Global Talent Visa Requirements",
