@@ -1,4 +1,45 @@
 export const ARTICLES = [
+    {
+    id: 126,
+    title: "Care Providers Under Fire: Could a Compliance Failure Cost You Your Sponsor Licence?",
+    author: "Leena Chouhan",
+    date: "2026-09-29",
+    excerpt: "The Home Office is increasing enforcement against care providers sponsoring overseas workers. Leena Chouhan explains why a reporting failure is not necessarily the same as unlawful underpayment, and what care providers should do now to protect their sponsor licence.",
+    category: "Business Immigration",
+    slug: "care-providers-under-fire-could-a-compliance-failure-cost-you-your-sponsor-licence",
+    content: `<p>The Home Office is increasing enforcement against care providers sponsoring overseas workers.</p>
+<p>But does every compliance failure indicate exploitation? And could an administrative mistake put your business, workforce, and sponsor licence at risk?</p>
+<p>The stakes are high. A discrepancy between HMRC payroll data and the salary recorded on a Certificate of Sponsorship does not necessarily mean unlawful underpayment. A worker may have received less during a particular pay period because of permitted unpaid leave or another legitimate change in circumstances.</p>
+<p>The risk arises when an employer fails to report the change or cannot produce adequate records explaining it. What begins as an administrative issue can quickly become a sponsor licence investigation.</p>
+<p>The High Court&rsquo;s decision in <em>Moon Fish Ltd v Secretary of State for the Home Department</em> [2026] EWHC 2289 (Admin) brings this distinction into sharp focus.</p>
+<p>The court rejected the Home Office&rsquo;s interpretation that any payment below the headline annual salary on a Certificate of Sponsorship automatically amounts to a change in salary under Annex C1(aa).</p>
+<p>Lawful unpaid leave does not necessarily change a worker&rsquo;s annual salary. A failure to report it may instead amount to a reporting breach, potentially falling within the Home Office&rsquo;s discretionary enforcement powers rather than the mandatory revocation provision.</p>
+<p>This is an important distinction: a reporting failure is not necessarily the same as unlawful underpayment.</p>
+<p>Sponsors must still comply with their reporting obligations and maintain accurate records.</p>
+<h2>The Consequences of Losing a Sponsor Licence</h2>
+<p>The consequences of losing a sponsor licence can extend well beyond the business. Sponsored workers may have their immigration permission shortened and face a limited period to find alternative sponsored employment or another immigration route. Care providers may lose experienced staff, disrupt services, and face significant operational pressures.</p>
+<p>In <em>Prestwick Care Ltd &amp; Ors v Secretary of State for the Home Department</em> [2025] EWCA Civ 184, the Court of Appeal confirmed that the Home Office is not generally required to assess the wider impact of revocation where a mandatory ground has been established.</p>
+<p>Employers should therefore not assume that the effect on their business, workforce or service users will prevent revocation.</p>
+<h2>How Care Providers Should Review Their Systems</h2>
+<p>Care providers should review their systems now by:</p>
+<ul>
+<li>Checking and maintaining right to work records</li>
+<li>Reconciling payroll with Certificates of Sponsorship</li>
+<li>Reporting relevant employment changes on time</li>
+<li>Recording and assessing unpaid leave and absences carefully</li>
+<li>Ensuring sponsored workers remain in their sponsored roles</li>
+<li>Allocating clear responsibility for sponsor compliance</li>
+<li>Carrying out regular internal audits</li>
+</ul>
+<p>Small errors can have serious consequences if left unresolved.</p>
+<p>Protecting overseas care workers from exploitation is essential. However, enforcement must distinguish deliberate abuse from other compliance failures and apply the correct legal provisions.</p>
+<p>For care providers, the message is simple: know your obligations. Keep your records in order. Act before a compliance issue becomes a licence crisis.</p>
+<h2>How Taylor Hampton Immigration Can Help</h2>
+<p>At Taylor Hampton Immigration, we advise employers and sponsors on sponsor licence compliance, Home Office investigations, and immigration risk.</p>
+<p>If you have received a Home Office information request, compliance letter or proposed revocation decision, early legal advice can make a critical difference.</p>
+<p>To speak with Leena Chouhan, Head of Immigration, please contact <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a> or call +44 203 143 0322.</p>
+<p><em>Disclaimer: This article is intended to provide general information only and should not be relied upon as legal advice. The law and procedural rules may change, and specific advice should always be obtained based on the facts of your individual case.</em></p>`,
+  },
 {
     id: 125,
     title: "Immigration Changes to Section 3C &ndash; Limits to Application Swapping",
