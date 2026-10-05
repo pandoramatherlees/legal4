@@ -1,7 +1,7 @@
 export const ARTICLES = [
-    {
+   {
   id: 127,
-  title: "UK Visa Advice: Leena Chouhan&rsquo;s Guide for Applicants",
+  title: "UK Visa Advice: Leena Chouhan’s Guide for Applicants",
   author: "Leena Chouhan",
   date: "2026-10-05",
   excerpt: "Applying for a UK visa can be complicated, and the right route depends on your circumstances, your plans and the evidence you can provide. Leena Chouhan, Head of Immigration at Taylor Hampton Solicitors, explains why getting the right advice at the outset can make all the difference.",
