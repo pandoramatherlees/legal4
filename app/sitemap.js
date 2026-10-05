@@ -46,5 +46,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/film-and-tv-uk-global-talent-visa-requirements`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/immigration-changes-to-section-3c-limits-to-application-swapping`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/care-providers-under-fire-could-a-compliance-failure-cost-you-your-sponsor-licence`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/uk-visa-advice-leena-chouhan-guide-for-applicants`, lastModified: new Date() },
   ];
 }
