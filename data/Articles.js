@@ -1,5 +1,53 @@
 export const ARTICLES = [
    {
+  id: 128,
+  title: "UK Immigration Salary List and Temporary Shortage List: What Employers Need to Know in 2026",
+  author: "Leena Chouhan",
+  date: "2026-10-13",
+  excerpt: "The Immigration Salary List and the Temporary Shortage List both offer routes for sponsoring workers in eligible occupations, but they work very differently. Leena Chouhan, Head of Immigration at Taylor Hampton Solicitors, explains what employers and Skilled Worker visa applicants need to know in 2026.",
+  category: "Immigration",
+  slug: "uk-immigration-salary-list-and-temporary-shortage-list-what-employers-need-to-know-in-2026",
+  content: `<p>The UK&rsquo;s immigration rules continue to change for visa applicants. So too, for employers seeking to recruit international talent. Therefore, understanding the Immigration Salary List (ISL) and Temporary Shortage List (TSL) is essential. Both lists provide routes for sponsoring workers in eligible occupations. However, they serve different purposes and operate under different conditions.</p>
+<p>With changes to occupation eligibility, salary thresholds and dependant rights, employers should review their recruitment plans carefully. This article explains how the two lists work and what businesses and prospective Skilled Worker visa applicants should consider in 2026.</p>
+<h2>What is the Immigration Salary List?</h2>
+<p>The Immigration Salary List was introduced on 4 April 2024, replacing the former Shortage Occupation List. As such, it identifies those selected occupations that qualify for a reduced general salary threshold under the Skilled Worker and relevant Health and Care Worker visa arrangements.</p>
+<p>The list is narrower than its predecessor. Consequently, the purpose is to provide limited flexibility where the UK Government considers that overseas recruitment remains appropriate to address labour shortages.</p>
+<p>For eligible Skilled Worker applicants, the ISL can reduce the general salary threshold by 20%. However, this does not automatically reduce the occupation&rsquo;s going rate by 20%. Be warned, applicants must still satisfy the applicable occupation-specific salary requirements and all other visa criteria.</p>
+<p>Employers should also check the relevant geographical entry because eligibility can differ between England, Scotland, Wales and Northern Ireland.</p>
+<p>The official Immigration Salary List sets out the eligible occupations and their removal dates.</p>
+<h2>Why is the Immigration Salary List changing?</h2>
+<p>The government reviews shortage occupations as labour market conditions and immigration policy change. An occupation may be removed where recruitment pressures ease, domestic recruitment becomes more effective or the government concludes that sponsored migration is no longer an appropriate response.</p>
+<p>The current list includes occupations with removal dates of 31 December 2026. These dates are particularly important for employers planning recruitment towards the end of the year.</p>
+<p>Employers should not assume that an occupation will stay eligible indefinitely. Indeed, they should check the relevant occupation code and the applicable rules before assigning a Certificate of Sponsorship (CoS).</p>
+<h2>What is the Temporary Shortage List?</h2>
+<p>The Temporary Shortage List was introduced on 22 July 2025 as part of wider UK visa and immigration reforms. Specifically, the list provides a time-limited route for sponsoring certain medium-skilled occupations, generally at Regulated Qualifications Framework (RQF) levels 3 to 5.</p>
+<p>Following the increase in the general skill threshold for the Skilled Worker route, many occupations below degree level ceased to qualify under the standard rules. Now therefore, the TSL allows specified occupations to remain eligible for sponsorship on a temporary basis.</p>
+<p>However, the TSL does not ordinarily provide a salary discount. Workers must meet the applicable Skilled Worker salary requirements, including the relevant general threshold and occupation-specific going rate. The precise requirements depend on the occupation and any applicable transitional or salary provisions.</p>
+<p>The government&rsquo;s current rules require the relevant Certificate of Sponsorship for a TSL occupation to have been issued before 31 December 2026 for the occupation to qualify under the present listing arrangements. Employers should therefore check the rules carefully before making recruitment commitments.</p>
+<p>For the latest information, consult the official Temporary Shortage List or ask your immigration advisor about whether you are eligible or not.</p>
+<h2>ISL versus TSL: the key differences</h2>
+<p>Although both lists support recruitment in selected occupations, their benefits differ.</p>
+<p>The ISL offers a reduced general salary limit for eligible roles, subject to the applicable occupation-specific requirements. On the other hand, the TSL allows certain medium-skilled occupations to qualify for sponsorship despite the higher general skill threshold, but it does not itself provide a salary discount.</p>
+<p>An occupation may therefore be eligible for sponsorship under one list without receiving the benefits associated with the other.</p>
+<p>Do note that this distinction matters when calculating salary budgets, assessing eligibility and deciding whether a proposed role can support a Skilled Worker visa application.</p>
+<h2>Can workers bring dependants?</h2>
+<p>Dependant eligibility is another important consideration. Under the restrictions introduced in July 2025, new Skilled Worker applicants sponsored in affected medium-skilled occupations at RQF levels 3 to 5 generally cannot bring dependants, subject to the applicable exceptions.</p>
+<p>These restrictions do not apply in the same way to eligible graduate-level occupations at RQF level 6 or above. Transitional arrangements may also protect certain workers who were already on the Skilled Worker route before the relevant changes took effect.</p>
+<p>Employers should not assume that every sponsored worker can bring a partner or children to the UK. Applicants should establish their position before accepting a role or making relocation plans.</p>
+<h2>What should employers do now?</h2>
+<p>Employers should take four practical steps.</p>
+<p>First, confirm the correct occupation code. Job titles alone do not establish eligibility, and the actual duties must match the relevant occupation classification.</p>
+<p>Second, review the current ISL or TSL entry, including any geographical restrictions and removal dates.</p>
+<p>Third, calculate the salary requirements accurately. This means checking the applicable general threshold, occupation-specific going rate and any permitted salary concessions.</p>
+<p>Finally, review the timing of sponsorship. To note that a role that qualifies today may not remain eligible when recruitment takes place later in the year. Yes, employers should also consider how changes could affect future extensions and settlement applications.</p>
+<p>Workers may be granted permission for up to five years, depending on their application and sponsorship. However, the continued availability of an occupation on a shortage list should not be confused with a guarantee of future visa extensions or settlement. Each application must satisfy the rules that apply at the relevant time. This is why a trained and expert solicitor should be consulted prior to making a decision and to help you through the quagmire of the application requirements.</p>
+<h2>How Taylor Hampton Solicitors can help</h2>
+<p>The ISL and TSL form part of a wider and frequently changing UK immigration framework. Employers must balance recruitment needs with sponsorship compliance, salary requirements and the rights of prospective employees.</p>
+<p>At Taylor Hampton Solicitors, our immigration team advises employers and individuals on UK visa eligibility, Skilled Worker sponsorship and wider immigration matters. We can help you assess the appropriate route, identify potential compliance issues and understand the implications of changing Immigration Rules.</p>
+<p>Contact Leena Chouhan at <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a> or call +44 203 143 0322 to discuss your circumstances.</p>
+<p><em>Disclaimer: This article provides general information about UK immigration rules as at October 2026. It does not constitute legal advice and should not be relied upon as a substitute for advice on individual circumstances. Immigration Rules and government guidance may change. Employers and applicants should check the latest official guidance or obtain professional advice before making decisions about sponsorship or visa applications.</em></p>`,
+},
+   {
   id: 127,
   title: "UK Visa Advice: Leena Chouhan’s Guide for Applicants",
   author: "Leena Chouhan",
