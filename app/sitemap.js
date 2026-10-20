@@ -48,5 +48,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/care-providers-under-fire-could-a-compliance-failure-cost-you-your-sponsor-licence`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/uk-visa-advice-leena-chouhan-guide-for-applicants`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/uk-immigration-salary-list-and-temporary-shortage-list-what-employers-need-to-know-in-2026`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/uk-investor-visa-2026-is-there-a-new-route-for-wealthy-applicants`, lastModified: new Date() },
   ];
 }
