@@ -51,5 +51,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/uk-investor-visa-2026-is-there-a-new-route-for-wealthy-applicants`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/missing-evidence-uk-immigration-applications-evidential-flexibility`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/uk-immigration-rules-update-shabana-mahmood-review-resulting-from-cabinet-backlash`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/uk-earned-settlement-reforms-spark-backlash-migrant-refugee-organisations`, lastModified: new Date() },
   ];
 }
