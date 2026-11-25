@@ -1,5 +1,54 @@
 export const ARTICLES = [
     {
+    id: 133,
+    title: "Earned Settlement Reforms: Skilled Worker Justice Alliance Prepares for Potential Judicial Review",
+    author: "Leena Chouhan",
+    date: "2026-11-25",
+    excerpt: "The Skilled Worker Justice Alliance is preparing for a potential judicial review of the proposed earned settlement reforms, which could apply a ten-year qualifying period to Skilled Worker visa holders already in the UK. Leena Chouhan explains the legal issues under consideration and what this means for settlement planning.",
+    category: "Immigration Law",
+    slug: "earned-settlement-reforms-skilled-worker-justice-alliance-judicial-review",
+    content: `<p>Concerns grow over proposed changes to the UK&rsquo;s Indefinite Leave to Remain rules as campaigners seek legal protection for existing Skilled Worker visa holders.</p>
+<p>The Government&rsquo;s proposed changes to the UK&rsquo;s Indefinite Leave to Remain (ILR) framework are facing growing scrutiny, with the Skilled Worker Justice Alliance (SWJA) announcing that it is advancing preparations for a potential judicial review of the proposed earned settlement reforms.</p>
+<p>The organisation is challenging the prospect of applying the new settlement requirements retrospectively to Skilled Worker visa holders and their dependants who are already living in the UK and have made significant personal, professional and financial commitments based on the existing five-year route to settlement.</p>
+<p>The announcement comes following the Home Secretary&rsquo;s confirmation of the Government&rsquo;s earned settlement proposals, which would introduce a new standard ten-year qualifying period for most individuals who have not yet obtained ILR. The reforms are expected to be introduced progressively during 2027.</p>
+<h2><strong>Why Are the Proposed Settlement Changes Causing Concern?</strong></h2>
+<p>Under the existing framework, eligible Skilled Worker visa holders have generally been able to apply for ILR after completing five years of qualifying residence, provided they satisfy the relevant immigration, employment and salary requirements.</p>
+<p>For many individuals and families, this five-year pathway has provided a degree of certainty when making long-term decisions about their lives in the UK.</p>
+<p>People have accepted employment opportunities, relocated their families, entered into financial commitments, purchased homes and made arrangements for their children&rsquo;s education on the understanding that they could potentially qualify for settlement after five years.</p>
+<p>The proposed reforms have therefore raised important questions about fairness, legal certainty and the extent to which the Government can change immigration requirements for individuals already following an established route to settlement.</p>
+<p>SWJA has clarified that it does not oppose the Government&rsquo;s ability to introduce prospective immigration reforms. Its principal objection concerns the potential retrospective application of the new requirements to people who have already made life-changing decisions in reliance on the previously published five-year framework.</p>
+<h2><strong>Potential Judicial Review: What Legal Issues Are Being Considered?</strong></h2>
+<p>Having undertaken policy research, parliamentary engagement and public advocacy, SWJA says it has not secured the transitional protections it has been seeking.</p>
+<p>It is therefore taking steps to obtain independent preliminary legal advice regarding a potential judicial review.</p>
+<p>The principal legal issues currently under consideration include:</p>
+<ul>
+<li><strong>Substantive retrospectivity:</strong> Whether applying the new requirements to people already on the Skilled Worker route would amount to an unfair retrospective change.</li>
+<li><strong>Legitimate expectation:</strong> Whether individuals who entered the route under the existing rules may have a legally arguable expectation that the five-year settlement pathway would be preserved, subject to applicable requirements.</li>
+<li><strong>Procedural unfairness:</strong> Whether the Government has adequately considered the position and interests of individuals who have already relied on the existing immigration framework.</li>
+</ul>
+<p>Other public law grounds may also be considered following independent legal advice.</p>
+<p>SWJA has stressed that a decision to proceed with legal action will depend on the advice received, the available evidence, the timing and content of the Government&rsquo;s decisions and whether sufficient funding can be secured.</p>
+<h2><strong>Fundraising to Support a Potential Legal Challenge</strong></h2>
+<p>To progress its preparations, SWJA is raising funds to obtain an initial independent written opinion from a King&rsquo;s Counsel specialising in public law.</p>
+<p>Additional funding may be required for evidence gathering and further case preparation should the legal advice support proceeding with a challenge.</p>
+<p>The organisation has also indicated that it is willing to collaborate with other groups representing affected migrants where there is sufficient alignment in objectives and appropriate arrangements can be agreed.</p>
+<p>Although no judicial review has yet been confirmed, the announcement represents an important development in the ongoing debate surrounding the Government&rsquo;s proposed earned settlement reforms.</p>
+<h2><strong>What Does This Mean for Skilled Worker Visa Holders?</strong></h2>
+<p>For Skilled Worker visa holders and their dependants, the proposed changes create considerable uncertainty about future settlement eligibility.</p>
+<p>It is important to remember that the Government&rsquo;s proposals and their eventual implementation must be distinguished from the immigration rules currently in force.</p>
+<p>A potential judicial review does not automatically suspend proposed reforms, guarantee that the five-year route will be protected or establish that the Government&rsquo;s approach is unlawful.</p>
+<p>Individuals should therefore avoid making assumptions about their settlement eligibility and should seek appropriate legal advice based on their individual immigration circumstances.</p>
+<p>In particular, those approaching the five-year qualifying period should consider their current eligibility, the applicable immigration rules and any transitional arrangements that may be introduced.</p>
+<h2><strong>How Taylor Hampton Solicitors Can Help</strong></h2>
+<p>Changes to the UK&rsquo;s settlement framework can have significant consequences for individuals, families and employers. Understanding how proposed immigration reforms may affect your circumstances is essential when planning your future in the UK.</p>
+<p>At Taylor Hampton Solicitors, we recognise the importance of staying informed about developments in immigration law and understanding the potential implications of changes to settlement policy.</p>
+<p>If you are currently in the UK on a Skilled Worker visa, are a dependant of a Skilled Worker, or are concerned about how the proposed earned settlement reforms may affect your long-term plans, obtaining specialist legal guidance can help you understand your position and the options available to you.</p>
+<p>Contact Leena Chouhan at Taylor Hampton Solicitors to discuss your immigration circumstances and obtain advice on the potential impact of the proposed settlement reforms.</p>
+<p>Do not leave important immigration decisions until the last minute. Understanding your rights and current eligibility can help you make informed decisions about your future in the UK.</p>
+<p>Email: <a href="mailto:leena.chouhan@taylorhampton.co.uk">leena.chouhan@taylorhampton.co.uk</a><br />Phone: +44 203 143 0322</p>
+<p><em>Disclaimer: This article is provided for general information and educational purposes only. It reflects developments and proposals reported at the time of writing and does not constitute legal advice. The Government&rsquo;s earned settlement proposals may be subject to further changes before implementation. The potential judicial review discussed above is under preparation, and no outcome should be assumed. Nothing in this article should be interpreted as a guarantee that existing Skilled Worker visa holders or their dependants will retain the five-year settlement route. Immigration eligibility and individual circumstances should be assessed on a case-by-case basis. Readers should seek independent, specialist immigration legal advice before making decisions concerning their immigration status or settlement applications.</em></p>`,
+  },
+    {
     id: 132,
     title: "UK Earned Settlement Reforms Spark Backlash as Migrant and Refugee Organisations Warn of Decades of Uncertainty",
     author: "Leena Chouhan",
