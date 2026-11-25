@@ -52,5 +52,6 @@ export default function sitemap() {
     { url: `${baseUrl}/news-articles/missing-evidence-uk-immigration-applications-evidential-flexibility`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/uk-immigration-rules-update-shabana-mahmood-review-resulting-from-cabinet-backlash`, lastModified: new Date() },
     { url: `${baseUrl}/news-articles/uk-earned-settlement-reforms-spark-backlash-migrant-refugee-organisations`, lastModified: new Date() },
+    { url: `${baseUrl}/news-articles/earned-settlement-reforms-skilled-worker-justice-alliance-judicial-review`, lastModified: new Date() },
   ];
 }
